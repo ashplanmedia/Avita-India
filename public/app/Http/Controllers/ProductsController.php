@@ -108,11 +108,11 @@ class ProductsController extends Controller
 
 //        dd( $shops );
 
-       if ( $country == 'cn' ) {
-     return view('product.baidu_map', compact( 'product', 'shops'));
-  } else {
-return view('product.map', compact( 'product', 'shops'));
-   }
+        if ( $country == 'cn' ) {
+            return view('product.baidu_map', compact( 'product', 'shops'));
+        } else {
+            return view('product.map', compact( 'product', 'shops'));
+        }
 
 
     }

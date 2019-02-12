@@ -1,25 +1,43 @@
 <section class="top-nav-padding homepage-banner">
  <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
-
+<a href="https://www.instagram.com/p/BtpzYq0BO2D/?utm_source=ig_web_button_share_sheet">
             <div class="carousel-item active">
                 <div class="responsive-block">
-                    <div class="banner-block responsive-item">
-<a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">
+                           <div class="banner-block responsive-item">
+
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v02-en.jpg')"></div>
+                                     style="background-image: url('/images/banner/web_banner.jpg')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v02-tc.jpg')"></div>
+                                     style="background-image: url('/images/banner/web_banner.jpg')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/banner3_mob.jpeg')"></div>
-                        </a>
+                                 style="background-image: url('/images/banner/mob_banner.jpg')"></div>
+                        
                     </div>
                 </div>
             </div>
+            </a>
 
+                        <div class="carousel-item ">
+                <div class="responsive-block">
+                    <div class="banner-block responsive-item">
+
+                            @if( App::isLocale('en') )
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v0-en.jpg')"></div>
+                            @else
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v0-en.jpg')"></div>
+                            @endif
+                            <div class="banner-bg hidden-md-up"
+                                 style="background-image: url('/images/banner/mobhome2.jpg')"></div>
+                        
+                    </div>
+                </div>
+            </div>
             <div class="carousel-item ">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item  d-flex align-items-center">
@@ -55,6 +73,7 @@
             <li data-target="#home_banner" data-slide-to="0" class="active"></li>
             <li data-target="#home_banner" data-slide-to="1"></li>
             <li data-target="#home_banner" data-slide-to="2"></li>
+            <li data-target="#home_banner" data-slide-to="3"></li>
         </ol>
     </div>
 </section>

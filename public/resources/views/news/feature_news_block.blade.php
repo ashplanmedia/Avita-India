@@ -8,7 +8,7 @@
             </div>
             <figcaption class="d-flex event-caption {{ $news->status }} px-4 py-1">
                 <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i> JAN 8-11, 2019</div>
-                <div class="event-status {{ $news->status }} ml-auto">Finished</div>
+                <div class="event-status {{ $news->status }} ml-auto"> Consumer Electronics Show</div>
             </figcaption>
         </figure>
         <a class="overlay-link" href="{{ route('news.detail', $news->id) }}"></a>
@@ -24,9 +24,9 @@
             </div>
             <figcaption class="d-flex event-caption {{ $news->status }} px-4 py-1">
                 <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i> JAN 24, 2019</div>
-                <div class="event-status {{ $news->status }} ml-auto">Finished</div>
+                <div class="event-status {{ $news->status }} ml-auto"> Avita Liber | India Launch </div>
             </figcaption>
         </figure>
-        <a class="overlay-link" href="https://www.avitain.ashplanmedia.com/in/launch"></a>
+        <a class="overlay-link" href="https://www.avita-india.com/in/launch"></a>
     </div>
 </div>

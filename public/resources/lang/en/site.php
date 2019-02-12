@@ -180,9 +180,8 @@ return [
     'localization_subtitle_3'       => ' website, or choose your country/region below.',
 
     'news_title'                    => 'Events',
-    'news_media'                    => 'News and Media',
     'news_process'                  => 'On Going',
-    'news_other_event'              => 'News and Media',
+    'news_other_event'              => 'Other Event',
     'news_select_month'             => 'Choose the month',
 
     // News Status

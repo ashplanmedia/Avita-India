@@ -22,7 +22,7 @@
 
     <section class="focus-event top-nav-padding">
         <div class="container">
-            <h3 class="section-title ls-0 my-5">@lang('site.news_media')</h3>
+            <h3 class="section-title ls-0 my-5">News and Media</h3>
             <div class="row">
           <!-----
                 

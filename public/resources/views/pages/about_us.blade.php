@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="hidden-md-down aboutus-image">
-                <img src="images/background/aboutus-min.png"/>
+                <img src="/images/background/aboutus-min.png"/>
             </div>
         </div>
     </section>

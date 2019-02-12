@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="166645b6-1358-43dc-b8c3-4cd1ecc40495" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Avita-Brochure.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Avita-Brochure.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avita-himanshu.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google2649db97fe5aa8bc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/AVITA-KV_001_green_web_banners_1920x720_v02-en.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner/AVITA-KV_001_green_web_banners_1920x720_v02-en.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-config-sample.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-config-sample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/css/edit_layers.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/css/edit_layers.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/css/tipsy.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/css/tipsy.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/codemirror.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/codemirror.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/css.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/css.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/closetag.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/closetag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/foldcode.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/foldcode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/formatting.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/formatting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/javascript-hint.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/javascript-hint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/loadmode.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/loadmode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/match-highlighter.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/match-highlighter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/multiplex.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/multiplex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/overlay.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/overlay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/pig-hint.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/pig-hint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/runmode-standalone.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/runmode-standalone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/runmode.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/runmode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/searchcursor.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/searchcursor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/simple-hint.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/simple-hint.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/simple-hint.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/simple-hint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/xml-hint.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/codemirror/util/xml-hint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/edit_layers.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/edit_layers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/edit_layers_timeline.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/edit_layers_timeline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/jquery.tipsy.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/jquery.tipsy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/rev_admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/rev_admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/tinymce-shortcode-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/tinymce-shortcode-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/vc.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/assets/js/vc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/revslider-admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/revslider-admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/global-settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/global-settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/master-view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/master-view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/navigation-editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/navigation-editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/slide-editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/slide-editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/slide-overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/slide-overview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/slider-editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/slider-editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/slider-overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/slider-overview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/system/dialog-copy-move.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/system/dialog-copy-move.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/system/dialog-video.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/system/dialog-video.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/create-slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/create-slider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/edit-slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/edit-slider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slide-general-settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slide-general-settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slide-selector.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slide-selector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slide-stage.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slide-stage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slider-main-options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slider-main-options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/sliders-list.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/sliders-list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slides-list.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slides-list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slides.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/slides.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/template-selector.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/template-selector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/template-slider-selector.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/template-slider-selector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/wpml-selector.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/admin/views/templates/wpml-selector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/backup/captions-original.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/backup/captions-original.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/extension.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/extension.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/external-sources.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/external-sources.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/aq-resizer.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/aq-resizer.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/base-admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/base-admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/base-front.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/base-front.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/base.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/base.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/colorpicker.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/colorpicker.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/cssparser.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/cssparser.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/db.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/db.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/elements-base.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/elements-base.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/em-integration.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/em-integration.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/functions-wordpress.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/functions-wordpress.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/functions.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/functions.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/include-framework.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/include-framework.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/loadbalancer.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/loadbalancer.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/newsletter.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/newsletter.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/plugin-update.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/plugin-update.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/update.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/update.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/woocommerce.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/woocommerce.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/wpml.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/framework/wpml.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/globals.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/globals.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/googlefonts.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/googlefonts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/object-library.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/object-library.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/operations.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/operations.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/output.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/output.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/page-template.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/page-template.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/slide.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/slide.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/slider.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/slider.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/template.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/template.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/tinybox.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/tinybox.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/widget.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/includes/widget.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-de_DE.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-de_DE.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-en_US.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-en_US.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-fr_FR.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-fr_FR.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-hu_HU.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-hu_HU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-pl_PL.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-pl_PL.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-ru_RU.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-ru_RU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-zh_CN.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider-zh_CN.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider.pot" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/languages/revslider.pot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/css/settings-source.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/css/settings-source.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/css/settings.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/css/settings.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/css/tp-color-picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/css/tp-color-picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/css/helper.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/css/helper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.actions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.actions.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.kenburn.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.kenburn.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.migration.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.migration.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.navigation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.navigation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.parallax.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.parallax.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.video.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.video.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/tp-color-picker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/assets/js/tp-color-picker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/revslider-front.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/revslider-front.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/views/revslider-page-template.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/public/views/revslider-page-template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/release_log.html" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/release_log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/revslider.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/revslider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/uninstall.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/revslider/uninstall.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/addable-box/class-fw-option-type-addable-box.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/addable-box/class-fw-option-type-addable-box.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/addable-box/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/addable-box/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/addable-box/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/addable-box/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/addable-option/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/addable-option/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/addable-option/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/addable-option/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/radio-text/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/radio-text/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/radio-text/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/includes/option-types/radio-text/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/static/css/backend-options.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/unyson/framework/static/css/backend-options.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/woocommerce/assets/images/icons/loader.svg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/woocommerce/assets/images/icons/loader.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/plugins/woocommerce/assets/images/woocommerce_logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/plugins/woocommerce/assets/images/woocommerce_logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/changelog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/changelog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/admin/revslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/admin/revslider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/admin/theme-options-editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/admin/theme-options-editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/lightcase.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/lightcase.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/shortcodes.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/shortcodes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/simple-line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/simple-line-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/slick.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/css/slick.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/fonts/Simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/fonts/Simple-Line-Icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/forms/extensions/contact-forms/shortcodes/contact-form/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/forms/extensions/contact-forms/shortcodes/contact-form/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/forms/extensions/contact-forms/static/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/forms/extensions/contact-forms/static/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/portfolio/views/archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/portfolio/views/archive.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/portfolio/views/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/portfolio/views/single.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/accordion/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/accordion/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/accordion/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/accordion/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/button/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/button/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/button/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/button/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/column/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/column/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/column/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/column/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/counter/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/counter/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/counter/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/counter/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/counter/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/counter/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/heading-animation/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/heading-animation/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/heading-simple/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/heading-simple/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/heading/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/heading/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/icon-box-slider/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/icon-box-slider/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/icon-box-slider/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/icon-box-slider/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/icon-box/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/icon-box/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/icon-box/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/icon-box/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/image-points/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/image-points/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/image-points/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/image-points/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio-fancy/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio-fancy/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio-fancy/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio-fancy/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio-fancy/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio-fancy/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio-fancy/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio-fancy/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/portfolio/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/progress-bar/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/progress-bar/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/section/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/section/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/section/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/section/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/tabs/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/tabs/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/woocommerce-recent-products/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/woocommerce-recent-products/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/woocommerce-recent-products/views/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/extensions/shortcodes/shortcodes/woocommerce-recent-products/views/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/documentation.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/documentation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/posts/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/posts/page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/support.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/support.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/woocommerce.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/framework-customizations/theme/options/woocommerce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/demo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/headers/header-10.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/headers/header-10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/headers/header-7.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/headers/header-7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/headers/header-8.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/headers/header-8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/headers/header-9.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/headers/header-9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/headers/header-mobile.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/headers/header-mobile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/helpers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/hooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/hooks.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/css/edit_layers.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/css/edit_layers.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/css/tipsy.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/css/tipsy.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/codemirror.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/codemirror.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/css.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/css.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/closetag.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/closetag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/foldcode.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/foldcode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/formatting.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/formatting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/javascript-hint.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/javascript-hint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/loadmode.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/loadmode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/match-highlighter.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/match-highlighter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/multiplex.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/multiplex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/overlay.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/overlay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/pig-hint.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/pig-hint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/runmode-standalone.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/runmode-standalone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/runmode.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/runmode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/searchcursor.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/searchcursor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/simple-hint.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/simple-hint.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/simple-hint.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/simple-hint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/xml-hint.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/codemirror/util/xml-hint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/edit_layers.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/edit_layers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/edit_layers_timeline.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/edit_layers_timeline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/jquery.tipsy.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/jquery.tipsy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/rev_admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/rev_admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/tinymce-shortcode-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/tinymce-shortcode-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/vc.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/assets/js/vc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/revslider-admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/revslider-admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/global-settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/global-settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/master-view.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/master-view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/navigation-editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/navigation-editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/slide-editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/slide-editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/slide-overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/slide-overview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/slider-editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/slider-editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/slider-overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/slider-overview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/system/dialog-copy-move.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/system/dialog-copy-move.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/system/dialog-video.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/system/dialog-video.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/create-slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/create-slider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/edit-slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/edit-slider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slide-general-settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slide-general-settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slide-selector.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slide-selector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slide-stage.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slide-stage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slider-main-options.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slider-main-options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/sliders-list.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/sliders-list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slides-list.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slides-list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slides.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/slides.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/template-selector.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/template-selector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/template-slider-selector.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/template-slider-selector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/wpml-selector.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/admin/views/templates/wpml-selector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/backup/captions-original.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/backup/captions-original.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/extension.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/extension.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/external-sources.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/external-sources.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/aq-resizer.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/aq-resizer.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/base-admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/base-admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/base-front.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/base-front.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/base.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/base.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/colorpicker.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/colorpicker.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/cssparser.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/cssparser.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/db.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/db.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/elements-base.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/elements-base.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/em-integration.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/em-integration.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/functions-wordpress.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/functions-wordpress.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/functions.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/functions.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/include-framework.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/include-framework.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/loadbalancer.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/loadbalancer.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/newsletter.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/newsletter.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/plugin-update.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/plugin-update.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/update.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/update.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/woocommerce.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/woocommerce.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/wpml.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/framework/wpml.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/globals.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/globals.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/googlefonts.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/googlefonts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/object-library.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/object-library.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/operations.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/operations.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/output.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/output.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/page-template.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/page-template.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/slide.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/slide.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/slider.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/slider.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/template.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/template.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/tinybox.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/tinybox.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/widget.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/includes/widget.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-de_DE.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-de_DE.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-en_US.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-en_US.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-fr_FR.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-fr_FR.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-hu_HU.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-hu_HU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-pl_PL.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-pl_PL.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-ru_RU.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-ru_RU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-zh_CN.po" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider-zh_CN.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider.pot" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/languages/revslider.pot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/css/settings-source.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/css/settings-source.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/css/settings.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/css/settings.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/css/tp-color-picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/css/tp-color-picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/css/helper.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/css/helper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.actions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.actions.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.kenburn.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.kenburn.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.migration.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.migration.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.navigation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.navigation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.parallax.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.parallax.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.video.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/extensions/revolution.extension.video.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/tp-color-picker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/assets/js/tp-color-picker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/revslider-front.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/revslider-front.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/views/revslider-page-template.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/public/views/revslider-page-template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/release_log.html" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/release_log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/revslider.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/revslider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/uninstall.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/revslider/uninstall.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/voce-cached-nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/plugins/voce-cached-nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/presets.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/presets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/templates/copyrights.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/templates/copyrights.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/templates/render-css.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/templates/render-css.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/templates/titlebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/templates/titlebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/widgets/contacts/class-widget-contacts.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/widgets/contacts/class-widget-contacts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/widgets/image/class-widget-image.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/widgets/image/class-widget-image.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/widgets/image/views/widget.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/widgets/image/views/widget.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/widgets/portfolio/class-widget-portfolio.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/widgets/portfolio/class-widget-portfolio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/widgets/recent-posts/class-widget-recent-posts.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/inc/widgets/recent-posts/class-widget-recent-posts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/js/lightcase.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/js/lightcase.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/js/slick.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/js/slick.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/js/typed.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/js/typed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/languages/jevelin.pot" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/languages/jevelin.pot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/page-blog.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/page-blog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/page-vc.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/page-vc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce/cart/cart-empty.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce/cart/cart-empty.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce/cart/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce/cart/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce/single-product/product-image.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce/single-product/product-image.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce/single-product/product-thumbnails.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce/single-product/product-thumbnails.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce/single-product/rating.php" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/themes/jevelin/woocommerce/single-product/rating.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_Img_1-100x100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_Img_1-100x100.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_Img_1-660x420.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_Img_1-660x420.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1-1200x675.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1-1200x675.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1-150x150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1-150x150.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1-300x300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1-300x300.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1-420x660.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1-420x660.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1-660x660.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1-660x660.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-content/uploads/2016/05/Home_11_img_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-includes/images/crystal/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-includes/images/crystal/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prebook/wp-includes/js/codemirror/csslint.js" beforeDir="false" afterPath="$PROJECT_DIR$/prebook/wp-includes/js/codemirror/csslint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app/Http/Controllers/ProductsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/app/Http/Controllers/ProductsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app/Mail/Welcome.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/app/Mail/Welcome.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/lang/en/site.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/lang/en/site.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/global.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/global.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/news/feature_news_block.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/news/feature_news_block.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/news/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/news/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/pages/about_us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/pages/about_us.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/pages/support.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/pages/support.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/partials/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/partials/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/partials/header test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/partials/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/public/composer.json</pharConfigPath>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/public/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/public/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/public/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/public/vendor/league/oauth1-client" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/public/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/public/vendor/silber/bouncer" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/public/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/public/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/public/vendor/phpoffice/phpexcel" />
+      <path value="$PROJECT_DIR$/public/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/public/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/public/vendor/laravel/socialite" />
+      <path value="$PROJECT_DIR$/public/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/public/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/public/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/public/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/public/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/public/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/public/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/public/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/public/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/public/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/public/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/public/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/public/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/public/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/public/vendor/dimsav/laravel-translatable" />
+      <path value="$PROJECT_DIR$/public/vendor/torann/geoip" />
+      <path value="$PROJECT_DIR$/public/vendor/composer" />
+      <path value="$PROJECT_DIR$/public/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/public/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/public/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/public/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/public/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/public/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/public/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/public/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/public/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/public/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/public/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/public/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/public/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/public/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/public/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/public/vendor/laracasts/presenter" />
+      <path value="$PROJECT_DIR$/public/vendor/farhanwazir/laravelgooglemaps" />
+      <path value="$PROJECT_DIR$/public/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/public/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/public/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/public/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/public/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/public/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/public/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/public/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/public/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/public/vendor/vinkla/alert" />
+      <path value="$PROJECT_DIR$/public/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/public/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/public/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/public/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/public/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/public/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/public/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/public/vendor/lavary/laravel-menu" />
+      <path value="$PROJECT_DIR$/public/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/public/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/public/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/public/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/public/vendor/jeroennoten/laravel-adminlte" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/public/vendor/watson/bootstrap-form" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/public/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/public/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/public/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/public/vendor/jakub-onderka/php-console-color" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="47" />
+    <option name="width" value="1161" />
+    <option name="height" value="636" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="avita-india.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avita-india.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="166645b6-1358-43dc-b8c3-4cd1ecc40495" name="Default Changelist" comment="" />
+      <created>1549954058752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549954058752</updated>
+      <workItem from="1549954060491" duration="3922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3922000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22186752" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.39087948" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

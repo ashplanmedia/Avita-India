@@ -6,7 +6,7 @@
         <div class="navbar-toggler navbar-toggler-left hidden-md-up">
             <span></span>
         </div>
-        <a class="navbar-brand mr-0 hidden-md-up" href="http://avitain.ashplanmedia.com/">
+        <a class="navbar-brand mr-0 hidden-md-up" href="http://avita-india.com/in">
             <img src="/images/logo.png"/>
         </a>
 
@@ -32,7 +32,7 @@
         <div class="navbar-collapse">
             <ul class="navbar-nav mr-auto d-md-flex flex-md-row align-items-md-center justify-content-md-between">
                 <li class="hidden-sm-down">
-                    <a class="" href="http://avitain.ashplanmedia.com/"><img src="/images/logo.png"/></a>
+                    <a class="" href="http://avita-india.com/in"><img src="/images/logo.png"/></a>
                 </li>
                 <li class="nav-item has-dropdown">
                     <input id="header_product" type="checkbox" hidden="">
@@ -88,22 +88,24 @@
                             
                             <li class="nav-item has-dropdown">
                                 <input id="header_product_device" type="checkbox" hidden="">
-                                <a class="nav-link px-md-4"><label for="header_product_device" class="d-block mb-0">@lang('site.accessories')</label></a>
+                                <a class="nav-link px-md-4 py-2"><label for="header_product_device" class="d-block mb-0">@lang('site.accessories')</label></a>
                                 <div class="dropdown">
                                     <ul class="list-unstyled">
                                  
                                <li class="nav-item">
-                              <a class="nav-link px-md-4 py-2" href="http://avitain.ashplanmedia.com/in/accessories/mouse">@lang('site.mouse')</a>
+                             
+                              <a class="nav-link px-md-4 py-2" href="http://avita-india.com/in/accessories/mouse">@lang('site.mouse')</a>
                                     </li>
                         
                                     </ul>
                                 </div>
                             </li>
 
-                           </ul>
+                        </ul>
                     </div>
-
+              
                 </li>
+            
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('news') }}">@lang('site.news')</a>
                 </li>
@@ -139,7 +141,7 @@
                           <a class="nav-link px-md-4 py-2" href="https://www.amazon.in/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=avita">Amazon</a>
                           </li>
                           <li class="nav-item">
-                          <a class="nav-link px-md-4 py-2" href="">Flipkart</a>
+                          <a class="nav-link px-md-4 py-2" href="https://www.flipkart.com/search?q=avita+laptops&otracker=search&otracker1=search&marketplace=FLIPKART">Flipkart</a>
                           </li>
                           <li class="nav-item">
                           <a class="nav-link px-md-4 py-2" href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">Paytm Mall</a>
@@ -151,6 +153,9 @@
                                     </ul>
                                 </div>
                             </li>
+                                  <li class="nav-item">
+                    <a class="nav-link" href="/blog">Blog</a>
+                </li>
             </ul>
         </div>
 

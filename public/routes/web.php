@@ -13,6 +13,8 @@
 
 Route::get('/', 'HomeController@redirectToHome');
 
+Route::get('/blog', 'HomeController@blog');
+
 //sitemap
 
 Route::get('/sitemap.xml',function(){
@@ -39,9 +41,9 @@ Route::get('/entry', function (){
       });
       
       
-Route::get('/aboutus', 'HomeController@getAboutUs');
+Route::get('/in/aboutus', 'HomeController@getAboutUs');
 Route::get('/contact_us', 'HomeController@getContact_us');
-Route::get('/tnc', 'HomeController@getTerms');
+Route::get('/in/tnc', 'HomeController@getTerms');
 
 // Route::get('/imago', 'HomeController@getImago')->name('imago');
 // Route::get('/imago/spec', 'HomeController@getImagoSpec')->name('imago.spec');

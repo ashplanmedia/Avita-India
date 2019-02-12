@@ -50,7 +50,7 @@
                         <a href="https://www.avita.com/id" class="pl-5 py-2">Bahasa Indonesia</a>
                     </li>
                     <li class="list-inline-item p-1 mr-0">
-                        <a href="avitain.ashplanmedia.com" class="pl-5 py-2">India</a>
+                        <a href="/" class="pl-5 py-2">India</a>
                     </li>
                     <li class="list-inline-item p-1 mr-0">
                         <a href="https://www.avita.com/ph" class="pl-5 py-2">Philippines</a>
