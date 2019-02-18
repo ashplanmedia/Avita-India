@@ -1,41 +1,47 @@
 <section class="top-nav-padding homepage-banner">
- <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
+    <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
-<a href="https://www.instagram.com/p/BtpzYq0BO2D/?utm_source=ig_web_button_share_sheet">
+
             <div class="carousel-item active">
                 <div class="responsive-block">
-                           <div class="banner-block responsive-item">
+                    <a href="http://buynow.avita-india.com/">
+                        <div class="banner-block responsive-item">
 
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/web_banner.jpg')"></div>
+                                     style="background-image: url('/images/banner/web_banner.png')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/web_banner.jpg')"></div>
+                                     style="background-image: url('/images/banner/web_banner.png')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/mob_banner.jpg')"></div>
-                        
-                    </div>
+                                 style="background-image: url('/images/banner/mob_banner.png')"></div>
+
+                        </div>
+                    </a>
                 </div>
             </div>
-            </a>
 
-                        <div class="carousel-item ">
+
+            <div class="carousel-item ">
                 <div class="responsive-block">
-                    <div class="banner-block responsive-item">
+
+                    <a href="http://buynow.avita-india.com/">
+                        <div class="banner-block responsive-item">
+
 
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v0-en.jpg')"></div>
+                                     style="background-image: url('/images/banner/website_banner.png')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v0-en.jpg')"></div>
+                                     style="background-image: url('/images/banner/website_banner.png')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/mobhome2.jpg')"></div>
-                        
-                    </div>
+                                 style="background-image: url('/images/banner/mobile_banner.png')"></div>
+
+                        </div>
+                    </a>
                 </div>
             </div>
             <div class="carousel-item ">
