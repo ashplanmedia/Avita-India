@@ -28,7 +28,13 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images/banner/web_banner.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -147,8 +153,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="avita-india.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avita-india.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avita-india.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avita-india.com" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avita-india.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avita-india.com" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="banner" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,16 +208,17 @@
       <updated>1549954058752</updated>
       <workItem from="1549954060491" duration="4265000" />
       <workItem from="1550511280567" duration="1854000" />
+      <workItem from="1550559441557" duration="875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6119000" />
+    <option name="totallyTimeSpent" value="6994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22585794" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22984837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -203,7 +231,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30781758" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3061889" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -256,10 +284,10 @@
     <entry file="file://$PROJECT_DIR$/images/banner/mobile_banner.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/banner/web_banner.png">
+    <entry file="file://$PROJECT_DIR$/images/banner/website_banner.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/banner/website_banner.png">
+    <entry file="file://$PROJECT_DIR$/images/banner/web_banner.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
