@@ -11,7 +11,7 @@
 
 	<section class="">
 
-        <img src="https://avita-india.com/images/modus/accessories.png" class="w-100 ">
+        <img src="http://avita-india.com/images/modus/accessories.png" class="w-100 ">
 
     </section>
 
