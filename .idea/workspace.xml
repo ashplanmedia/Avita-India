@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="166645b6-1358-43dc-b8c3-4cd1ecc40495" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/resources/views/mouse.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/mouse.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +31,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/resources/views/mouse.blade.php">
+        <entry file="file://$PROJECT_DIR$/public/resources/views/banner_hk.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="255">
+              <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+              <folding>
+                <element signature="e#592#654#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,8 +50,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" />
         <option value="$PROJECT_DIR$/public/resources/views/mouse.blade.php" />
+        <option value="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" />
       </list>
     </option>
   </component>
@@ -222,18 +226,19 @@
       <workItem from="1550511280567" duration="1854000" />
       <workItem from="1550559441557" duration="875000" />
       <workItem from="1550640915649" duration="862000" />
-      <workItem from="1550643278940" duration="352000" />
+      <workItem from="1550643278940" duration="702000" />
+      <workItem from="1550742327620" duration="296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8208000" />
+    <option name="totallyTimeSpent" value="8854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23782921" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24181964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -246,7 +251,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30456027" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30456027" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -279,20 +284,6 @@
     <entry file="file://$PROJECT_DIR$/images/banner/banner.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/resources/views/banner_hk.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="82" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="82" />
-          <folding>
-            <element signature="e#803#865#0#HTML" expanded="true" />
-            <element signature="e#1005#1067#0#HTML" expanded="true" />
-            <element signature="e#1558#1624#0#HTML" expanded="true" />
-            <element signature="e#1773#1839#0#HTML" expanded="true" />
-            <element signature="e#1979#2044#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/banner/mob_banner.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -311,7 +302,20 @@
     <entry file="file://$PROJECT_DIR$/public/resources/views/mouse.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/resources/views/banner.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/resources/views/banner_hk.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <element signature="e#592#654#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
