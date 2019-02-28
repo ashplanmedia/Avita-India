@@ -198,7 +198,7 @@
 							<div class="list-item float-text">Built-in Wi-Fi</div>
     					</div>
     					<div class="mb-4 ">
-    						<h6 class="font-weight-bold float-text"><span class="list-count d-inline-flex mr-1 align-items-center justify-content-center">3</span>sleek design</h6>
+    						<h6 class="font-weight-bold float-text"><span class="list-count d-inline-flex mr-1 align-items-center justify-content-center">3</span> Sleek Design</h6>
 							<div class="list-item float-text">Unique waterproof design, up to IP65 </div>
 							<div class="list-item float-text">Flexible installation for any bathroom, flush mount or wall mount</div>
     					</div>
