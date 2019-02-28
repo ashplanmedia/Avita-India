@@ -145,7 +145,7 @@
         			<div class="product-image flex-first"><img class="sc-image sc-image-01" src="/images/imago/sc4_01.jpg"></div>
         		</div>
         		<div class="d-flex d-md-block text-right my-5 align-items-end">
-        			<div class="product-title text-uppercase mb-md-3 mr-4 mr-md-0 float-text">Smart bontique</div>
+        			<div class="product-title text-uppercase mb-md-3 mr-4 mr-md-0 float-text">Smart Boutique</div>
         			<div class="product-image"><img class="sc-image sc-image-01" src="/images/imago/sc4_02.jpg"></div>
         		</div>
         	</div>
@@ -198,7 +198,7 @@
 							<div class="list-item float-text">Built-in Wi-Fi</div>
     					</div>
     					<div class="mb-4 ">
-    						<h6 class="font-weight-bold float-text"><span class="list-count d-inline-flex mr-1 align-items-center justify-content-center">3</span>leek design</h6>
+    						<h6 class="font-weight-bold float-text"><span class="list-count d-inline-flex mr-1 align-items-center justify-content-center">3</span>Sleek design</h6>
 							<div class="list-item float-text">Unique waterproof design, up to IP65 </div>
 							<div class="list-item float-text">Flexible installation for any bathroom, flush mount or wall mount</div>
     					</div>
