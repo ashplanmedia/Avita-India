@@ -6,7 +6,7 @@
             <div class="carousel-item active">
                 
                 <div class="responsive-block">
-                    <a href="http://buynow.avita-india.com/">
+                    <a href="https://paytmmall.com/shop/search?q=avita">
                     <div class="banner-block responsive-item">
 
                             @if( App::isLocale('en') )
@@ -28,7 +28,7 @@
             <div class="carousel-item ">
                 <div class="responsive-block">
                     
-                    <a href="http://buynow.avita-india.com/">
+                    <a href="https://paytmmall.com/shop/search?q=avita">
                     <div class="banner-block responsive-item">
 
                             @if( App::isLocale('en') )
