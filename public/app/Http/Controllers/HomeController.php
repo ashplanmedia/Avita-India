@@ -137,21 +137,7 @@ class HomeController extends Controller
 
     public function handleSubscription(Request $request) {
 
-        echo "handleSubscription";
-
-        $this->validate($request, ['subscription_email' => 'required|email']);
-
-        $email = $request->get('subscription_email');
-
-        // Store to DB.
-        $subscription = Subscription::firstOrCreate(['email' => $email]);
-
-        $data = [
-            'status' => 'success',
-            'message' => 'Thanks for Subscribing, We will connect you shortly.'
-        ];
-
-        return response( $data );
+        
     }
 
     public function getImago(Request $request) {
