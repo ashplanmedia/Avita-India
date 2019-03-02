@@ -1,13 +1,4 @@
 
-<div class="modal fade" id="overlay">
-  <div class="modal-dialog">
-    <div class="modal-content">
-<a href="/techideate">
-    <img src="/images/Cmps-Ambassdr-Mob.png" width="512" height="350">
-</a>
-    </div>
-  </div>
-</div>
 <section class="top-nav-padding homepage-banner">
  <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
