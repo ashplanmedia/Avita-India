@@ -137,14 +137,14 @@ class HomeController extends Controller
 
     public function handleSubscription(Request $request) {
 
-        echo "handleSubscription";
+        //echo "handleSubscription";
 
-        $this->validate($request, ['subscription_email' => 'required|email']);
+        //$this->validate($request, ['subscription_email' => 'required|email']);
 
-        $email = $request->get('subscription_email');
+        //$email = $request->get('subscription_email');
 
         // Store to DB.
-        $subscription = Subscription::firstOrCreate(['email' => $email]);
+        //$subscription = Subscription::firstOrCreate(['email' => $email]);
 
         $data = [
             'status' => 'success',
