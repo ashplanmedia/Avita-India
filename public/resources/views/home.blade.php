@@ -15,8 +15,8 @@
     @else
         @include('banner_hk')
     @endif
-
-    <section class="promo-banner mt-1">
+    
+<section class="promo-banner mt-1">
         <div class="row no-gutters">
             <div class="col-12 col-sm-6 col-xl-3">
                 <div class="banner-block s-banner">
@@ -31,7 +31,7 @@
                 <div class="banner-block s-banner">
                     <div class="banner-inner">
                         <div class="banner-wrap">
-                            <a class="banner-bg" href="{{ route('news')  }}" style="background-image: url('/images/demo/@lang('site.home_photo2_image')')"></a>
+                            <a class="banner-bg" href="/campus" style="background-image: url('/images/campus.png')"></a>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                 <div class="banner-block s-banner">
                     <div class="banner-inner">
                         <div class="banner-wrap">
-                            <a class="banner-bg" href="http://www.avita-india.com/in/aboutus" style="background-image: url('/images/demo/@lang('site.home_photo3_image')')"></a>
+                            <a class="banner-bg" href="http://avitain.ashplanmedia.com/aboutus" style="background-image: url('/images/demo/@lang('site.home_photo3_image')')"></a>
                         </div>
                     </div>
                 </div>
@@ -73,8 +73,10 @@
                 </div>
             </div>
         </form>
-            <p style="text-align: center;"><a href="http://www.avita-india.com/Avita-Brochure.pdf" download="http://www.avita-india.com/Avita-Brochure.pdf"><button class="btn btn-primary btn-lg " type="button">Download Brochure </button></a></p>
+            <p style="text-align: center;"><a href="http://www.avitain.ashplanmedia.com/Avita-Brochure.pdf" target="_blank" download="http://www.avitain.ashplanmedia.com/Avita-Brochure.pdf"><button class="btn btn-primary btn-lg " type="button">Download Brochure </button></a></p>
 
     </section>
+
+
 
 @endsection
