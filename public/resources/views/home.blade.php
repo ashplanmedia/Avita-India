@@ -3,7 +3,15 @@
 @section('title')
     @lang('title.Homepage')
 @stop
+    @php
+        $country = strtolower( request()->segment(1) );
+    @endphp
 
+    @if( View::exists('banner_'. $country))
+        @include('banner_'.$country)
+    @else
+        @include('banner_hk')
+    @endif
 @section('content')
    
 <section class="promo-banner mt-1">
