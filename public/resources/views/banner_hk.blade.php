@@ -14,7 +14,7 @@
                                      style="background-image: url('/images/banner/campus_banner.png')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/campus_banner.png')"></div>
+                                 style="background-image: url('/images/banner/banner_mob.png')"></div>
                         </a>
                     </div>
                 </div>
