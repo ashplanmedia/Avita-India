@@ -15,6 +15,41 @@ Route::get('/', 'HomeController@redirectToHome');
 
 Route::get('/blog', 'HomeController@blog');
 
+
+Route::get('/blog', 'BlogController@index');
+
+Route::get('/techideate', function (){
+         return view('techideate');
+             
+         });
+Route::get('/details', 'BlogController@details');
+
+Route::get('/campus', function(){
+    return view('campus');
+});
+
+
+//Blogs
+Route::get('/blog1', function(){
+    return view('blog.blog1');
+});
+Route::get('/blog2', function(){
+    return view('blog.blog2');
+});
+Route::get('/blog3', function(){
+    return view('blog.blog3');
+});
+Route::get('/blog4', function(){
+    return view('blog.blog4');
+});
+Route::get('/blog5', function(){
+    return view('blog.blog5');
+});
+
+
+//
+
+
 //sitemap
 
 Route::get('/sitemap.xml',function(){
