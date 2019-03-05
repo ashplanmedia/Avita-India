@@ -5,17 +5,7 @@
 @stop
 
 @section('content')
-
-    @php
-        $country = strtolower( request()->segment(1) );
-    @endphp
-
-    @if( View::exists('banner_'. $country))
-        @include('banner_'.$country)
-    @else
-        @include('banner_hk')
-    @endif
-    
+   
 <section class="promo-banner mt-1">
         <div class="row no-gutters">
             <div class="col-12 col-sm-6 col-xl-3">
