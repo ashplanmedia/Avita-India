@@ -5,7 +5,7 @@
             <div class="carousel-item active">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
-<a href="avita-india.com/campus">
+<a href="/campus">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
                                      style="background-image: url('/images/banner/campus_banner.png')"></div>
