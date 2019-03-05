@@ -16,7 +16,8 @@ Route::get('/', 'HomeController@redirectToHome');
 Route::get('/blog', 'HomeController@blog');
 
 
-Route::get('/blog', 'BlogController@index');
+Route::get('/blog', function(){
+return view('blog');});
 
 Route::get('/techideate', function (){
          return view('techideate');
