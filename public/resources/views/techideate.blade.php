@@ -7,7 +7,7 @@
 @section('content')
     <main>
         <section style="padding-top: 50px">
-            <iframe src="https://techideate.com/minor-major/" style="width: 100%; height: 100%">
+            <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="https://techideate.com/minor-major/" style="width: 100%; height: 100%">
 
             </iframe>
         </section>
