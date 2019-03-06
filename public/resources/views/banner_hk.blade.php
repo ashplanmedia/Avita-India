@@ -1,11 +1,11 @@
 <section class="top-nav-padding homepage-banner">
- <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
+    <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
 
             <div class="carousel-item active">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
-<a href="/campus">
+                        <a href="/campus">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
                                      style="background-image: url('/images/banner/campus_banner.png')"></div>
@@ -20,11 +20,29 @@
                 </div>
             </div>
 
+            <div class="carousel-item">
+                <div class="responsive-block">
+                    <div class="banner-block responsive-item">
+                        <a href="/techideate">
+                            @if( App::isLocale('en') )
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/smu_web_banner.png')"></div>
+                            @else
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/smu_web_banner.png')"></div>
+                            @endif
+                            <div class="banner-bg hidden-md-up"
+                                 style="background-image: url('/images/banner/smu_mob_banner.png')"></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
 
             <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
-<a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">
+                        <a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
                                      style="background-image: url('/images/banner/web_banner.png')"></div>
@@ -38,11 +56,11 @@
                     </div>
                 </div>
             </div>
-            
-                        <div class="carousel-item">
+
+            <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
-<a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">
+                        <a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
                                      style="background-image: url('/images/banner/website_banner.png')"></div>
@@ -56,15 +74,16 @@
                     </div>
                 </div>
             </div>
-            
-            
-        <ol class="carousel-indicators">
-            <li data-target="#home_banner" data-slide-to="0" class="active"></li>
-            <li data-target="#home_banner" data-slide-to="1"></li>
-            <li data-target="#home_banner" data-slide-to="2"></li>
 
-        </ol>
-    </div>
+
+            <ol class="carousel-indicators">
+                <li data-target="#home_banner" data-slide-to="0" class="active"></li>
+                <li data-target="#home_banner" data-slide-to="1"></li>
+                <li data-target="#home_banner" data-slide-to="2"></li>
+                <li data-target="#home_banner" data-slide-to="3"></li>
+
+            </ol>
+        </div>
 </section>
 
 @section('css')
