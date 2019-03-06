@@ -38,6 +38,24 @@
                 </div>
             </div>
 
+            <div class="carousel-item">
+                <div class="responsive-block">
+                    <div class="banner-block responsive-item">
+                        <a href="#">
+                            @if( App::isLocale('en') )
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/magus_web.png')"></div>
+                            @else
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/magus_web.png')"></div>
+                            @endif
+                            <div class="banner-bg hidden-md-up"
+                                 style="background-image: url('/images/banner/magus_mob.png')"></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
 
             <div class="carousel-item">
                 <div class="responsive-block">
@@ -81,6 +99,7 @@
                 <li data-target="#home_banner" data-slide-to="1"></li>
                 <li data-target="#home_banner" data-slide-to="2"></li>
                 <li data-target="#home_banner" data-slide-to="3"></li>
+                <li data-target="#home_banner" data-slide-to="4"></li>
 
             </ol>
         </div>
