@@ -44,13 +44,13 @@
                         <a href="/techideate">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/Hindu_web_banner.png')"></div>
+                                     style="background-image: url('/images/banner/Hindu_web.png')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/Hindu_web_banner.png')"></div>
+                                     style="background-image: url('/images/banner/Hindu_web.png')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/Hindu_mob_banner.png')"></div>
+                                 style="background-image: url('/images/banner/Hindu_mob.png')"></div>
                         </a>
                     </div>
                 </div>
