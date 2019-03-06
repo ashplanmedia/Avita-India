@@ -16,7 +16,7 @@ class CountryMiddleware
     public function handle($request, Closure $next)
     {
 
-        $country_code = strtolower($request->segment(1));
+        $country_code = 'in';
 
         $all_countries = enabled_countries();
 
