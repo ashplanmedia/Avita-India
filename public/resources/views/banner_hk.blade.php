@@ -37,6 +37,24 @@
                     </div>
                 </div>
             </div>
+            
+               <div class="carousel-item">
+                <div class="responsive-block">
+                    <div class="banner-block responsive-item">
+                        <a href="/techideate">
+                            @if( App::isLocale('en') )
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/Hindu_web_banner.png')"></div>
+                            @else
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/Hindu_web_banner.png')"></div>
+                            @endif
+                            <div class="banner-bg hidden-md-up"
+                                 style="background-image: url('/images/banner/Hindu_mob_banner.png')"></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
 
             <div class="carousel-item">
                 <div class="responsive-block">
