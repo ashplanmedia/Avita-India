@@ -7,7 +7,7 @@
 @section('content')
     <main>
         <section style="padding-top: 50px">
-            <iframe src="https://techideate.com/majorevents/" style="width: 100%; height: 100%">
+            <iframe src="https://techideate.com/minor-major/" style="width: 100%; height: 100%">
 
             </iframe>
         </section>
