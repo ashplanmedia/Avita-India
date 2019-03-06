@@ -65,9 +65,8 @@
         <input type="text" id="college" name="college" placeholder="College">
         <input type="submit" value="Submit">
       </form>---->
-      
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScb6YqJfa7pc-4hnhC5pVEX1lA8t_vti_fngIJzVYyEGyJdvw/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-      <div class="bottom-content">
+
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddLn-RkbFleRVBCQJyRcf3paACfkwE8AlE_NQAo73umk3Dog/viewform?embedded=true" width="640" height="971" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
       </div>
     </div>
@@ -75,6 +74,7 @@
 
   </div>
 </div>
+
 
         </section>
 
