@@ -3,6 +3,9 @@
 @section('title')
     @lang('title.Homepage')
 @stop
+
+@section('content')
+
     @php
         $country = strtolower( request()->segment(1) );
     @endphp
@@ -12,8 +15,7 @@
     @else
         @include('banner_hk')
     @endif
-@section('content')
-   
+    
 <section class="promo-banner mt-1">
         <div class="row no-gutters">
             <div class="col-12 col-sm-6 col-xl-3">
@@ -71,7 +73,7 @@
                 </div>
             </div>
         </form>
-            <p style="text-align: center;"><a href="http://www.avitain.ashplanmedia.com/Avita-Brochure.pdf" target="_blank" download="http://www.avitain.ashplanmedia.com/Avita-Brochure.pdf"><button class="btn btn-primary btn-lg " type="button">Download Brochure </button></a></p>
+            <p style="text-align: center;"><a href="avita-india.com/Avita-Brochure.pdf" target="_blank" download="http://www.avitain.ashplanmedia.com/Avita-Brochure.pdf"><button class="btn btn-primary btn-lg " type="button">Download Brochure </button></a></p>
 
     </section>
 
