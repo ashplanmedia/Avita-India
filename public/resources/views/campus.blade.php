@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-    @lang('title.LIBER_13_home')
+    @lang('title.campus')
 @stop
 
 @section('content')
