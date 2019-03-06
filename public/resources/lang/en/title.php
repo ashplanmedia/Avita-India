@@ -18,5 +18,6 @@ return [
     'contact_us'      => 'Contact Us',
     'repair_tnc'      => 'Repair Terms & Conditions',
     'tnc'             => 'Terms of Use Notice and Privacy Policy',
+    'campus'        => 'Campus Ambassador Program',
 
 ];
