@@ -41,7 +41,7 @@
                <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
-                        <a href="/techideate">
+                        <a href="/hindu">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
                                      style="background-image: url('/images/banner/Hindu_web.png')"></div>
