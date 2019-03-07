@@ -26,13 +26,13 @@
                         <a href="/techideate">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/smu_web_banner.png')"></div>
+                                     style="background-image: url('/images/banner/smu_web_banner.jpg')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/smu_web_banner.png')"></div>
+                                     style="background-image: url('/images/banner/smu_web_banner.jpg')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/smu_mob_banner.png')"></div>
+                                 style="background-image: url('/images/banner/smu_mob_banner.jpg')"></div>
                         </a>
                     </div>
                 </div>
@@ -44,13 +44,13 @@
                         <a href="/hindu">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/Hindu_web.png')"></div>
+                                     style="background-image: url('/images/banner/Hindu_web.jpg')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/Hindu_web.png')"></div>
+                                     style="background-image: url('/images/banner/Hindu_web.jpg')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/Hindu_mob.png')"></div>
+                                 style="background-image: url('/images/banner/Hindu_mob.jpg')"></div>
                         </a>
                     </div>
                 </div>
@@ -62,13 +62,13 @@
                         <a href="#">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/magus_web.png')"></div>
+                                     style="background-image: url('/images/banner/magus_web.jpg')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/magus_web.png')"></div>
+                                     style="background-image: url('/images/banner/magus_web.jpg')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/magus_mob.png')"></div>
+                                 style="background-image: url('/images/banner/magus_mob.jpg')"></div>
                         </a>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
                 <li data-target="#home_banner" data-slide-to="2"></li>
                 <li data-target="#home_banner" data-slide-to="3"></li>
                 <li data-target="#home_banner" data-slide-to="4"></li>
-
+                <li data-target="#home_banner" data-slide-to="5"></li>
             </ol>
         </div>
 </section>
