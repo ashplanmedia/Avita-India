@@ -13,13 +13,11 @@
 
 Route::get('/', 'HomeController@redirectToHome');
 
-Route::get('/blog', 'BlogController@index');
-
 Route::get('/techideate', function (){
          return view('techideate');
              
          });
-Route::get('/details', 'BlogController@details');
+
 
 Route::get('/campus', function(){
     return view('campus');
@@ -29,6 +27,10 @@ Route::get('/hindu', function(){
 });
 
 //Blogs
+Route::get('/blog', function(){
+    return view('blog.index');
+});
+
 Route::get('/blog1', function(){
     return view('blog.blog1');
 });
