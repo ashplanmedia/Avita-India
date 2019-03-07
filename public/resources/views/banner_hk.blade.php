@@ -8,13 +8,13 @@
                         <a href="/campus">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/campus_banner.png')"></div>
+                                     style="background-image: url('/images/banner/campus_banner.jpg')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/campus_banner.png')"></div>
+                                     style="background-image: url('/images/banner/campus_banner.jpg')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/banner_mob.png')"></div>
+                                 style="background-image: url('/images/banner/banner_mob.jpg')"></div>
                         </a>
                     </div>
                 </div>
