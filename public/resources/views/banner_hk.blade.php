@@ -50,7 +50,7 @@
                                      style="background-image: url('/images/banner/Hindu_web.jpg')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/Hindu_mob.jpg')"></div>
+                                 style="background-image: url('/images/banner/hindu_mob.jpg')"></div>
                         </a>
                     </div>
                 </div>
