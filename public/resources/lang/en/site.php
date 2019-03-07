@@ -46,6 +46,14 @@ return [
     'gender_m'                      => 'Male',
     'gender_f'                      => 'Female',
     // universal
+    
+    'blogs_title'                   => 'AVITA INDIA | Blogs',
+    'blog1'                    => 'AVITA’s Guide to Buying the Perfect Student Laptop',
+    'blog2'                    => 'What are the benefits of smart scale?',
+    'blog3'                    => 'Why is College the RIGHT time to become Creative?',
+    'blog4'                    => 'Avita Liber: Technology to keep YOU high on Fashion',
+    'blog5'                    => 'Why should your Personal Laptop be Light Weighted?',
+
 
     'header_store'                  => 'AVITA Store',
     'header_where_to_buy'           => 'Where To Buy',
