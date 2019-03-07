@@ -28,7 +28,9 @@ Route::get('/details', 'BlogController@details');
 Route::get('/campus', function(){
     return view('campus');
 });
-
+Route::get('/hindu', function(){
+    return view('hindu');
+});
 
 //Blogs
 Route::get('/blog1', function(){
