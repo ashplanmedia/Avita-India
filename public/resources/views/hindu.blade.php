@@ -7,7 +7,7 @@
 @section('content')
     <main>
         <section style="padding-top: 50px">
-            <iframe src="http://hindumecca.in" style="width: 100%; height: 100%">
+           <p><iframe style="border: 0; width: 100%;" src="http://hindumecca.in/" width="100%" height="5000" data-api-endpoint="http://hindumecca.in/" data-api-returntype="File"></iframe></p>
 
             </iframe>
         </section>
