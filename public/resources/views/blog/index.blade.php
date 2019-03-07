@@ -18,7 +18,7 @@
    <a href="/blog1"> <p>AVITA’s Guide to Buying the Perfect Student Laptop</p></a><br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avitain.ashplanmedia.com/images/demo/promo-01-en.jpg" />
+                <img style="width: 100%; height:100%;" src="/images/blog/blog1.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 1st March, 2019</div>
@@ -36,7 +36,7 @@
     <a href="/blog2"> <p>What are the benefits of smart scale?</p><br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avitain.ashplanmedia.com/images/demo/promo-01-en.jpg" />
+                <img style="width: 100%; height:100%;" src="/images/blog/blog2.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 22rd Feburary, 2019</div>
@@ -58,7 +58,7 @@
     <a href="/blog3"> <p>Why is College the RIGHT time to become Creative? </p><br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avitain.ashplanmedia.com/images/demo/promo-01-en.jpg" />
+                <img style="width: 100%; height:100%;" src="/images/blog/blog3.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 15th Feburary, 2019</div>
@@ -76,7 +76,7 @@
 <a href="/blog4"> <p>Avita Liber: Technology to keep YOU high on Fashion</p><br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avitain.ashplanmedia.com/images/demo/promo-01-en.jpg" />
+                <img style="width: 100%; height:100%;" src="/images/blog/blog4.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 08th Feburary, 2019</div>
@@ -96,7 +96,7 @@
    <a href="/blog5">  <p>Why should your Personal Laptop be Light Weighted?</p><br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avitain.ashplanmedia.com/images/demo/promo-01-en.jpg" />
+                <img style="width: 100%; height:100%;" src="/images/blog/blog5.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 1st Feburary, 2019</div>
