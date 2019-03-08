@@ -1,7 +1,3 @@
-@section('js')
-<script src="https://www.w3schools.com/lib/w3.js"></script>
-@endsection
-
 <section class="top-nav-padding homepage-banner">
     <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
@@ -144,5 +140,31 @@
     </style>
 @endsection
 @section('js')
-w3.slideshow(".banner-bg", 3000);
+    <script type="text/javascript">
+
+        var imageTimer = null;
+
+        $('video').on('ended', function(){
+            $('#home_banner').carousel('next');
+        });
+        $('#home_banner').on('init slide.bs.carousel', function (e) {
+
+            clearTimeout( imageTimer );
+
+            $(this).find('video')[0].pause();
+
+            var new_video = $(e.relatedTarget).find('video')[0];
+
+            if ( new_video ) {
+                new_video.play();
+            } else {
+
+                imageTimer = setTimeout( function( ){
+                    $('#home_banner').carousel('next');
+                }, 5000 );
+
+            }
+        }).trigger('init');
+
+    </script>
 @endsection
