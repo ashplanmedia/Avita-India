@@ -156,7 +156,7 @@
 
                 imageTimer = setTimeout( function( ){
                     $('#home_banner').carousel('next');
-                }, 5000 );
+                }, 4000 );
 
             }
         }).trigger('init');
