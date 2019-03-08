@@ -1,3 +1,7 @@
+@section('js')
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+@endsection
+
 <section class="top-nav-padding homepage-banner">
     <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
@@ -139,4 +143,6 @@
         }
     </style>
 @endsection
-
+@section('js')
+w3.slideshow(".carousel-item", 3000);
+@endsection
