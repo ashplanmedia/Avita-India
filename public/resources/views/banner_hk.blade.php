@@ -144,5 +144,5 @@
     </style>
 @endsection
 @section('js')
-w3.slideshow(".carousel-item", 3000);
+w3.slideshow(".banner-bg", 3000);
 @endsection
