@@ -144,14 +144,9 @@
 
         var imageTimer = null;
 
-        $('video').on('ended', function(){
-            $('#home_banner').carousel('next');
-        });
         $('#home_banner').on('init slide.bs.carousel', function (e) {
 
             clearTimeout( imageTimer );
-
-            $(this).find('video')[0].pause();
 
             var new_video = $(e.relatedTarget).find('video')[0];
 
