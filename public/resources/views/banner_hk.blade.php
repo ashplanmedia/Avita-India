@@ -2,61 +2,9 @@
     <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
 
+
+
             <div class="carousel-item active">
-                <div class="responsive-block">
-                    <div class="banner-block responsive-item">
-                        <a href="/campus">
-                            @if( App::isLocale('en') )
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/campus_banner.jpg')"></div>
-                            @else
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/campus_banner.jpg')"></div>
-                            @endif
-                            <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/banner_mob.jpg')"></div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="carousel-item">
-                <div class="responsive-block">
-                    <div class="banner-block responsive-item">
-                        <a href="/techideate">
-                            @if( App::isLocale('en') )
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/smu_web_banner.jpg')"></div>
-                            @else
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/smu_web_banner.jpg')"></div>
-                            @endif
-                            <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/smu_mob_banner.jpg')"></div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            
-               <div class="carousel-item">
-                <div class="responsive-block">
-                    <div class="banner-block responsive-item">
-                        <a href="/hindu">
-                            @if( App::isLocale('en') )
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/Hindu_web.jpg')"></div>
-                            @else
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/Hindu_web.jpg')"></div>
-                            @endif
-                            <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/hindu_mob.jpg')"></div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
                         <a href="#">
@@ -74,6 +22,23 @@
                 </div>
             </div>
 
+            <div class="carousel-item ">
+                <div class="responsive-block">
+                    <div class="banner-block responsive-item">
+                        <a href="/campus">
+                            @if( App::isLocale('en') )
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/campus_banner.jpg')"></div>
+                            @else
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/campus_banner.jpg')"></div>
+                            @endif
+                            <div class="banner-bg hidden-md-up"
+                                 style="background-image: url('/images/banner/banner_mob.jpg')"></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
 
             <div class="carousel-item">
                 <div class="responsive-block">
@@ -117,9 +82,7 @@
                 <li data-target="#home_banner" data-slide-to="1"></li>
                 <li data-target="#home_banner" data-slide-to="2"></li>
                 <li data-target="#home_banner" data-slide-to="3"></li>
-                <li data-target="#home_banner" data-slide-to="4"></li>
-                <li data-target="#home_banner" data-slide-to="5"></li>
-            </ol>
+             </ol>
         </div>
 </section>
 
