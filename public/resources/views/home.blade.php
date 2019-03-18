@@ -73,7 +73,7 @@
                 </div>
             </div>
         </form>
-            <p style="text-align: center;"><a href="avita-india.com/Avita-Brochure.pdf" target="_blank" download="http://www.avita-india.com/Avita-Brochure.pdf"><button class="btn btn-primary btn-lg " type="button">Download Brochure </button></a></p>
+            <p style="text-align: center;"><a href="/Avita-Brochure.pdf" target="_blank" download="http://www.avita-india.com/Avita-Brochure.pdf"><button class="btn btn-primary btn-lg " type="button">Download Brochure </button></a></p>
 
     </section>
 
