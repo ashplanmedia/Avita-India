@@ -12,8 +12,8 @@
         <section class="product-liber-banner">
             <div class="responsive-block">
                 <div class="banner-block responsive-item">
-                    <div class="banner-bg hidden-sm-down" style="background-image: url('/images/banner/magus_banner.jpg')"></div>
-                    <div class="banner-bg hidden-md-up" style="background-image: url('/images/banner/magus_banner_mob.jpg')"></div>
+                    <div class="banner-bg hidden-sm-down" style="background-image: url('/images/banner/banner.jpg')"></div>
+                    <div class="banner-bg hidden-md-up" style="background-image: url('/images/banner/banner_mob.jpg')"></div>
                     <div class="banner-info">
                         <div class="btn-group mt-3">
                             {{--<img class="mx-auto" src="/images/liber/brand.png">--}}
