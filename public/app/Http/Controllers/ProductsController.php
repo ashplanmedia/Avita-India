@@ -27,7 +27,28 @@ class ProductsController extends Controller
     public function showProductFeatures($country, $slug) {
 
         $product = $this->productFromURL($country, $slug);
-
+		if ( $slug == 'magus12-2in1-laptop' ) {
+			if ( $country == 'sg' ) {
+            return view('product.magus_sg', compact( 'product'));
+			} elseif ( $country == 'id' ) {
+            return view('product.magus_id', compact( 'product'));
+			} else {
+            return view('product.magus', compact( 'product'));
+			}
+        } 
+		if ( $slug == 'magus12-2in1-laptop-c' ) {
+            return view('product.magus_tc', compact( 'product'));
+        } 
+		if ( $slug == 'magus-spec' ) {
+			if ( $country == 'id' ) {
+            return view('product.magus_spec_id', compact( 'product'));
+			} else {
+            return view('product.magus_spec_hk', compact( 'product'));
+			}
+        } 
+		if ( $slug == 'magus-spec-c' ) {
+            return view('product.magus_spec_tc', compact( 'product'));
+        } 
         if ( !$product ) {
             abort(404);
         }
@@ -37,15 +58,19 @@ class ProductsController extends Controller
         if (!$view){
             abort(404);
         }
-
-        return view($view, compact('product'));
+        if ( $country == 'ph' ) {
+            return view('product.liber_feature_ph', compact( 'product'));
+        } else {
+        	return view($view, compact('product'));
+		}
     }
 
     public function showProductSpec($country, $slug) {
 
         $product = $this->productFromURL($country, $slug);
 
-        if ( !$product ) {
+
+		if ( !$product ) {
             abort(404);
         }
 
@@ -54,8 +79,11 @@ class ProductsController extends Controller
         if (!$view){
             abort(404);
         }
-
-        return view($view, compact('product'));
+        if ( $country == 'ph' ) {
+            return view('product.liber_spec_ph', compact( 'product'));
+        } else {
+        	return view($view, compact('product'));
+		}
     }
 
     public function showProductSupport(Request $request, $country, $slug) {
