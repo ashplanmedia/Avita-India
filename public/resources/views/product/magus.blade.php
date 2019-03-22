@@ -4,6 +4,7 @@
     @lang('title.magus')
 @stop
 
+
 @section('content')
     <main class="top-nav-padding">
 
@@ -157,6 +158,7 @@
 
 @section('css')
     <link type="text/css" rel="stylesheet" href="{{ asset('css/product-liber.css') }}"/>
+                <link type="text/css" rel="stylesheet" href="https://avita.com/css/product-magus.css"/>
 @endsection
 
 @section('js')
