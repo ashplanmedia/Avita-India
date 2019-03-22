@@ -19,7 +19,6 @@ class Kernel extends HttpKernel
         \App\Http\Middleware\TrimStrings::class,
         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
         \App\Http\Middleware\TrustProxies::class,
-        \Barryvdh\Cors\HandleCors::class,
     ];
 
     /**
@@ -65,6 +64,5 @@ class Kernel extends HttpKernel
         'throttle'             => \Illuminate\Routing\Middleware\ThrottleRequests::class,
         'auth.avita'           => \App\Http\Middleware\AvitaAuthMiddleware::class,
         'api_service_provider' => \App\Http\Middleware\APIServiceProviderMiddleware::class
-        'cors'                 => \Barryvdh\Cors\HandleCors::class, // add this line to enable cors to your routes
     ];
 }
