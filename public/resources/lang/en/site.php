@@ -230,6 +230,6 @@ return [
 
     ],
 
-    'experience_liber125_here' => '? Experience LIBER 12.5" here! ',
+    'experience_liber125_here' => 'Experience LIBER 12.5" here! ',
     'coming_soon' => 'Coming Soon',
 ];
