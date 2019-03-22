@@ -96,7 +96,7 @@
             <span></span>
         </div>
         <a class="navbar-brand mr-0 hidden-md-up" href="/">
-            <img src="/images/logo.png"/>
+            <img src="https://avita.com/images/logo.png"/>
         </a>
 
         
@@ -109,7 +109,7 @@
         <div class="navbar-collapse">
             <ul class="navbar-nav mr-auto d-md-flex flex-md-row align-items-md-center justify-content-md-between">
                 <li class="hidden-sm-down">
-                    <a class="" href="/"><img src="/images/logo.png"/></a>
+                    <a class="" href="/"><img src="https://avita.com/images/logo.png"/></a>
                 </li>
                 <li class="nav-item has-dropdown">
                     <input id="header_product" type="checkbox" hidden="">
@@ -240,8 +240,8 @@
         <section class="product-liber-banner">
             <div class="responsive-block">
                 <div class="banner-block responsive-item" >
-                    <div class="banner-bg hidden-sm-down" style="background-image: url('/images/magus/banner.jpg')"></div>
-                    <div class="banner-bg hidden-md-up" style="background-image: url('/images/magus/banner_mob.jpg')"></div>
+                    <div class="banner-bg hidden-sm-down" style="background-image: url('https://avita.com/images/magus/banner.jpg')"></div>
+                    <div class="banner-bg hidden-md-up" style="background-image: url('https://avita.com/images/magus/banner_mob.jpg')"></div>
                     <div class="banner-info">
                         <div class="btn-group mt-3">
                             
@@ -262,20 +262,20 @@
             <div class="banner-block">
                 <div class="banner-bg"> </div>
                 <div class="banner-image">
-                    <img class="bc-computer-image bc-computer-1" src="/images/magus/sc2_img1.png">
-                    <!--<img class="bc-computer-image bc-computer-2" src="/images/liber/sc7_fimg2.png">
-                    <img class="bc-computer-image bc-computer-3" src="/images/liber/sc7_fimg3.png">-->
+                    <img class="bc-computer-image bc-computer-1" src="https://avita.com/images/magus/sc2_img1.png">
+                    <!--<img class="bc-computer-image bc-computer-2" src="https://avita.com/images/liber/sc7_fimg2.png">
+                    <img class="bc-computer-image bc-computer-3" src="https://avita.com/images/liber/sc7_fimg3.png">-->
                 </div>
                 <div class="container">
                     <div class="banner-info mx-auto mr-lg-0">
                         <div class="ac-computer-wrap hidden-md-up">
-                            <img class="ac-computer-image ac-computer-1" src="/images/magus/sc2_img1.png">
+                            <img class="ac-computer-image ac-computer-1" src="https://avita.com/images/magus/sc2_img1.png">
                         </div>
                         <div class="h2 banner-header mb-4 mb-sm-5">2-in-1 detachable design</div>
 
                         <div class="banner-para ls-0">
                             <span class="d-lg-block">MAGUS is both a recreational gadget and the best partner in the office. The 2-in-1 comes vivid color line-up with a 12.2” 1920x1200 IPS touch screen that offers ultra-wide viewing angle.  With a keyboard cover, the MAGUS 12.2&quot; 2-in-1 transforms from a tablet into a laptop by simply opening the built-in stand, enabling users to stay productive with ease anytime, anywhere.</span><span class="d-lg-block"></span>
-                       <p class="d-lg-block"><img src="/images/magus/feature.png"></p>
+                       <p class="d-lg-block"><img src="https://avita.com/images/magus/feature.png"></p>
 
                         </div>
                     </div>
@@ -287,9 +287,9 @@
 
         <section class="product-liber-performance ls-0"/>
             <div >
-                <div class="hidden-xs-down"><img src="/images/magus/sc1_bg.png"></div>
+                <div class="hidden-xs-down"><img src="https://avita.com/images/magus/sc1_bg.png"></div>
                 <div class="ac-computer-wrap hidden-md-up">
-                            <img class="ac-computer-image ac-computer-1" style="" src="/images/magus/sc3_fimg2.png">
+                            <img class="ac-computer-image ac-computer-1" style="" src="https://avita.com/images/magus/sc3_fimg2.png">
                         </div>
                 <div class="container">
                     <div class="banner-info">
@@ -310,21 +310,21 @@
             <div class="banner-block">
                 <div class="banner-bg"></div>
                 <div class="banner-image">
-                    <img class="bc-computer-image bc-computer-1" src="/images/magus/sc7_fimg1.png">
-                    <!--<img class="bc-computer-image bc-computer-2" src="/images/liber/sc7_fimg2.png">
-                    <img class="bc-computer-image bc-computer-3" src="/images/liber/sc7_fimg3.png">-->
+                    <img class="bc-computer-image bc-computer-1" src="https://avita.com/images/magus/sc7_fimg1.png">
+                    <!--<img class="bc-computer-image bc-computer-2" src="https://avita.com/images/liber/sc7_fimg2.png">
+                    <img class="bc-computer-image bc-computer-3" src="https://avita.com/images/liber/sc7_fimg3.png">-->
                 </div>
                 <div class="container">
                     <div class="banner-info mx-auto mr-lg-0">
                         <div class="ac-computer-wrap hidden-md-up">
-                            <img class="ac-computer-image ac-computer-1" src="/images/magus/sc7_fimg1.png">
+                            <img class="ac-computer-image ac-computer-1" src="https://avita.com/images/magus/sc7_fimg1.png">
                         </div>
                         <div class="h2 banner-header mb-4 mb-sm-5">Accommodate daily work and entertainment needs</div>
 
                         <div class="banner-para ls-0">
                             <p class="d-lg-block">MAGUS can run a variety of Windows applications with battery life up to eight hours. It has a microSDXC card reader built in, equipped with a 3.5mm audio jack, a mini HDMI port and a USB 3.0 interface, taking care of the users' needs in every way possible. </p>
-                            <!--p class="d-lg-block"><img src="/images/magus/sideview.png"></p-->
-                            <p class="d-lg-block"><img src="/images/magus/port_en.png"></p>
+                            <!--p class="d-lg-block"><img src="https://avita.com/images/magus/sideview.png"></p-->
+                            <p class="d-lg-block"><img src="https://avita.com/images/magus/port_en.png"></p>
                         </div>
                     </div>
                 </div>
@@ -342,12 +342,12 @@
             <div class="banner-block">
                 <div class="banner-bg"></div>
                 <div class="banner-image">
-                    <img class="bc-computer-image bc-computer-1" src="/images/magus/magus_pink2.png">
+                    <img class="bc-computer-image bc-computer-1" src="https://avita.com/images/magus/magus_pink2.png">
                 </div>
                 <div class="container">
                     <div class="banner-info mx-auto mr-lg-0">
                         <div class="ac-computer-wrap hidden-md-up">
-                            <img class="ac-computer-image ac-computer-1" src="/images/magus/sc7_fimg1.png">
+                            <img class="ac-computer-image ac-computer-1" src="https://avita.com/images/magus/sc7_fimg1.png">
                         </div>
                         <div class="h2 banner-header mb-4 mb-sm-5">AVAILABLE NOW</div>
 
@@ -390,7 +390,7 @@
         <div class="container">
             <div class="d-flex flex-wrap align-items-center justify-content-around justify-content-md-start">
                 <span class="d-inline-block navbar-brand hidden-sm-down">
-                    <img src="/images/logo.png"/>
+                    <img src="https://avita.com/images/logo.png"/>
                 </span>
 
 
