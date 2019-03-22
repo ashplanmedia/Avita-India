@@ -42,7 +42,8 @@ return [
     'gender_m'                      => 'Male',
     'gender_f'                      => 'Female',
     // universal
-    
+    'accessories'               =>  'Assessories',
+    'mouse'                     => 'UBIQUE Mouse',
      
     'blogs_title'                   => 'AVITA INDIA | Blogs',
     'blog1'                    => 'AVITA’s Guide to Buying the Perfect Student Laptop',
