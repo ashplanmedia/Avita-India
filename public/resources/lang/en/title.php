@@ -2,7 +2,7 @@
 
 return [
     
-   'MAGUS_home'     => 'AVITA MAGUS 12.2'
+   'MAGUS_home'     => 'AVITA MAGUS 12.2',
     'Homepage'        => 'AVITA',
     'magus'            => 'AVITA MAGUS',
     'LIBER_12.5_home' => 'AVITA LIBER 12.5” | Laptops',
