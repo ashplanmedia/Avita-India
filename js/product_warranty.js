@@ -5,7 +5,6 @@ var $productModelField = $("#product_model");
 var $productConfiguartionField = $("#product_configuration");
 
 // Product Type
-var url = "https://avita.global";
 function reloadProductTypeField( ) {
 
     var select = $productTypeField;
