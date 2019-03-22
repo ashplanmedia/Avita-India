@@ -50,6 +50,9 @@ Route::get('/blog5', function(){
 
 //
 
+Route::get('/magus', function(){
+    return view('product.magus');
+});
 
 //sitemap
 
