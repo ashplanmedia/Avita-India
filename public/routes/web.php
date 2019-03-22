@@ -10,11 +10,6 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::post('/api/avita-india.com', ['middleware' => 'cors',function(){
-
-	return ['status'=>'success'];
-}]);
-
 
 Route::get('/', 'HomeController@redirectToHome');
 
