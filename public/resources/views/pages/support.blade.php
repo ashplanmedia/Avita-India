@@ -23,16 +23,16 @@
                                 <div class="row no-gutters my-4 align-content-center justify-content-center col-12 col-sm-8 col-lg-12 mx-auto">
                                     <div class="col-12 col-md-12 col-md-12 ml-0 ml-md-4">
                                         <div class="form-group mb-2">
-                                <select id="product_type_field" name="type" class="form-control custom-select mb-3">
+                               <!-- <select id="product_type_field" name="type" class="form-control custom-select mb-3">
                                 
                                 <option>Select</option>
                                 <option>Laptops</option>
                                 <option>Smart Devices</option>
-                                </select>
+                                </select>  -->
                              
                              
                              
-                                  <!---    <select id="product_type_field" name="type" class="form-control custom-select mb-3">
+                                     <select id="product_type_field" name="type" class="form-control custom-select mb-3">
 
                                             </select>
 
@@ -54,10 +54,7 @@
 
                                             {{--<p id="product_config_field"></p>--}}
                                             
-                                            --->
                                             
-                     
-
                                             <button class="btn btn-primary support-search-btn-block mt-3 mt-md-0 mx-auto ml-md-3 px-5 px-md-0">&nbsp;<i class="fa fa-search" aria-hidden="true"></i>&nbsp;</button>
 
                                         </div>
@@ -141,7 +138,7 @@
 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDkjCWGYO6wojvQEwcNm09P_H7XeYoji9I&callback=initMap"></script>
 
-    <script src="/js/support.js"></script>
+    <script src="../js/support.js"></script>
 
 
 
