@@ -13,7 +13,5 @@ class VerifyCsrfToken extends BaseVerifier
      */
     protected $except = [
         '/subscription',
-        '/webpush','/webpush/*','api/*'
-
     ];
 }
