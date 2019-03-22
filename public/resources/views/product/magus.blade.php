@@ -6,7 +6,7 @@
 
 @section('content')
     <main class="top-nav-padding">
-<!-------------------Submenu------------->
+<!---------------- Submenu------------->
         <div class="nav-product-panel">
     <div class="container">
         <div class="product-nav-toggler h2 text-center my-1 hidden-sm-up">
