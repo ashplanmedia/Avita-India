@@ -468,10 +468,10 @@
                         </div>
 
                         <div class="col-12 info-lang w-100 px-0 hidden-md-up pb-sm-2">
-                            <a class="col-6 px-0" href="https://avita.com/entry"><i class="fa fa-globe mr-2" aria-hidden="true"></i><span class="pr-2">HONG KONG</span></a>
+                            <a class="col-6 px-0" href="https://avita.com/entry"><i class="fa fa-globe mr-2" aria-hidden="true"></i><span class="pr-2">INDIA</span></a>
 
                                                             | <span class="pl-2">
-                                                                            <a class="nav-item" href="https://avita.com/lang/tc">繁體中文</a>
+                                                                            <a class="nav-item" href="https://avita.com/lang/tc"></a>
                                                                     </span>
                             
                         </div>
