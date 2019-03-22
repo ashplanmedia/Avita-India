@@ -5,11 +5,12 @@ var $productModelField = $("#product_model");
 var $productConfiguartionField = $("#product_configuration");
 
 // Product Type
+
 function reloadProductTypeField( ) {
 
     var select = $productTypeField;
 
-    var url = "/api/products/types";
+    var url = "https://avita.global/api/products/types";
 
 
     $.getJSON( url ).done(function ( data ) {
@@ -47,7 +48,7 @@ $productTypeField.change(function() {
 
     if ( $(this).val() ) {
 
-        var url = "/api/products/series";
+        var url = "https://avita.global/api/products/series";
 
         $.getJSON( url, {
             type: $(this).val()
@@ -90,7 +91,7 @@ $productSeriesField.change(function() {
     var select = $productNumberField;
 
     if ( $(this).val() ) {
-        var url = "/api/products/numbers";
+        var url = "https://avita.global/api/products/numbers";
 
         $.getJSON( url, {
             series: $(this).val()
@@ -132,7 +133,7 @@ $productNumberField.change(function() {
 
     if ( $(this).val() ) {
 
-        var url = "/api/products/models";
+        var url = "https://avita.global/api/products/models";
 
         $.getJSON( url, {
             product_number: $(this).val()
