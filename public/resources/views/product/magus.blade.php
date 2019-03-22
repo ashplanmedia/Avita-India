@@ -57,7 +57,7 @@
 
         <section class="product-liber-performance ls-0"/>
             <div >
-                <div class="hidden-xs-down"><img src="/images/magus/sc1_bg.png"></div>
+                <div class="hidden-xs-down"><img src="/images/sc1_bg.png"></div>
                 <div class="ac-computer-wrap hidden-md-up">
                             <img class="ac-computer-image ac-computer-1" style="" src="/images/sc3_fimg2.png">
                         </div>
