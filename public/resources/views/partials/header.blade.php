@@ -6,7 +6,7 @@
         <div class="navbar-toggler navbar-toggler-left hidden-md-up">
             <span></span>
         </div>
-        <a class="navbar-brand mr-0 hidden-md-up" href="http://avita-india.com/in">
+        <a class="navbar-brand mr-0 hidden-md-up" href="https://avita-india.com/">
             <img src="/images/logo.png"/>
         </a>
 
@@ -61,6 +61,9 @@
                                             <li class="nav-item">
                                                 <a class="nav-link px-md-4 py-2" href="{{ route('product.overview', ['liber']) }}">LIBER Series 13.3" (33.78 cm) & 14" (35.56 cm) </a>
                                             </li>
+                                               <li class="nav-item">
+                                                <a class="nav-link px-md-4 py-2" href="{{ route('product.overview', 'magus12-2in1-laptop') }}">@lang('magus.name')</a>
+                                            </li>
 
                                         @endif
 
@@ -82,10 +85,7 @@
                                     </ul>
                                 </div>
                             </li>
-                            
-
-                            
-                            
+                                   
                             <li class="nav-item has-dropdown">
                                 <input id="header_product_device" type="checkbox" hidden="">
                                 <a class="nav-link px-md-4 py-2"><label for="header_product_device" class="d-block mb-0">@lang('site.accessories')</label></a>
