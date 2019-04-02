@@ -66,6 +66,10 @@
                         <div class="banner-para ls-0">
                             <span class="d-lg-block">@lang('magus.2in1-detail')</span><span class="d-lg-block"></span>
                        <p class="d-lg-block"><img src="@lang('magus.img-feature')"></p>
+		       
+		      <div class="btn-group mt-5 pt-5 pt-md-0 ls-0">
+                                <a class="btn btn-more mx-auto mt-5 mt-md-0 font-weight-normal" href="{{ route('product.overview', 'liber') }}">@lang('site.home_learnmore')<i class="fa fa-chevron-right ml-2" aria-hidden="true"></i></a>
+                            </div>
 
                         </div>
                     </div>
