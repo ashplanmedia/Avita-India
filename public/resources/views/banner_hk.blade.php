@@ -4,7 +4,7 @@
        <div class="carousel-item active">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
-                        <a href="https://avita-india.com/in/product/magus12-2in1-laptop">
+                        <a href="/product/magus12-2in1-laptop">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
                                      style="background-image: url('/images/banner/magus_web.jpg')"></div>
