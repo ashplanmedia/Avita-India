@@ -141,7 +141,7 @@
                           <a class="nav-link px-md-4 py-2" href="https://www.amazon.in/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=avita">Amazon</a>
                           </li>
                           <li class="nav-item">
-                          <a class="nav-link px-md-4 py-2" href="https://www.flipkart.com/search?q=avita+laptops&otracker=search&otracker1=search&marketplace=FLIPKART">Flipkart</a>
+                          <a class="nav-link px-md-4 py-2" href="https://www.flipkart.com/search?q=avita">Flipkart</a>
                           </li>
                           <li class="nav-item">
                           <a class="nav-link px-md-4 py-2" href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">Paytm Mall</a>
