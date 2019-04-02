@@ -1,18 +1,7 @@
 <section class="top-nav-padding homepage-banner">
     <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
-
-        <div class="carousel-item  active">
-                <div class="responsive-block">
-                    <div class="banner-block responsive-item d-flex align-items-center">
-                        <video class="leadin-video video-bgv2" muted playsinline>
-                            <source src="/videos/magus.mp4" type="video/mp4">
-                        </video>
-                       </div>
-                </div>
-            </div>
-
-            <div class="carousel-item">
+       <div class="carousel-item active">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
                         <a href="#">
@@ -30,11 +19,19 @@
                 </div>
             </div>
 
-           
+        <div class="carousel-item">
+                <div class="responsive-block">
+                    <div class="banner-block responsive-item d-flex align-items-center">
+                        <video class="leadin-video video-bgv2" muted playsinline>
+                            <source src="/videos/magus.mp4" type="video/mp4">
+                        </video>
+                       </div>
+                </div>
+            </div>
+
         <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
-                        <a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
                                      style="background-image: url('/images/banner/web_banner.png')"></div>
@@ -44,7 +41,6 @@
                             @endif
                             <div class="banner-bg hidden-md-up"
                                  style="background-image: url('/images/banner/mob_banner.png')"></div>
-                        </a>
                     </div>
                 </div>
             </div>
