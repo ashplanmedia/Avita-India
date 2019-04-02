@@ -40,7 +40,7 @@
                 </div>
             </div>
 
-            <div class="carousel-item">
+          <!---  <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
                         <a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">
@@ -57,7 +57,7 @@
                     </div>
                 </div>
             </div>
-
+--->
             <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
