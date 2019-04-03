@@ -68,7 +68,7 @@
                        <p class="d-lg-block"><img src="@lang('magus.img-feature')"></p>
 		       
 		      <div class="btn-group mt-5 pt-5 pt-md-0 ls-0">
-                                <a class="btn btn-more mx-auto mt-5 mt-md-0 font-weight-normal" href="https://paytmmall.com/shop/search?q=magus">Buy Now<i class="fa fa-chevron-right ml-2" aria-hidden="true"></i></a>
+                                <a class="btn btn-more mx-auto mt-5 mt-md-0 font-weight-normal" href="https://paytmmall.com/shop/search?q=avita%2Bmagus&from=organic&child_site_id=6&site_id=2&page=1&brand=510306">Buy Now<i class="fa fa-chevron-right ml-2" aria-hidden="true"></i></a>
                             </div>
 
                         </div>
