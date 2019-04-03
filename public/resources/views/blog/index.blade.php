@@ -18,7 +18,7 @@
    <a href="/blog6">  <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p><br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="/images/blog/blog6.jpeg" />
+                <img style="width: 100%; height:100%;" src="/images/blog/blog6.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 3rd April, 2019</div>
