@@ -50,6 +50,10 @@
             </div>
 
         </div>
+                  </div>
+           
+           
+                       <div class="row">
 <!-----
 ------->
         <div class="col-12 col-md-6">
@@ -68,10 +72,7 @@
             </div>
 
         </div>
-           </div>
-           
-           
-                       <div class="row">
+ 
           <!-----
             ------->
         <div class="col-12 col-md-6">
@@ -92,6 +93,10 @@
         </div>
 <!-----
 ------->
+          </div>
+           
+           
+                       <div class="row">
         <div class="col-12 col-md-6">
             <div class="event-item mb-5">
 <a href="/blog4"> <p>Avita Liber: Technology to keep YOU high on Fashion</p><br/>
@@ -108,8 +113,7 @@
             </div>
 
         </div>
-             </div>
-      <div class="row">
+        
           <!-----
             ------->
         <div class="col-12 col-md-6">
