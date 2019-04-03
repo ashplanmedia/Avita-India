@@ -11,6 +11,27 @@
         <div class="container">
             <h3 class="section-title ls-0 my-5">@lang('site.blogs_title')</h3>
             <div class="row">
+            <!-----
+------->
+  <div class="col-12 col-md-6">
+            <div class="event-item mb-5">
+   <a href="/blog6">  <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p><br/>
+            <figure>
+            <div class="image-wrap">
+                <img style="width: 100%; height:100%;" src="/images/blog/blog6.jpeg" />
+            </div>
+            <figcaption class="d-flex event-caption coming_soon px-4 py-1">
+        <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 3rd April, 2019</div>
+        <div class="event-status coming_soon ml-auto"></strong>Category:</strong>2 in 1 Laptops</div>
+            </figcaption>
+        </figure>
+      
+            </div>
+
+        </div>
+<!-----
+------->
+
           <!-----
             ------->
         <div class="col-12 col-md-6">
@@ -107,28 +128,9 @@
             </div>
 
         </div>
-<!-----
-------->
-  <div class="col-12 col-md-6">
-            <div class="event-item mb-5">
-   <a href="/blog5">  <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p><br/>
-            <figure>
-            <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="/images/blog/blog6.jpeg" />
-            </div>
-            <figcaption class="d-flex event-caption coming_soon px-4 py-1">
-        <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 3rd April, 2019</div>
-        <div class="event-status coming_soon ml-auto"></strong>Category:</strong>2 in 1 Laptops</div>
-            </figcaption>
-        </figure>
-      
-            </div>
-
-        </div>
-<!-----
-------->
-
-             </div>
+<!-------
+----->
+ </div>
         </div>
     </section>
 
