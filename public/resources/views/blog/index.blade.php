@@ -15,7 +15,7 @@
 ------->
   <div class="col-12 col-md-6">
             <div class="event-item mb-5">
-   <a href="/blog6">  <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p><br/>
+   <a href="/blog6">  <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p></a><br/>
             <figure>
             <div class="image-wrap">
                 <img style="width: 100%; height:100%;" src="/images/blog/blog6.jpg" />
