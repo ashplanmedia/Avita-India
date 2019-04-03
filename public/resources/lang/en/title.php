@@ -3,7 +3,7 @@
 return [
     
    'MAGUS_home'     => 'AVITA MAGUS 12.2',
-    'blog_title'    => 'AVITA INDIA',
+    'blogs_title'    => 'AVITA INDIA',
     'Homepage'        => 'AVITA',
     'MAGUS_spec'    => 'Magus Tech Spec',
     'magus'            => 'AVITA MAGUS',
