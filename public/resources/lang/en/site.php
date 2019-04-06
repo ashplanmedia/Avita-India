@@ -85,10 +85,9 @@ return [
     'productnav_magus'      		=> 'AVITA MAGUS 12.2" 2-in-1 Laptop',
 
     'aboutus_about'                 => 'About AVITA',
-    'aboutus_content1'              => 'At AVITA we believe in the wonder and power of the individual. We make premium technology products that not only fit your lifestyle but are representations of you.',
-    'aboutus_content2'              => 'The AVITA product series which ranges from PC, smart home and IoT devices has come to realization based on three core values: Liberty, Diversity and Individualism for an exceptional and highly personal experience to the new generation of tech users.',
-    'aboutus_content3'              =>  'Your ideas, passions, personal style and what makes you uniquely you inspires us. And we believe that your choice in technology shouldn\'t define you, it should reflect you. Our team is comprised of talented individuals who, before starting up AVITA, worked in product development for some big name tech companies. It was their collective enthusiasm for outstanding design and meaningful technology that brought them together to form AVITA. You can learn more about the company behind AVITA here.',
-        '“Live it up” is more than a tagline to us, it’s a part of our ethos and company DNA.'
+    'aboutus_content_1'             => 'At AVITA we believe in the wonder and power of the individual.  We make premium technology products that not only fit your lifestyle but are representations of you.<br><br>The AVITA product series which ranges from PC, smart home and IoT devices has come to realization based on three core values: Liberty, Diversity and Individualism for an exceptional and highly personal experience to the new generation of tech users.',
+    'aboutus_content_2'             => 'Your ideas, passions, personal style and what makes you uniquely you inspires us. And we believe that your choice in technology shouldn’t define you, it should reflect you.',
+    'aboutus_content_3'             => 'Our team is comprised of talented individuals who, before starting up AVITA, worked in product development for some big name tech companies.  It was their collective enthusiasm for outstanding design and meaningful technology that brought them together to form AVITA. You can learn more about the company behind AVITA here.<br><br>“Live it up” is more than a tagline to us, it’s a part of our ethos and company DNA.',
     
     'contactus_contactus'           => 'Contact Us',
     'contactus_operating'           => 'Operating hours',
