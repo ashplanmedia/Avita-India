@@ -17,7 +17,9 @@
                             <img class="hidden-lg-up " src="images/background/aboutus-min.png"/>
                         </div>
                         <h1 class="section-title my-4 text-left font-weight-light">@lang('site.aboutus_about')</h1>
-                        <p class="aboutus-content">@lang('site.aboutus_content')</p>
+                        <p class="aboutus-content">@lang('site.aboutus_content1')</p>
+                         <p class="aboutus-content">@lang('site.aboutus_content2')</p>
+                        <p class="aboutus-content">@lang('site.aboutus_content3')</p>
                       
                     </div>
                 </div>
