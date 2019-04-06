@@ -85,7 +85,7 @@ return [
     'productnav_magus'      		=> 'AVITA MAGUS 12.2" 2-in-1 Laptop',
 
     'aboutus_about'                 => 'About AVITA',
-    'aboutus_content'               => [
+    'aboutus_content1'              => [
         'At AVITA we believe in the wonder and power of the individual. We make premium technology products that not only fit your lifestyle but are representations of you.',
         'The AVITA product series which ranges from PC, smart home and IoT devices has come to realization based on three core values: Liberty, Diversity and Individualism for an exceptional and highly personal experience to the new generation of tech users.',
         'Your ideas, passions, personal style and what makes you uniquely you inspires us. And we believe that your choice in technology shouldn\'t define you, it should reflect you.',
