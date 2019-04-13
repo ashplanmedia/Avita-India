@@ -61,7 +61,7 @@
     <a href="/blog2"> <p>What are the benefits of smart scale?</p><br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="/images/blog/blog2.jpeg" />
+                <img style="width: 100%; height:100%;" src="/images/blog/blog2.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 22rd Feburary, 2019</div>
