@@ -38,6 +38,7 @@ return [
     'smart_device'                  => 'Smart Device',
     'imago_series'                  => 'IMAGO Series Smart Mirror',
     'modus_scale'                   => 'MODUS Smart Scale',
+    'support'                       => 'Support',
 
     'gender_m'                      => 'Male',
     'gender_f'                      => 'Female',
