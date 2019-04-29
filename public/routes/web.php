@@ -46,16 +46,10 @@ Route::get('/blog4', function(){
 Route::get('/blog5', function(){
     return view('blog.blog5');
 });
-Route::get('/blog6', function(){
-    return view('blog.blog6');
-});
 
 
 //
 
-Route::get('/magus', function(){
-    return view('product.magus');
-});
 
 //sitemap
 
@@ -83,9 +77,9 @@ Route::get('/entry', function (){
       });
       
       
-Route::get('/in/aboutus', 'HomeController@getAboutUs');
+Route::get('/aboutus', 'HomeController@getAboutUs');
 Route::get('/contact_us', 'HomeController@getContact_us');
-Route::get('/in/tnc', 'HomeController@getTerms');
+Route::get('tnc', 'HomeController@getTerms');
 
 // Route::get('/imago', 'HomeController@getImago')->name('imago');
 // Route::get('/imago/spec', 'HomeController@getImagoSpec')->name('imago.spec');
@@ -138,7 +132,7 @@ Route::post('/app/{app_code}/approve',  'Integration\ApplicationController@handl
 
 if ( Request::segment(1) != 'admin') {
 
-    Route::group(['prefix' => '{country}',  'middleware' => 'country' ], function() {
+   // Route::group(['prefix' => '{country}',  'middleware' => 'country' ], function() {
 
         Route::get('/', 'HomeController@redirectToHome');
 
@@ -155,7 +149,7 @@ if ( Request::segment(1) != 'admin') {
          return view('launch');
       });
              
-
+	  //Route::group(['prefix' => '{country}',  'middleware' => 'country' ], function() {
         // Products
         Route::get('/products', function () {
             return redirect()->route('product.overview', ['liber']);
@@ -165,14 +159,14 @@ if ( Request::segment(1) != 'admin') {
          return view('mouse');
              
          });
-       
+       //});
        
        Route::get('/product/{slug}', 'ProductsController@showProductFeatures')->name('product.overview');
         Route::get('/product/{slug}/spec', 'ProductsController@showProductSpec')->name('product.spec');
         Route::get('/product/{slug}/support', 'ProductsController@showProductSupport')->name('product.support');
         Route::get('/product/{slug}/where_to_buy', 'ProductsController@whereToBuy')->name('product.map');
 
-    });
+  //  });
 
 }
 

@@ -49,10 +49,9 @@ class HomeController extends Controller
     }
 
     public function getSupport( ){
-
         $productModels = ProductModel::all();
 
-        $country = session('country', 'hk');
+        $country = 'in';
         $serviceCenters = ServiceCenter::whereCountry($country)->get();
 
         return view('pages.support', compact('productModels', 'serviceCenters'));
@@ -122,7 +121,8 @@ class HomeController extends Controller
 
         $content =  null;
 
-        $country = session('country');
+        $country = 'in';
+		
         $locale = \App::getLocale();
 
         $repair_term = RepairTerm::whereLocale($locale)->whereCountry($country)->first();

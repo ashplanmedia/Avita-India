@@ -16,13 +16,14 @@ class AppMiddleware
      */
     public function handle($request, Closure $next)
     {
-        $country = $this->handleCountry($request);
-
+        $country = 'in';
+	/*
         if ( $country == 'us') {
             return redirect('https://avita-americas.com/');
         } else if ( !$country ) {
-            return redirect('/hk');
+            return redirect('/');
         }
+	*/
 
         $this->handleLocale($request);
 
@@ -32,16 +33,11 @@ class AppMiddleware
 
         $have_liber12 = !in_array($country, ['cn', 'th']);
 
-        view()->share('HAVE_LIBER_12', $have_liber12);
+        view()->share('HAVE_LIBER_12', true);
 
 
         // Handle Redirect for support
         $endpoint = $request->segment(1);
-
-        if ( $endpoint == 'support' ) {
-            $route = "/$country/support";
-            return redirect("/$country/support");
-        }
 
         return $next($request);
     }
@@ -106,7 +102,7 @@ class AppMiddleware
         // Setup default locale.
         $locale = config('app.fallback_locale');
 
-        $languages = supported_language( session('country', 'hk'));
+        $languages = supported_language( session('country', 'in'));
 
         if (count($languages) == 1) {
             $locale = array_first( $languages);
