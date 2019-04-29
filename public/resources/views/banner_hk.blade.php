@@ -40,7 +40,7 @@
                                      style="background-image: url('/images/banner/web banner.jpg')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/mob_banner.png')"></div>
+                                 style="background-image: url('/images/banner/mob_banner.jpg')"></div>
                     </div>
                 </div>
             </div>
