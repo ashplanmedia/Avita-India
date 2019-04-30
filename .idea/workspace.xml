@@ -3,287 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="166645b6-1358-43dc-b8c3-4cd1ecc40495" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner/.AVITA-KV_001_green_web_banners_1920x720_v02-en.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner/.banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner/.banner3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner/.banner3_mobi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner/.banner4_mobi.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner/.banner_mob.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner/mob_banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner/mob_banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/ASPAPIService.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Console/Commands/SyncDeviceData.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Console/Kernel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/CountrySupport.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/DeviceData.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/DeviceDataManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Exceptions/Handler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/APIController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/CustomersController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/DeviceDataController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/FAQsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/FileUploadController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/HomeController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/NewsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/ProductModelsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/ProductTypesController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/ProductsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/RegistrationsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/RepairTermController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/ServiceCenterController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/ServiceProviderController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/SettingController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/ShopsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/SubscriptionsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/UsersController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Admin/WarrantyTermsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Auth/AdminForgotPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Auth/AdminLoginController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Auth/AdminResetPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/CountryController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/DeviceDataAPIController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/HomeController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Integration/ApplicationController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Integration/ApplicationManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/Integration/LoginController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/LanguageController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/MemberController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/NewsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/NewsletterController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/ProductsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Controllers/ServicesController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Kernel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Middleware/APIServiceProviderMiddleware.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Middleware/AppMiddleware.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Middleware/AvitaAuthMiddleware.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Middleware/CountryMiddleware.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Middleware/TrimStrings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Http/Middleware/cors.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Jobs/DownloadDeviceData.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Mail/Welcome.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/Admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/Country.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/Faq.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/News.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/Product.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/ProductModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/ProductRegistration.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/ProductType.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/RepairTerm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/ServiceCenter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/Settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/Subscription.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Models/WarrantyTerm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Notifications/AdminResetPasswordNotification.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Providers/AppServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Providers/AuthServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Providers/EventServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Providers/RouteServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/ServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/Shop.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/UserToken.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/UserTransformer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.app/helper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.bootstrap/app.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.bootstrap/autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.bootstrap/cache/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/assets/data/country_list.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/assets/data/shop_list.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/assets/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/assets/js/components/Example.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/assets/sass/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/assets/sass/app.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/en/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/en/magus.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/en/pagination.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/en/passwords.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/en/site.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/en/title.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/en/validation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/id/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/id/pagination.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/id/passwords.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/id/site.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/id/title.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/id/validation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/sc/site.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/sc/title.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/tc/site.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/tc/title.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/th/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/th/pagination.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/th/passwords.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/th/site.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/th/title.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/th/validation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/vendor/adminlte/de/adminlte.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/vendor/adminlte/en/adminlte.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/vendor/adminlte/es/adminlte.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/vendor/adminlte/fr/adminlte.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/vendor/adminlte/nl/adminlte.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/lang/vendor/adminlte/pt-br/adminlte.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/_blank.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/customers/export-scale.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/customers/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/customers/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/customers/show.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/device_data_form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/faqs/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/faqs/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/news/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/news/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/news/show.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/product_models/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/product_models/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/product_types/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/product_types/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/products/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/products/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/products/show.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/profile.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/registrations/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/registrations/show.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/service_center/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/service_center/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/service_center/show.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/service_provider/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/service_provider/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/settings/repair_terms_form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/settings/repair_terms_list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/shops/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/shops/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/subscription_list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/upload_image_form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/users/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/users/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/warranty/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/warranty/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/admin/warranty/show.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/auth/admin-login.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/auth/admin-register.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/auth/login.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/auth/passwords/admin-email.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/auth/passwords/admin-reset.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/auth/passwords/email.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/auth/register.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/banner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/banner_hk.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/banner_id.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/banner_my.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/banner_ph.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/banner_sg.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/banner_th.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/banner_tw.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/blog.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/blog/blog1.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/blog/blog2.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/blog/blog3.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/blog/blog4.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/blog/blog5.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/blog/blog6.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/blog/details.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/blog/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/campus.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/errors/404.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/global.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/hindu.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/integration/approve.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/launch.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/layouts/app.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/layouts/member.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/layouts/prompt.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/member/change_password.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/member/product_list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/member/product_reg_form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/member/product_reg_success.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/member/profile.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/member/success.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/mouse.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/news/detail.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/news/feature_news_block.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/news/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/news/news_block.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/_support_center.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/about_us.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/contact_us.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/contact_us_cn.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/contact_us_id.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/contact_us_in.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/contact_us_my.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/contact_us_ph.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/contact_us_sg.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/contact_us_th.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/contact_us_tw.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/contact_us_vn.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/global.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/promotion_vanilla_air.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/search_result.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/support.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/terms.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/terms_and_conditions.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/terms_and_conditions_id.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/pages/terms_and_conditions_thai.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/partials/footer.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/partials/header.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/partials/product-navbar.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/baidu_map.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/drivers.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/faq_block.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/imago_feature.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/imago_feature_hk.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/imago_spec.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber12/feature.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber12/feature_id.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber12/feature_sc.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber12/feature_tc.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber12/feature_th.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber_feature.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber_feature_id.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber_feature_sc.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber_feature_tc.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber_feature_th.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber_spec.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber_spec_id.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber_spec_sc.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber_spec_tc.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/liber_spec_th.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/magus.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/magus_spec_hk.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/magus_spec_tc.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/map.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/modus.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/product/support.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/sitemap.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/techideate.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/adminlte/login.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/adminlte/master.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/adminlte/page.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/adminlte/partials/menu-item-top-nav.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/adminlte/partials/menu-item.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/adminlte/passwords/email.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/adminlte/passwords/reset.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/adminlte/register.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/pagination/bootstrap-4.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/pagination/default.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/pagination/simple-bootstrap-4.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.resources/views/vendor/pagination/simple-default.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.routes/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.routes/channels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.routes/console.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/web banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/web_banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner/web_banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/promo-01-en.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/promo-01-en.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -313,12 +36,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/resources/views/banner_hk.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-end-line="31" />
+            <state relative-caret-position="285">
+              <caret line="97" column="27" lean-forward="true" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
               <folding>
-                <element signature="e#774#835#0#HTML" expanded="true" />
-                <element signature="e#1713#1778#0#HTML" expanded="true" />
-                <element signature="e#1918#1980#0#HTML" expanded="true" />
+                <element signature="e#591#652#0#HTML" expanded="true" />
+                <element signature="e#801#862#0#HTML" expanded="true" />
+                <element signature="e#1002#1063#0#HTML" expanded="true" />
+                <element signature="e#1909#1971#0#HTML" expanded="true" />
+                <element signature="e#2108#2170#0#HTML" expanded="true" />
+                <element signature="e#2298#2360#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -333,6 +59,7 @@
       <find>asset()</find>
       <find>asset</find>
       <find>function asset($path, $secure = null</find>
+      <find>mobile_banner.png</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -342,7 +69,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/public/resources/views/mouse.blade.php" />
-        <option value="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" />
         <option value="$PROJECT_DIR$/public/resources/views/product/imago_feature.blade.php" />
         <option value="$PROJECT_DIR$/public/resources/views/product/imago_feature_hk.blade.php" />
         <option value="$PROJECT_DIR$/../public/resources/views/banner_hk.blade.php" />
@@ -353,6 +79,7 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/public/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" />
       </list>
     </option>
   </component>
@@ -479,22 +206,20 @@
               <item name="Avita-Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="$PROJECT_DIR$/.." type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Avita-Laravel" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Avita-Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="$PROJECT_DIR$/.." type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Avita-Laravel" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="banner" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Avita-Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="$PROJECT_DIR$/.." type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Avita-Laravel" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Avita-Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="$PROJECT_DIR$/.." type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Avita-Laravel" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -563,18 +288,18 @@
       <workItem from="1551863787672" duration="206000" />
       <workItem from="1556534370032" duration="50000" />
       <workItem from="1556534425299" duration="3639000" />
-      <workItem from="1556621157666" duration="1270000" />
+      <workItem from="1556621157666" duration="2250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16665000" />
+    <option name="totallyTimeSpent" value="17645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -587,7 +312,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30456027" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30456027" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -669,12 +394,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/resources/views/banner_hk.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-end-line="31" />
+        <state relative-caret-position="285">
+          <caret line="97" column="27" lean-forward="true" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
           <folding>
-            <element signature="e#774#835#0#HTML" expanded="true" />
-            <element signature="e#1713#1778#0#HTML" expanded="true" />
-            <element signature="e#1918#1980#0#HTML" expanded="true" />
+            <element signature="e#591#652#0#HTML" expanded="true" />
+            <element signature="e#801#862#0#HTML" expanded="true" />
+            <element signature="e#1002#1063#0#HTML" expanded="true" />
+            <element signature="e#1909#1971#0#HTML" expanded="true" />
+            <element signature="e#2108#2170#0#HTML" expanded="true" />
+            <element signature="e#2298#2360#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
