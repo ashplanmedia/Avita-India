@@ -14,9 +14,13 @@
 Route::get('/', 'HomeController@redirectToHome');
 
 Route::get('/techideate', function (){
-         return view('techideate');
+    return view('techideate');
 
-         });
+});
+
+Route::get('/magus', function(){
+    return view('product.magus');
+});
 
 
 Route::get('/campus', function(){
@@ -55,7 +59,7 @@ Route::get('/blog5', function(){
 
 Route::get('/sitemap.xml',function(){
     return response()->view('sitemap')
-      ->header('Content-Type', 'xml');
+        ->header('Content-Type', 'xml');
 });
 
 Route::get('/lang/{lang}', ['as' => 'lang.switch', 'uses' => 'LanguageController@switchLang']);
@@ -73,8 +77,8 @@ Route::get('auth/{provider}/callback', 'Auth\AuthController@handleProviderCallba
 
 
 Route::get('/entry', function (){
-         return view('global');
-      });
+    return view('global');
+});
 
 
 Route::get('/aboutus', 'HomeController@getAboutUs');
@@ -132,41 +136,41 @@ Route::post('/app/{app_code}/approve',  'Integration\ApplicationController@handl
 
 if ( Request::segment(1) != 'admin') {
 
-   // Route::group(['prefix' => '{country}',  'middleware' => 'country' ], function() {
+    // Route::group(['prefix' => '{country}',  'middleware' => 'country' ], function() {
 
-        Route::get('/', 'HomeController@redirectToHome');
+    Route::get('/', 'HomeController@redirectToHome');
 
-        // Pages
-        Route::get('/repair_tnc', 'HomeController@getRepairTerms')->name('repair_tnc');
-        Route::get('/support', 'HomeController@getSupport')->name('support');
-        Route::post('/support', 'HomeController@handleSupportRedirect');
-        Route::get('/search_result', 'HomeController@getSearch_result');
+    // Pages
+    Route::get('/repair_tnc', 'HomeController@getRepairTerms')->name('repair_tnc');
+    Route::get('/support', 'HomeController@getSupport')->name('support');
+    Route::post('/support', 'HomeController@handleSupportRedirect');
+    Route::get('/search_result', 'HomeController@getSearch_result');
 
-        // News
-        Route::get('/news/{month?}', 'NewsController@showNewsList')->name('news');
-        Route::get('/news/detail/{slug}', 'NewsController@showNewsDetail')->name('news.detail');
-         Route::get('/launch', function (){
-         return view('launch');
-      });
+    // News
+    Route::get('/news/{month?}', 'NewsController@showNewsList')->name('news');
+    Route::get('/news/detail/{slug}', 'NewsController@showNewsDetail')->name('news.detail');
+    Route::get('/launch', function (){
+        return view('launch');
+    });
 
-	  //Route::group(['prefix' => '{country}',  'middleware' => 'country' ], function() {
-        // Products
-        Route::get('/products', function () {
-            return redirect()->route('product.overview', ['liber']);
-        } )->name('products');
+    //Route::group(['prefix' => '{country}',  'middleware' => 'country' ], function() {
+    // Products
+    Route::get('/products', function () {
+        return redirect()->route('product.overview', ['liber']);
+    } )->name('products');
 
-         Route::get('/accessories/mouse', function (){
-         return view('mouse');
+    Route::get('/accessories/mouse', function (){
+        return view('mouse');
 
-         });
-       //});
+    });
+    //});
 
-       Route::get('/product/{slug}', 'ProductsController@showProductFeatures')->name('product.overview');
-        Route::get('/product/{slug}/spec', 'ProductsController@showProductSpec')->name('product.spec');
-        Route::get('/product/{slug}/support', 'ProductsController@showProductSupport')->name('product.support');
-        Route::get('/product/{slug}/where_to_buy', 'ProductsController@whereToBuy')->name('product.map');
+    Route::get('/product/{slug}', 'ProductsController@showProductFeatures')->name('product.overview');
+    Route::get('/product/{slug}/spec', 'ProductsController@showProductSpec')->name('product.spec');
+    Route::get('/product/{slug}/support', 'ProductsController@showProductSupport')->name('product.support');
+    Route::get('/product/{slug}/where_to_buy', 'ProductsController@whereToBuy')->name('product.map');
 
-  //  });
+    //  });
 
 }
 
