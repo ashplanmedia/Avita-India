@@ -19,6 +19,25 @@
                 </div>
             </div>
 
+
+            <div class="carousel-item">
+                <div class="responsive-block">
+                    <div class="banner-block responsive-item">
+                        <a href="{{ route('product.overview', ['liber12']) }}">
+                            @if( App::isLocale('en') )
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v02-en.jpg')"></div>
+                            @else
+                                <div class="banner-bg hidden-sm-down"
+                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v02-en.jpg')"></div>
+                            @endif
+                            <div class="banner-bg hidden-md-up"
+                                 style="background-image: url('/images/banner/banner3_mob.jpg')"></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
             <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item d-flex align-items-center">
@@ -34,10 +53,10 @@
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/web banner.jpg')"></div>
+                                 style="background-image: url('/images/banner/web_banner.jpg')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/web banner.jpg')"></div>
+                                 style="background-image: url('/images/banner/web_banner.jpg')"></div>
                         @endif
                         <div class="banner-bg hidden-md-up"
                              style="background-image: url('/images/banner/mob_banner.jpg')"></div>
@@ -50,6 +69,8 @@
                 <li data-target="#home_banner" data-slide-to="0" class="active"></li>
                 <li data-target="#home_banner" data-slide-to="1"></li>
                 <li data-target="#home_banner" data-slide-to="2"></li>
+                <li data-target="#home_banner" data-slide-to="3"></li>
+
             </ol>
         </div>
 </section>
