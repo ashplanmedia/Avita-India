@@ -1,13 +1,8 @@
 <?php
 
 return [
-    
-   'MAGUS_home'     => 'AVITA MAGUS 12.2',
-    'blogs_title'    => 'AVITA INDIA',
+
     'Homepage'        => 'AVITA',
-    'MAGUS_spec'    => 'Magus Tech Spec',
-    'magus'            => 'AVITA MAGUS',
-    'MAGUS_home'       => 'AVITA MAGUS', 
     'LIBER_12.5_home' => 'AVITA LIBER 12.5” | Laptops',
     'LIBER_13_home'   => 'AVITA LIBER 13.3" & 14"',
     'LIBER_spec'      => 'AVITA LIBER Specification',

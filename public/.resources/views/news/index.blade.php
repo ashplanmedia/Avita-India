@@ -505,8 +505,8 @@
 @section('js')
     <script>
         $('#news-month-option').change( function(event) {
-            
-			window.location = 'news/'+ $(this).val() ;
+
+            window.location = '{{$country}}/news/'+ $(this).val() ;
         })
     </script>
 @endsection

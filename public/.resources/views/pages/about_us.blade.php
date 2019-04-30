@@ -18,8 +18,9 @@
                         </div>
                         <h1 class="section-title my-4 text-left font-weight-light">@lang('site.aboutus_about')</h1>
                         <p class="aboutus-content">@lang('site.aboutus_content_1')</p>
-                        <p class="aboutus-content">@lang('site.aboutus_content_2')</p>
+                         <p class="aboutus-content">@lang('site.aboutus_content_2')</p>
                         <p class="aboutus-content">@lang('site.aboutus_content_3')</p>
+                      
                     </div>
                 </div>
             </div>

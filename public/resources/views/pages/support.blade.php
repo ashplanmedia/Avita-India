@@ -23,7 +23,14 @@
                                 <div class="row no-gutters my-4 align-content-center justify-content-center col-12 col-sm-8 col-lg-12 mx-auto">
                                     <div class="col-12 col-md-12 col-md-12 ml-0 ml-md-4">
                                         <div class="form-group mb-2">
-                                                    
+                               <!-- <select id="product_type_field" name="type" class="form-control custom-select mb-3">
+                                
+                                <option>Select</option>
+                                <option>Laptops</option>
+                                <option>Smart Devices</option>
+                                </select>  -->
+                             
+                             
                              
                                      <select id="product_type_field" name="type" class="form-control custom-select mb-3">
 
@@ -57,7 +64,7 @@
                             </form>
                                 
                         <br/>
-                        <img src="/images/contact.png" style="width:350px;">
+                        <img src="http://avita-india.com/images/contact.png" style="width:350px;">
 
                         </div>
 
@@ -72,11 +79,7 @@
 
                 <div class="container">
 
-                    @if ( $country == 'tw' )
-                        <div class="h3 section-title mb-3 ls-0">維修中心</div>
-                    @else
                         <div class="h3 section-title mb-3 ls-0">@lang('site.support_title_2')</div>
-                    @endif
 
 
                     @foreach( $serviceCenters as $center )

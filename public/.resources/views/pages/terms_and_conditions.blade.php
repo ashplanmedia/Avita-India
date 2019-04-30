@@ -2,7 +2,11 @@
 
 @php
 
+    if( $country == 'tw'){
+        $page_title = "隱私政策";
+    } else {
         $page_title = __('title.tnc');
+    }
 
 @endphp
 

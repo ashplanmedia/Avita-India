@@ -1,7 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 @php
-	$country = 'in';
     $xml_lang = ($lang == 'en') ? 'en' : 'zh-hk';
 
     $keyword = metaKeywordByCountryAndLanguage( $country, $lang);
@@ -63,26 +62,25 @@
 
     <!-- End  Global site tag (gtag.js) - Google Analytics  -->
 
-    <!-- Facebook Pixel -->
-    <script>
-        !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-            n.queue=[];t=b.createElement(e);t.async=!0;
-            t.src=v;s=b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t,s)}(window, document,'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '149202439004103');
-        fbq('track', 'PageView');
-    </script>
-    <!-- End Facebook Pixel -->
-
-    <!-- Facebook Pixel (noscript) -->
-    <noscript><img height="1" width="1"
-                   style="display:none" src="https://www.facebook.com/tr?id=149202439004103&ev=PageView&noscript=1"
-        /></noscript>
-    <!-- End Facebook Pixel (noscript) -->
+   <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '337860523606181'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=337860523606181&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
 
 
 

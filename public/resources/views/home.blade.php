@@ -40,7 +40,7 @@
                 <div class="banner-block s-banner">
                     <div class="banner-inner">
                         <div class="banner-wrap">
-                            <a class="banner-bg" href="/aboutus" style="background-image: url('/images/demo/@lang('site.home_photo3_image')')"></a>
+                            <a class="banner-bg" href="http://avitain.ashplanmedia.com/aboutus" style="background-image: url('/images/demo/@lang('site.home_photo3_image')')"></a>
                         </div>
                     </div>
                 </div>

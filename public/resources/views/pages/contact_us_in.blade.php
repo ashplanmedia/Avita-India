@@ -18,7 +18,7 @@
     <div class="col-sm-6">
      <h2 class="contact_us_title">General Sales Enquiry :</h2>
      
-                                <div class="mb-2">+91-9840024085,<br/> +91-11-6635-1144</div>
+                                <div class="mb-2">+91-9840024085,<br/> +91-11-61273133</div>
     
                                 <div class="mb-2"><b>Email :</b><br>
                                     INsales@nexstgo.com</div>
@@ -28,13 +28,14 @@
                                 
                                 
                                 <div class="mb-2"><b>Address :</b><br>
-                                    211B - 211C, 2nd Floor, Elegance Tower, Jasola Vihar, New Delhi, Delhi-110025</div>
+                                    427, Regus, Shivaji Stadium Metro Station, <br/> RCube, Lower Ground Floor, New Delhi 110001</div>
                                     <h2 class="contact_us_title">For Service :</h2>
                         <div class="mb-2">Toll Free : 1800-22-3902</div>
      
     </div>
     <div class="col-sm-6">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.0533242758497!2d77.2863191150805!3d28.538116882455064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce6aa9cfc4f99%3A0x665909b7d4962e0c!2sElegance+Tower%2C+Jasola+Vihar%2C+New+Delhi%2C+Delhi+110025!5e0!3m2!1sen!2sin!4v1556101695940!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>      
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.028794755144!2d77.20932811508251!3d28.62889908241919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd494319dd85%3A0xe6cab61d187fd1ab!2sRegus+-+New+Delhi%2C+Shivaji!5e0!3m2!1sen!2sin!4v1545033849724" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe> 
+      
       
     </div>
   </div>

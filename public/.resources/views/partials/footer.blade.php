@@ -35,7 +35,7 @@
                         <div class="d-flex flex-column mr-3 ml-md-0 small-lsm-little">
                             <a href="{{ route('products') }}" class="my-1">@lang('site.products')</a>
                             <a href="{{ route('news') }}" class="my-1">@lang('site.news')</a>
-                            <a href="/aboutus" class="my-1">@lang('site.footer_aboutus')</a>
+                            <a href="/in/aboutus" class="my-1">@lang('site.footer_aboutus')</a>
                         </div>
                         <div class="d-flex flex-column ml-5 ml-md-0 small-lsm-little">
 
@@ -52,8 +52,8 @@
                         <div class="d-flex flex-column ml-5 ml-md-0 small-lsm-little">
                             <a href="{{ route('support') }}" class="my-1">@lang('site.productnav_support')</a>
                             <a href="{{ route('repair_tnc') }}" class="my-1">@lang('site.footer_repair_tnc')</a>
-                            <a href="/tnc" class="my-1">@lang('site.terms')</a>
-                            <a href="/tnc" class="my-1">@lang('site.privacy')</a>
+                            <a href="http://avita-india.com/in/tnc" class="my-1">@lang('site.terms')</a>
+                            <a href="http://avita-india.com/in/tnc" class="my-1">@lang('site.privacy')</a>
                         </div>
                     </div>
                     <div class="d-flex hidden-sm-up">
@@ -77,8 +77,8 @@
 
                             <a href="http://avita-india.com/in/repair_tnc" class="my-1">@lang('site.footer_repair_tnc')</a>
 
-                            <a href="/tnc" class="my-1">@lang('site.terms')</a>
-                            <a href="/tnc" class="my-1">@lang('site.privacy')</a>
+                            <a href="http://avita-india.com/in/tnc" class="my-1">@lang('site.terms')</a>
+                            <a href="http://avita-india.com/in/tnc" class="my-1">@lang('site.privacy')</a>
 
                         </div>
                     </div>
@@ -92,7 +92,7 @@
                         <div class="d-flex flex-column mr-3 ml-md-0 small-lsm-little">
                             <strong>Available On</strong>
                             <a href="https://www.amazon.in/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=avita" class="my-1">Amazon</a>
-                            <a href="#" class="my-1">Flipkart</a>
+                            <a href="https://www.flipkart.com/search?q=avita" class="my-1">Flipkart</a>
                             <a href="https://www.tatacliq.com/search/?searchCategory=all&text=avita" class="my-1">Tata Cliq</a>
                             <a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2" class="my-1">Paytm Mall</a>
                         </div>
@@ -107,7 +107,7 @@
                 <div class="col-12 col-md-4 pb-3 py-md-0 text-md-right">
                     <div class="d-flex flex-wrap h-100 align-content-between">
                         <div class="col-12 info-lang w-100 px-0 hidden-sm-down">
-                            <a class="col-6 px-0" href="/entry"><i class="fa fa-globe mr-2" aria-hidden="true"></i><span class="">INDIA</span></a>
+                            <a class="col-6 px-0" href="http://avita-india.com/entry"><i class="fa fa-globe mr-2" aria-hidden="true"></i><span class="">INDIA</span></a>
                         </div>
 
 
