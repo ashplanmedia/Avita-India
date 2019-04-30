@@ -12,7 +12,7 @@ class ProductsController extends Controller
 {
 
     protected function productFromURL($country, $slug ) {
-		$country = 'in';
+        $country = 'in';
         $product = Product::whereCountry($country)->where('short_code', $slug)->first();
 
         // Fallback..
@@ -24,8 +24,30 @@ class ProductsController extends Controller
     }
 
     public function showProductFeatures( $slug) {
-		$country = 'in';
+        $country = 'in';
         $product = $this->productFromURL($country, $slug);
+        if ( $slug == 'magus12-2in1-laptop' ) {
+            if ( $country == 'sg' ) {
+                return view('product.magus_sg', compact( 'product'));
+            } elseif ( $country == 'id' ) {
+                return view('product.magus_id', compact( 'product'));
+            } else {
+                return view('product.magus', compact( 'product'));
+            }
+        }
+        if ( $slug == 'magus12-2in1-laptop-c' ) {
+            return view('product.magus_tc', compact( 'product'));
+        }
+        if ( $slug == 'magus-spec' ) {
+            if ( $country == 'id' ) {
+                return view('product.magus_spec_id', compact( 'product'));
+            } else {
+                return view('product.magus_spec_hk', compact( 'product'));
+            }
+        }
+        if ( $slug == 'magus-spec-c' ) {
+            return view('product.magus_spec_tc', compact( 'product'));
+        }
 
         if ( !$product ) {
             abort(404);
@@ -41,7 +63,7 @@ class ProductsController extends Controller
     }
 
     public function showProductSpec( $slug) {
-		$country = 'in';
+        $country = 'in';
         $product = $this->productFromURL($country, $slug);
 
         if ( !$product ) {
@@ -58,7 +80,7 @@ class ProductsController extends Controller
     }
 
     public function showProductSupport(Request $request, $slug) {
-		$country = 'in';
+        $country = 'in';
         $product = $this->productFromURL($country, $slug);
 
         if ( !$product ) {
@@ -82,8 +104,8 @@ class ProductsController extends Controller
     }
 
     public function whereToBuy($slug){
-		$country = 'in';
-		
+        $country = 'in';
+
         $product = Product::where('short_code', $slug)->first();
 
         if ( !$product ) {
@@ -106,7 +128,7 @@ class ProductsController extends Controller
 
         $shops = $query->get();
 
-		return view('product.map', compact( 'product', 'shops'));
+        return view('product.map', compact( 'product', 'shops'));
 
     }
 
