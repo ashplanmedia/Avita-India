@@ -6,7 +6,7 @@
         <div class="navbar-toggler navbar-toggler-left hidden-md-up">
             <span></span>
         </div>
-        <a class="navbar-brand mr-0 hidden-md-up" href="http://avitain.ashplanmedia.com">
+        <a class="navbar-brand mr-0 hidden-md-up" href="http://betaindia.ashplan.media">
             <img src="/images/logo.png"/>
         </a>
 
@@ -32,7 +32,7 @@
         <div class="navbar-collapse">
             <ul class="navbar-nav mr-auto d-md-flex flex-md-row align-items-md-center justify-content-md-between">
                 <li class="hidden-sm-down">
-                    <a class="" href="http://avitain.ashplanmedia.com/"><img src="/images/logo.png"/></a>
+                    <a class="" href="http://betaindia.ashplan.media"><img src="/images/logo.png"/></a>
                 </li>
                 <li class="nav-item has-dropdown">
                     <input id="header_product" type="checkbox" hidden="">
