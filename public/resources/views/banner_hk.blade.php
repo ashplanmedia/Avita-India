@@ -64,13 +64,13 @@
                         <a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/website_banner.png')"></div>
+                                     style="background-image: url('/images/banner/web_banner.jpg')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/website_banner.png')"></div>
+                                     style="background-image: url('/images/banner/web_banner.png')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/mobile_banner.png')"></div>
+                                 style="background-image: url('/images/banner/mob_banner.png')"></div>
                         </a>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                 <li data-target="#home_banner" data-slide-to="1"></li>
                 <li data-target="#home_banner" data-slide-to="2"></li>
                 <li data-target="#home_banner" data-slide-to="3"></li>
-             </ol>
+            </ol>
         </div>
 </section>
 
