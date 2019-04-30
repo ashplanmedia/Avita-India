@@ -14,9 +14,9 @@
 Route::get('/', 'HomeController@redirectToHome');
 
 Route::get('/techideate', function (){
-    return view('techideate');
+         return view('techideate');
 
-});
+         });
 
 
 Route::get('/campus', function(){
@@ -46,22 +46,16 @@ Route::get('/blog4', function(){
 Route::get('/blog5', function(){
     return view('blog.blog5');
 });
-Route::get('/blog6', function(){
-    return view('blog.blog6');
-});
 
 
 //
 
-Route::get('/magus', function(){
-    return view('product.magus');
-});
 
 //sitemap
 
 Route::get('/sitemap.xml',function(){
     return response()->view('sitemap')
-        ->header('Content-Type', 'xml');
+      ->header('Content-Type', 'xml');
 });
 
 Route::get('/lang/{lang}', ['as' => 'lang.switch', 'uses' => 'LanguageController@switchLang']);
@@ -79,20 +73,21 @@ Route::get('auth/{provider}/callback', 'Auth\AuthController@handleProviderCallba
 
 
 Route::get('/entry', function (){
-    return view('global');
-});
+         return view('global');
+      });
 
 
-Route::get('/in/aboutus', 'HomeController@getAboutUs');
+Route::get('/aboutus', 'HomeController@getAboutUs');
 Route::get('/contact_us', 'HomeController@getContact_us');
-Route::get('/in/tnc', 'HomeController@getTerms');
+Route::get('tnc', 'HomeController@getTerms');
+
 // Route::get('/imago', 'HomeController@getImago')->name('imago');
 // Route::get('/imago/spec', 'HomeController@getImagoSpec')->name('imago.spec');
 // Route::get('/modus', 'HomeController@getModus')->name('modus');
 
 //redirect to https://avita-americas.com/
 Route::get('/us', function(){
-    return redirect('https://avita-india.com/');
+    return redirect('https://avita-americas.com/');
 });
 
 
@@ -137,7 +132,7 @@ Route::post('/app/{app_code}/approve',  'Integration\ApplicationController@handl
 
 if ( Request::segment(1) != 'admin') {
 
-    Route::group(['prefix' => '{country}',  'middleware' => 'country' ], function() {
+   // Route::group(['prefix' => '{country}',  'middleware' => 'country' ], function() {
 
         Route::get('/', 'HomeController@redirectToHome');
 
@@ -150,32 +145,31 @@ if ( Request::segment(1) != 'admin') {
         // News
         Route::get('/news/{month?}', 'NewsController@showNewsList')->name('news');
         Route::get('/news/detail/{slug}', 'NewsController@showNewsDetail')->name('news.detail');
-        Route::get('/launch', function (){
-            return view('launch');
-        });
+         Route::get('/launch', function (){
+         return view('launch');
+      });
 
-
+	  //Route::group(['prefix' => '{country}',  'middleware' => 'country' ], function() {
         // Products
         Route::get('/products', function () {
             return redirect()->route('product.overview', ['liber']);
         } )->name('products');
 
-        Route::get('/accessories/mouse', function (){
-            return view('mouse');
+         Route::get('/accessories/mouse', function (){
+         return view('mouse');
 
-        });
+         });
+       //});
 
-
-        Route::get('/product/{slug}', 'ProductsController@showProductFeatures')->name('product.overview');
+       Route::get('/product/{slug}', 'ProductsController@showProductFeatures')->name('product.overview');
         Route::get('/product/{slug}/spec', 'ProductsController@showProductSpec')->name('product.spec');
         Route::get('/product/{slug}/support', 'ProductsController@showProductSupport')->name('product.support');
         Route::get('/product/{slug}/where_to_buy', 'ProductsController@whereToBuy')->name('product.map');
 
-    });
+  //  });
 
 }
 
-//Parse error: syntax error, unexpected 'Route' (T_STRING)
 
 
 // ====================================
@@ -220,6 +214,7 @@ Route::group(['prefix' => 'admin', 'middleware' => ['auth:admin'],  'namespace' 
     Route::get('export', 'CustomersController@export')->name('customers.export');
     Route::post('customer/{customer}/export-data', 'CustomersController@exportDeviceData')->name('customer.export-data');
     Route::resource('customers', 'CustomersController');
+
 
     Route::resource('product_types', 'ProductTypesController');
     Route::resource('products', 'ProductsController');
