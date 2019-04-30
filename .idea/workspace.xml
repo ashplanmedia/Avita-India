@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166645b6-1358-43dc-b8c3-4cd1ecc40495" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/resources/lang/en/site.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/lang/en/site.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resources/lang/en/title.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/lang/en/title.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resources/views/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/partials/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="166645b6-1358-43dc-b8c3-4cd1ecc40495" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +27,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/resources/views/partials/header.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="207" selection-start-line="207" selection-end-line="207" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/routes/web.php">
+        <entry file="file://$PROJECT_DIR$/public/resources/views/product/magus.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="328">
-              <caret line="242" selection-start-line="242" selection-end-line="242" />
+              <caret line="208" selection-start-line="208" selection-end-line="208" />
+              <folding>
+                <element signature="e#1462#1521#0#HTML" expanded="true" />
+                <element signature="e#1585#1644#0#HTML" expanded="true" />
+                <element signature="e#7062#7094#0#HTML" expanded="true" />
+                <element signature="e#7113#7188#0#HTML" expanded="true" />
+                <element signature="e#7397#7468#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,6 +77,8 @@
         <option value="$PROJECT_DIR$/public/resources/lang/en/site.php" />
         <option value="$PROJECT_DIR$/public/resources/lang/en/title.php" />
         <option value="$PROJECT_DIR$/public/routes/web.php" />
+        <option value="$PROJECT_DIR$/public/resources/lang/en/magus.php" />
+        <option value="$PROJECT_DIR$/public/resources/views/product/magus.blade.php" />
       </list>
     </option>
   </component>
@@ -188,7 +183,9 @@
     <option name="width" value="1161" />
     <option name="height" value="636" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -225,7 +222,7 @@
               <item name="Avita-Laravel" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="lang" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Avita-Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -233,8 +230,8 @@
               <item name="Avita-Laravel" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="lang" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="en" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="product" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -303,12 +300,12 @@
       <workItem from="1551863787672" duration="206000" />
       <workItem from="1556534370032" duration="50000" />
       <workItem from="1556534425299" duration="3639000" />
-      <workItem from="1556621157666" duration="3823000" />
+      <workItem from="1556621157666" duration="4094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19218000" />
+    <option name="totallyTimeSpent" value="19489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -451,6 +448,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="242" selection-start-line="242" selection-end-line="242" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/resources/views/partials/header.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -458,10 +462,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/routes/web.php">
+    <entry file="file://$PROJECT_DIR$/public/resources/lang/en/magus.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
-          <caret line="242" selection-start-line="242" selection-end-line="242" />
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/resources/views/product/magus.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="208" selection-start-line="208" selection-end-line="208" />
+          <folding>
+            <element signature="e#1462#1521#0#HTML" expanded="true" />
+            <element signature="e#1585#1644#0#HTML" expanded="true" />
+            <element signature="e#7062#7094#0#HTML" expanded="true" />
+            <element signature="e#7113#7188#0#HTML" expanded="true" />
+            <element signature="e#7397#7468#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
