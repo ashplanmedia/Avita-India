@@ -112,7 +112,7 @@ class ProductsController extends Controller
             abort(404);
         }
 
-        if ( \App::isLocale('en') ) {
+        if ( App::isLocale('en') ) {
             $query = Shop::select('shops.*')->leftJoin('shop_translations', function ($join) {
                 $join->on('shops.id', '=', 'shop_translations.shop_id');
                 $join->on('shop_translations.locale', '=', \DB::raw('"en"') );
