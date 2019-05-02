@@ -2,6 +2,7 @@
 
 return [
     // universal
+
     'products'                      => 'Products',
     'news'                          => 'What\'s New',
     'service'                       => 'Service',
@@ -38,10 +39,13 @@ return [
     'imago_series'                  => 'IMAGO Series Smart Mirror',
     'modus_scale'                   => 'MODUS Smart Scale',
     'support'                       => 'Support',
+
     'gender_m'                      => 'Male',
     'gender_f'                      => 'Female',
-    'productnav_magus'      		=> 'AVITA MAGUS 12.2" 2-in-1 Laptop',
     // universal
+    'accessories'               =>  'Assessories',
+    'mouse'                     => 'UBIQUE Mouse',
+
     'blogs_title'                   => 'AVITA INDIA | Blogs',
     'blog1'                    => 'AVITA’s Guide to Buying the Perfect Student Laptop',
     'blog2'                    => 'What are the benefits of smart scale?',
@@ -49,8 +53,8 @@ return [
     'blog4'                    => 'Avita Liber: Technology to keep YOU high on Fashion',
     'blog5'                    => 'Why should your Personal Laptop be Light Weighted?',
     'blog6'                    => 'AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops',
-    'accessories'                   => 'Accessories',
-    'mouse'                         => 'UBIQUE Mouse',
+
+    //blog end
 
 
     'header_store'                  => 'AVITA Store',
@@ -82,14 +86,9 @@ return [
     'productnav_magus'      		=> 'AVITA MAGUS 12.2" 2-in-1 Laptop',
 
     'aboutus_about'                 => 'About AVITA',
-    'aboutus_content'               => [
-        'At AVITA we believe in the wonder and power of the individual. We make premium technology products that not only fit your lifestyle but are representations of you.',
-        'The AVITA product series which ranges from PC, smart home and IoT devices has come to realization based on three core values: Liberty, Diversity and Individualism for an exceptional and highly personal experience to the new generation of tech users.',
-        'Your ideas, passions, personal style and what makes you uniquely you inspires us. And we believe that your choice in technology shouldn\'t define you, it should reflect you.',
-        'Our team is comprised of talented individuals who, before starting up AVITA, worked in product development for some big name tech companies. It was their collective enthusiasm for outstanding design and meaningful technology that brought them together to form AVITA. You can learn more about the company behind AVITA here.',
-        '“Live it up” is more than a tagline to us, it’s a part of our ethos and company DNA.',
-    ],
-
+    'aboutus_content_1'             => 'At AVITA we believe in the wonder and power of the individual.  We make premium technology products that not only fit your lifestyle but are representations of you.<br><br>The AVITA product series which ranges from PC, smart home and IoT devices has come to realization based on three core values: Liberty, Diversity and Individualism for an exceptional and highly personal experience to the new generation of tech users.',
+    'aboutus_content_2'             => 'Your ideas, passions, personal style and what makes you uniquely you inspires us. And we believe that your choice in technology shouldn’t define you, it should reflect you.',
+    'aboutus_content_3'             => 'Our team is comprised of talented individuals who, before starting up AVITA, worked in product development for some big name tech companies.  It was their collective enthusiasm for outstanding design and meaningful technology that brought them together to form AVITA. You can learn more about the company behind AVITA here.<br><br>“Live it up” is more than a tagline to us, it’s a part of our ethos and company DNA.',
 
     'contactus_contactus'           => 'Contact Us',
     'contactus_operating'           => 'Operating hours',
@@ -241,6 +240,6 @@ return [
 
     ],
 
-    'experience_liber125_here' => '? Experience LIBER 12.5" here! ',
+    'experience_liber125_here' => 'Experience LIBER 12.5" here! ',
     'coming_soon' => 'Coming Soon',
 ];
