@@ -138,18 +138,18 @@
             </div>
         </section>
 
-        <div class="gotop-wrap">
-            <button class="btn-gotop"><span class="sr-only">Back to Top</span></button>
-        </div>
 
-    </main>
+        <div class="gotop-wrap">
+        <button class="btn-gotop"><span class="sr-only">Back to Top</span></button>
+    </div>
+
+</main>
 @endsection
 
 @section('js')
     <script>
         $('#news-month-option').change( function(event) {
-
-            window.location = '{{$country}}/news/'+ $(this).val() ;
+			window.location = 'news/'+ $(this).val() ;
         })
     </script>
 @endsection
