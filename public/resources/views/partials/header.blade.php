@@ -59,8 +59,9 @@
                                             </li>
 
                                             <li class="nav-item">
-                                                <a class="nav-link px-md-4 py-2" href="{{ route('product.overview', ['liber-new-generation']) }}">LIBER New Generation </a>
+                                                <a class="nav-link px-md-4 py-2" href="{{ route('product.overview', ['liber-new-generation']) }}">LIBER New Generation</a>
                                             </li>
+
                                             <li class="nav-item">
                                                 <a class="nav-link px-md-4 py-2" href="{{ route('product.overview', 'magus12-2in1-laptop') }}">@lang('magus.name')</a>
                                             </li>
@@ -98,7 +99,6 @@
                                         <li class="nav-item">
 
                                             <a class="nav-link px-md-4 py-2" href="/accessories/mouse">@lang('site.mouse')</a>
-                                        <!--<a class="nav-link px-md-4 py-2" href="http://avita-india.com/in/accessories/mouse">@lang('site.mouse')</a>-->
                                         </li>
 
                                     </ul>
