@@ -2,20 +2,18 @@
 
 namespace App\Console;
 
-use App\Console\Commands\SyncDeviceData;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
-class Kernel extends ConsoleKernel
-{
+class Kernel extends ConsoleKernel {
     /**
      * The Artisan commands provided by your application.
      *
      * @var array
      */
     protected $commands = [
-        Commands\SyncDeviceData::class
-        //
+        // Commands\Inspire::class,
+        Commands\Serve::class,
     ];
 
     /**
@@ -24,18 +22,8 @@ class Kernel extends ConsoleKernel
      * @param  \Illuminate\Console\Scheduling\Schedule  $schedule
      * @return void
      */
-    protected function schedule(Schedule $schedule)
-    {
-         $schedule->command(SyncDeviceData::class)->dailyAt('01:00');
-    }
-
-    /**
-     * Register the Closure based commands for the application.
-     *
-     * @return void
-     */
-    protected function commands()
-    {
-        require base_path('routes/console.php');
+    protected function schedule(Schedule $schedule) {
+        // $schedule->command('inspire')
+        //  ->hourly();
     }
 }
