@@ -173,7 +173,7 @@ class ProductsController extends Controller
             return ASPAPIService::getProductNumbersByMarketingNumber( $request->get('marketing_number') );
         } else {
             return ASPAPIService::getProductNumbersByProductSeries( $request->get('series') );
-        }
+        }https://avita-india.com/product/liber-new-generation
 
 
 
