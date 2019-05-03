@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166645b6-1358-43dc-b8c3-4cd1ecc40495" name="Default Changelist" comment="" />
+    <list default="true" id="166645b6-1358-43dc-b8c3-4cd1ecc40495" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/public/resources/lang/en/title.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/lang/en/title.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/resources/views/product/magus_spec_hk.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
@@ -60,6 +62,15 @@
                 <element signature="e#2319#2352#0#HTML" expanded="true" />
                 <element signature="e#3484#3490#0#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/resources/lang/en/title.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -121,7 +132,6 @@
         <option value="$PROJECT_DIR$/public/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/public/resources/views/banner_hk.blade.php" />
-        <option value="$PROJECT_DIR$/public/resources/lang/en/title.php" />
         <option value="$PROJECT_DIR$/public/resources/views/product/magus.blade.php" />
         <option value="$PROJECT_DIR$/public/app/Console/Commands/Serve.php" />
         <option value="$PROJECT_DIR$/public/app/Console/Kernel.php" />
@@ -148,6 +158,7 @@
         <option value="$PROJECT_DIR$/public/resources/views/partials/header.blade.php" />
         <option value="$PROJECT_DIR$/public/resources/views/product/liber-new-generation.blade.php" />
         <option value="$PROJECT_DIR$/public/resources/views/product/magus_spec_hk.blade.php" />
+        <option value="$PROJECT_DIR$/public/resources/lang/en/title.php" />
       </list>
     </option>
   </component>
@@ -291,7 +302,7 @@
               <item name="Avita-Laravel" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lang" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Avita-Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -299,8 +310,8 @@
               <item name="Avita-Laravel" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="product" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lang" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="en" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -376,12 +387,12 @@
       <workItem from="1556802762208" duration="4515000" />
       <workItem from="1556808638901" duration="590000" />
       <workItem from="1556816586041" duration="7715000" />
-      <workItem from="1556859113037" duration="5639000" />
+      <workItem from="1556859113037" duration="5949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41989000" />
+    <option name="totallyTimeSpent" value="42299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -531,13 +542,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/images/blog/blog2.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/resources/lang/en/title.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/blog/blog6.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -798,6 +802,13 @@
             <element signature="e#2319#2352#0#HTML" expanded="true" />
             <element signature="e#3484#3490#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/resources/lang/en/title.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
         </state>
       </provider>
     </entry>
