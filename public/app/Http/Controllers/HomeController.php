@@ -123,7 +123,7 @@ class HomeController extends Controller
 
         $country = 'in';
 		
-        $locale = \App::getLocale();
+        $locale = App::getLocale();
 
         $repair_term = RepairTerm::whereLocale($locale)->whereCountry($country)->first();
 
