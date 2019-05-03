@@ -43,7 +43,7 @@ return [
     'gender_m'                      => 'Male',
     'gender_f'                      => 'Female',
     // universal
-    'accessories'               =>  'Assessories',
+    'accessories'               =>  'Accessories',
     'mouse'                     => 'UBIQUE Mouse',
 
     'blogs_title'                   => 'AVITA INDIA | Blogs',
@@ -83,7 +83,7 @@ return [
     'productnav_spec'               => 'Tech Spec',
     'productnav_support'            => 'Support',
     'productnav_wheretobuy'         => 'Where to buy',
-    'productnav_magus'      		=> 'AVITA MAGUS 12.2" 2-in-1 Laptop',
+    'productnav_magus'      		=> 'MAGUS 12.2" 2-in-1 Laptop',
 
     'aboutus_about'                 => 'About AVITA',
     'aboutus_content_1'             => 'At AVITA we believe in the wonder and power of the individual.  We make premium technology products that not only fit your lifestyle but are representations of you.<br><br>The AVITA product series which ranges from PC, smart home and IoT devices has come to realization based on three core values: Liberty, Diversity and Individualism for an exceptional and highly personal experience to the new generation of tech users.',
