@@ -159,6 +159,10 @@ if ( Request::segment(1) != 'admin') {
         return redirect()->route('product.overview', ['liber']);
     } )->name('products');
 
+    Route::get('/products/liber-new-generation',function(){
+        return view('product.liber-new-generation');
+    });
+
     Route::get('/accessories/mouse', function (){
         return view('mouse');
 
