@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166645b6-1358-43dc-b8c3-4cd1ecc40495" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resources/views/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/partials/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="166645b6-1358-43dc-b8c3-4cd1ecc40495" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +36,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/resources/views/product/liber-new-generation.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="461" selection-start-line="461" selection-end-line="461" />
               <folding>
                 <element signature="e#534#611#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/resources/views/product/magus_spec_hk.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="153" selection-start-line="153" selection-end-line="153" />
+              <folding>
+                <element signature="e#1948#1981#0#HTML" expanded="true" />
+                <element signature="e#2081#2114#0#HTML" expanded="true" />
+                <element signature="e#2201#2234#0#HTML" expanded="true" />
+                <element signature="e#2319#2352#0#HTML" expanded="true" />
+                <element signature="e#3484#3490#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,6 +147,7 @@
         <option value="$PROJECT_DIR$/public/routes/web.php" />
         <option value="$PROJECT_DIR$/public/resources/views/partials/header.blade.php" />
         <option value="$PROJECT_DIR$/public/resources/views/product/liber-new-generation.blade.php" />
+        <option value="$PROJECT_DIR$/public/resources/views/product/magus_spec_hk.blade.php" />
       </list>
     </option>
   </component>
@@ -289,16 +302,6 @@
               <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="product" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="Avita-Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="$PROJECT_DIR$/.." type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Avita-Laravel" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="product" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="liber-new-generation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -373,12 +376,12 @@
       <workItem from="1556802762208" duration="4515000" />
       <workItem from="1556808638901" duration="590000" />
       <workItem from="1556816586041" duration="7715000" />
-      <workItem from="1556859113037" duration="4775000" />
+      <workItem from="1556859113037" duration="5639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41125000" />
+    <option name="totallyTimeSpent" value="41989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -409,13 +412,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -787,6 +783,20 @@
           <caret line="461" selection-start-line="461" selection-end-line="461" />
           <folding>
             <element signature="e#534#611#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/resources/views/product/magus_spec_hk.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+          <folding>
+            <element signature="e#1948#1981#0#HTML" expanded="true" />
+            <element signature="e#2081#2114#0#HTML" expanded="true" />
+            <element signature="e#2201#2234#0#HTML" expanded="true" />
+            <element signature="e#2319#2352#0#HTML" expanded="true" />
+            <element signature="e#3484#3490#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
