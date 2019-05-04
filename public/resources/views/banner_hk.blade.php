@@ -4,7 +4,7 @@
             <div class="carousel-item active">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
-                        <a href="/in/product/magus12-2in1-laptop">
+                        <a href="/product/magus12-2in1-laptop">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
                                      style="background-image: url('/images/banner/magus_web.jpg')"></div>
@@ -14,25 +14,6 @@
                             @endif
                             <div class="banner-bg hidden-md-up"
                                  style="background-image: url('/images/banner/magus_mob.jpg')"></div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="carousel-item">
-                <div class="responsive-block">
-                    <div class="banner-block responsive-item">
-                        <a href="{{ route('product.overview', ['liber12']) }}">
-                            @if( App::isLocale('en') )
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v02-en.jpg')"></div>
-                            @else
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v02-en.jpg')"></div>
-                            @endif
-                            <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/banner3_mob.jpg')"></div>
                         </a>
                     </div>
                 </div>
