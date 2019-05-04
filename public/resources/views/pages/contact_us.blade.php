@@ -16,19 +16,19 @@
 
                     <div class="row">
                         <div class="col-sm-6">
-                            <h2 class="contact_us_title">General Sales Enquiry :</h2>
+                            <h2 class="contact_us_title">Sales Enquiry :</h2>
 
                             <div class="mb-2">+91-9840024085,<br/> +91-11-6635-1144</div>
 
                             <div class="mb-2"><b>Email :</b><br>
-                                INsales@nexstgo.com</div>
+                                insales@nexstgo.com</div>
 
                             <div><b>@lang('site.contactus_operating')</b><br>
                                 Monday to Friday : 9 am - 6 pm</div>
 
 
                             <div class="mb-2"><b>Address :</b><br>
-                                211B - 211C, 2nd Floor, Elegance Tower, Jasola Vihar, New Delhi, Delhi-110025</div>
+                                211B - 211C,  2nd Floor,  Elegance Tower, Jasola Vihar,  New Delhi-110025</div>
                             <h2 class="contact_us_title">For Service :</h2>
                             <div class="mb-2">Toll Free : 1800-22-3902</div>
 
