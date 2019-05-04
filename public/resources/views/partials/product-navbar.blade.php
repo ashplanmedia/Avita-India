@@ -12,7 +12,7 @@
                 @else
 
                     <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.overview', 'liber12') }}">@lang('site.productnav_overview_12')</a></li>
-                    <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.overview', 'liber') }}">@lang('site.productnav_overview_13')</a></li>
+                    <li class="nav-item"><a class="nav-link py-1" href="/products/liber-new-generation">LIBER New Generation </a></li>
                 @endif
 
                 <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.spec', 'liber') }}">@lang('site.productnav_spec')</a></li>
