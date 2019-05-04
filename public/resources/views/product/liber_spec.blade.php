@@ -80,7 +80,7 @@
                 <div class="tab-pane active" id="spec-1" role="tabpanel">
                     <div class="container">
                         <ul class="list-unstyled spec-list">
-                            <img src="/images/win10_logo.png"/>
+                            <img src="/images/win10_logo.png" width="128px;"/>
 
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Operating System</div>
@@ -166,7 +166,7 @@
                 <div class="tab-pane" id="spec-2" role="tabpanel">
                     <div class="container">
                         <ul class="list-unstyled spec-list">
-                            <img src="/images/win10_logo.png"/>
+                            <img src="/images/win10_logo.png" width="128px;"/>
 
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Operating System</div>
