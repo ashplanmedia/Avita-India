@@ -80,8 +80,9 @@
                 <div class="tab-pane active" id="spec-1" role="tabpanel">
                     <div class="container">
                         <ul class="list-unstyled spec-list">
+                            <img src="/images/win10_logo.png"/>
+
                             <li class="spec-item d-flex">
-                                <img src="/images/win10_logo.png"/>
                                 <div class="offset-md-1 col-4 col-md-3">Operating System</div>
                                 <div>Windows 10 Home</div>
                             </li>
@@ -162,55 +163,72 @@
                         </ul>
                     </div>
                 </div>
-                <div class="tab-pane" id="spec-2" role="tabpanel">
+                <div class="tab-pane active" id="spec-1" role="tabpanel">
                     <div class="container">
                         <ul class="list-unstyled spec-list">
+                            <img src="/images/win10_logo.png"/>
+
                             <li class="spec-item d-flex">
-                                <img src="/images/win10_logo.png"/>
                                 <div class="offset-md-1 col-4 col-md-3">Operating System</div>
                                 <div>Windows 10 Home</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">CPU</div>
-                                <div>PENTIUM N4200 and Intel® Core i5 Processor</div>
+                                <div>Intel® Core™ i7-8550U Processor, Intel® Core™ i5-8250U Processor, Intel® Core™ i3-8130U Processor, Intel® Pentium® N5000 Processor, Intel® Celeron® N4000 Processor, Intel® Core™ i7-7Y75 Processor, Intel® Core™ i5-7Y54 Processor, Intel® Pentium® N4200 Processor, Intel® Celeron® N3350 Processor </div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Display</div>
-                                <div>1920x1080</div>
+                                <div>14" FHD IPS (1920 x 1080)</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Memory</div>
-                                <div>4GB / 8GB DDR3 </div>
+                                <div>8GB DDR4 2400MHz / 4GB LPDDR4 2400MHz / 8GB DDR3 1600MHz / 4GB DDR3 1600MHz  </div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Graphics</div>
-                                <div>Intel® HD Graphics</div>
+                                <div>Intel® UHD Graphics / Intel® HD Graphics</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Storage</div>
-                                <div>256 GB SSD / 512 GB SSD</div>
+                                <div>128GB / 256GB / 512GB SSD SATA M.2</div>
+                            </li>
+                            <li class="spec-item d-flex">
+                                <div class="offset-md-1 col-4 col-md-3">Integrated Camera</div>
+                                <div>720p HD</div>
+                            </li>
+                            <li class="spec-item d-flex">
+                                <div class="offset-md-1 col-4 col-md-3">Audio</div>
+                                <div>1W x 2 Stereo Speaker, Internal Dual Array Digital Mic</div>
+                            </li>
+                            <li class="spec-item d-flex">
+                                <div class="offset-md-1 col-4 col-md-3">Keyboard</div>
+                                <div>Island-type Keyboard (with Backlit) *For Intel® Core™ Processor model only</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Wireless</div>
-                                <div>IEEE 802.11 B/G/N/AC</div>
+                                <div>IEEE 802.11 b/g/n (Wi-Fi 4) /ac (Wi-Fi 5)</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Bluetooth</div>
-                                <div>Bluetooth v4.0</div>
+                                <div>Bluetooth v4.2 / v4.0 </div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">I/O Ports</div>
-                                <div>USB 3.0 x 2, USB 3.0 Type-C (Display out &amp; Charging) x 1, MicroSD card slot x 1, 3.5mm Headphone/Mic-in Combo Jack x 1, Mini HDMI x 1</div>
+                                <div>1 x 3.5mm Headphone, 1 x USB 3.0 Type-C (PD 2.0 Charging, Display out), 2 x USB 3.0, 1 x Micro-HDMI/Mini-HDMI, 1 x MicroSD Card Reader</div>
                             </li>
 
                             <li class="spec-item d-flex">
-                                <div class="offset-md-1 col-4 col-md-3">Dimension W x  H x D (mm)</div>
-                                <div>333 x 222 x 16</div>
+                                <div class="offset-md-1 col-4 col-md-3">Dimension W x H x D (mm)</div>
+                                <div>333mm (W) x 222mm (D) x 16mm (H)</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Weight</div>
-                                <div>Starting from 1.46 kg</div>
+                                <div>Starting from 1.46kg </div>
 
+                            </li>
+                            <li class="spec-item d-flex">
+                                <div class="offset-md-1 col-4 col-md-3">Battery</div>
+                                <div>Li-ion Battery, 36Wh </div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Battery Life</div>
@@ -222,9 +240,12 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Colour</div>
-                                <div>Avita Purple, Pearl White, Champagne Gold, Princess Pink, Cloud Silver, Shamrock Green, Fragrant Lilac, Space Grey, Angel Blue, Sunflower Yellow, Matt Black, Sunrise Orange, Peacock Green, Urban Ruby. </div>
+                                <div>Angel Blue, AVITA Purple, Blossom Pink, Champagne Gold, Cloud Silver, Fragrant Lilac, Himalayan Blue, Matt Black, Pearl White, Shamrock Green, Space Grey, Sunflower Yellow, Sunrise Orange, Urban Ruby.</div>
                             </li>
-
+                            <li class="spec-item d-flex">
+                                <div class="offset-md-1 col-4 col-md-3">Accessories</div>
+                                <div>AC Adapter and Power cord, Micro HDMI to HDMI Adapter/ Mini-HDMI to HDMI Adapter.</div>
+                            </li>
                         </ul>
                     </div>
                 </div>
