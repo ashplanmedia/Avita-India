@@ -163,7 +163,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="tab-pane active" id="spec-1" role="tabpanel">
+                <div class="tab-pane" id="spec-2" role="tabpanel">
                     <div class="container">
                         <ul class="list-unstyled spec-list">
                             <img src="/images/win10_logo.png"/>
