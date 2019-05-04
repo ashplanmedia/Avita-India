@@ -141,20 +141,15 @@
                         <ul class="list-unstyled">
 
                             <li class="nav-item">
-
-                                <a class="nav-link px-md-4 py-2" href="https://www.amazon.in/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=avita">Amazon</a>
+                                <a class="nav-link px-md-4 py-2" href="https://www.amazon.in/s?k=avita&rh=p_89%3AAVITA&dc&qid=1556975220&rnid=3837712031&ref=sr_nr_p_89_1">Amazon</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link px-md-4 py-2" href="https://www.flipkart.com/search?q=avita+laptops&otracker=search&otracker1=search&marketplace=FLIPKART">Flipkart</a>
+                                <a class="nav-link px-md-4 py-2" href="https://www.flipkart.com/search?q=avita+laptops&otracker=search&otracker1=search&marketplace=FLIPKART&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DAvita">Flipkart</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link px-md-4 py-2" href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2">Paytm Mall</a>
+                                <a class="nav-link px-md-4 py-2" href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2&page=1&brand=510306">Paytm Mall</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link px-md-4 py-2" href="https://www.tatacliq.com/search/?searchCategory=all&text=avita">Tata Cliq</a>
-                            </li>
-
-                        </ul>
+                         </ul>
                     </div>
                 </li>
                 <li class="nav-item">
