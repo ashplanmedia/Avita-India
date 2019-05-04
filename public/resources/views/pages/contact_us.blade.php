@@ -23,8 +23,8 @@
                             <div class="mb-2"><b>Email :</b><br>
                                 insales@nexstgo.com</div>
 
-                            <div><b>@lang('site.contactus_operating')</b><br>
-                                Monday to Friday : 9 am - 6 pm</div>
+                            <div><b>@lang('site.contactus_operating') :</b><br>
+                                Monday to Friday : 09:00 am - 06:00 pm</div>
 
 
                             <div class="mb-2"><b>Address :</b><br>
