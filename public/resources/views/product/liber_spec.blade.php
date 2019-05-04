@@ -77,7 +77,7 @@
             <!-- Tab panes -->
             <div class="tab-content">
                
-                <div class="tab-pane active" id="spec-3" role="tabpanel">
+                <div class="tab-pane active" id="spec-1" role="tabpanel">
                     <div class="container">
                         <ul class="list-unstyled spec-list">
                                 <img src="/images/win10_logo.png" width="128px;"/>
@@ -112,11 +112,11 @@
                                 </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Audio</div>
-                                <div>Island-type Keyboard (with Backlit) *For Intel® Core™ Processor model only</div>
+                                <div>1W x 2 Stereo Speaker, Internal Dual Array Digital Mic</div>
                             </li>
                             <li class="spec-item d-flex">
                                     <div class="offset-md-1 col-4 col-md-3">Keyboard</div>
-                                    <div>1W x 2 Stereo Speaker, Internal Dual Array Digital Mic</div>
+                                    <div>Island-type Keyboard (with Backlit) *For Intel® Core™ Processor model only</div>
                                 </li>
                                 <li class="spec-item d-flex">
                                         <div class="offset-md-1 col-4 col-md-3">Wireless</div>
@@ -249,7 +249,7 @@
                             </ul>
                         </div>
                     </div>
-                <div class="tab-pane" id="spec-1" role="tabpanel">
+                <div class="tab-pane" id="spec-3" role="tabpanel">
                     <div class="container">
                         <ul class="list-unstyled spec-list">
                             <li class="spec-item d-flex">
