@@ -90,7 +90,7 @@ return [
     'aboutus_content_3'             => 'Our team is comprised of talented individuals who, before starting up AVITA, worked in product development for some big name tech companies.  It was their collective enthusiasm for outstanding design and meaningful technology that brought them together to form AVITA. You can learn more about the company behind AVITA here.<br><br>“Live it up” is more than a tagline to us, it’s a part of our ethos and company DNA.',
 
     'contactus_contactus'           => 'Contact Us',
-    'contactus_operating'           => 'Operating hours',
+    'contactus_operating'           => 'Operations',
     'ccontactus_findus'             => 'Find Us',
     'search_result_title'           => 'Search Result',
 
