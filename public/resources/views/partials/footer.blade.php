@@ -91,10 +91,9 @@
                     <div class="d-flex justify-content-between hidden-xs-down">
                         <div class="d-flex flex-column mr-3 ml-md-0 small-lsm-little">
                             <strong>Available On</strong>
-                            <a href="https://www.amazon.in/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=avita" class="my-1">Amazon</a>
-                            <a href="#" class="my-1">Flipkart</a>
-                            <a href="https://www.tatacliq.com/search/?searchCategory=all&text=avita" class="my-1">Tata Cliq</a>
-                            <a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2" class="my-1">Paytm Mall</a>
+                            <a href="https://www.amazon.in/s?k=avita&rh=p_89%3AAVITA&dc&qid=1556975220&rnid=3837712031&ref=sr_nr_p_89_1" class="my-1">Amazon</a>
+                            <a href="https://www.flipkart.com/search?q=avita+laptops&otracker=search&otracker1=search&marketplace=FLIPKART&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DAvita" class="my-1">Flipkart</a>
+                            <a href="https://paytmmall.com/shop/search?q=avita&from=organic&child_site_id=6&site_id=2&page=1&brand=510306" class="my-1">Paytm Mall</a>
                         </div>
                         
             
