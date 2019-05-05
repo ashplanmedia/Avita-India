@@ -33,7 +33,7 @@
                 <div class="col-12 col-md-5 py-3 py-md-0 text-left">
                     <div class="d-flex justify-content-between hidden-xs-down">
                         <div class="d-flex flex-column mr-3 ml-md-0 small-lsm-little">
-                            <a href="{{ route('products') }}" class="my-1">@lang('site.products')</a>
+                            <a href="/liber-new-generation" class="my-1">@lang('site.products')</a>
                             <a href="{{ route('news') }}" class="my-1">@lang('site.news')</a>
                             <a href="/aboutus" class="my-1">@lang('site.footer_aboutus')</a>
                         </div>
@@ -75,7 +75,7 @@
 
                             <a href="{{ route('support') }}" class="my-1">@lang('site.productnav_support')</a>
 
-                            <a href="http://avita-india.com/in/repair_tnc" class="my-1">@lang('site.footer_repair_tnc')</a>
+                            <a href="/repair_tnc" class="my-1">@lang('site.footer_repair_tnc')</a>
 
                             <a href="/tnc" class="my-1">@lang('site.terms')</a>
                             <a href="/tnc" class="my-1">@lang('site.privacy')</a>
