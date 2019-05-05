@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App;
 use App\Country;
 use App\Product;
 use App\ProductModel;
