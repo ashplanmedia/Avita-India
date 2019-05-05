@@ -71,7 +71,7 @@
                         <div class="d-flex flex-column ml-5 ml-md-0 small-lsm-little">
 
 
-                            <a href="/avita/contact_us" class="my-1">@lang('site.footer_contact')</a>
+                            <a href="/contact_us" class="my-1">@lang('site.footer_contact')</a>
 
                             <a href="{{ route('support') }}" class="my-1">@lang('site.productnav_support')</a>
 
