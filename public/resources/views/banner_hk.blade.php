@@ -50,13 +50,13 @@
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/web_banner.jpeg')"></div>
+                                 style="background-image: url('/images/banner/web_banner.jpg')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/web_banner.jpeg')"></div>
+                                 style="background-image: url('/images/banner/web_banner.jpg')"></div>
                         @endif
                         <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/mob_banner.jpeg')"></div>
+                             style="background-image: url('/images/banner/mob_banner.jpg')"></div>
                     </div>
                 </div>
             </div>
