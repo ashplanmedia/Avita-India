@@ -37,13 +37,13 @@
                         <a href="http://www.nexstgo.buzz/avita/prebook/">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/banner4.jpeg')"></div>
+                                     style="background-image: url('/images/banner/Web_Banner.png')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner4.jpeg')"></div>
+                                     style="background-image: url('/images/banner/Web_Banner.png')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/banner4_mobi.jpeg')"></div>
+                                 style="background-image: url('/images/banner/Mobile_Banner.png')"></div>
                         </a>
                     </div>
                 </div>
