@@ -78,7 +78,7 @@ function twitterLinkForCountry( $country ) {
 function metaKeywordByCountryAndLanguage( $country, $language ) {
 
     // Default
-    $keyword = "AVITA LIBER 12.5\", Core i5 Intel CPU, Windows Hello, fingerprint, USB 3.0 ports, USB Type-C, USB-C";
+    $keyword = "AVITA Official Site | AVITA India";
 
     switch ( $country ) {
         case 'hk':
@@ -108,7 +108,7 @@ function metaKeywordByCountryAndLanguage( $country, $language ) {
 function metaDescriptionByCountryAndLanguage( $country, $language ) {
 
     // Default
-    $description = "LIBER is a new journey of self-discovery through art and humanity in technology.  Where the form of a laptop remains, it on top features chic and interchangeable form factors to reveal your true colors.";
+    $description = "Shop at AVITA India for our lifestyle products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. AVITA India is a one-stop shop to buy the most stylish consumer lifestyle products designed and manufactured by AVITA.";
 
     switch ( $country ) {
         case 'hk':
@@ -124,7 +124,7 @@ function metaDescriptionByCountryAndLanguage( $country, $language ) {
         case 'th':
 
             if ( $language == 'en') {
-                $description = "LIBER is a new journey of self-discovery through art and humanity in technology.  Where the form of a laptop remains, it on top features chic and interchangeable form factors to reveal your true colors.";
+                $description = "Shop at AVITA India for our lifestyle products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. AVITA India is a one-stop shop to buy the most stylish consumer lifestyle products designed and manufactured by AVITA.";
             } else {
                 $description = 'LIBER คือการเดินทางแห่งการค้นพบตัวเองแบบใหม่ผ่านศิลปะและมนุษยธรรมในเทคโนโลยี ที่ที่ฟอร์มของแล็ปท็อปยังคงอยู่ แต่เพิ่มความ chic และ ฟอร์มที่ปรับเปลี่ยนได้เพื่อดึงความเป็นคุณออกมาอย่างชัดเจน';
             }
