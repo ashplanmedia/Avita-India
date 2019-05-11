@@ -139,7 +139,9 @@
                     <a class="nav-link px-md-4 py-2"><label for="header_product_device" class="d-block mb-0">Buy Online</label></a>
                     <div class="dropdown">
                         <ul class="list-unstyled">
-
+                           <li class="nav-item">
+                                <a class="nav-link px-md-4 py-2" href="https://store.avita-india.com/">Avita Store</a>
+                            </li>
                             <li class="nav-item">
                                 <a class="nav-link px-md-4 py-2" href="https://www.amazon.in/s?k=avita&rh=p_89%3AAVITA&dc&qid=1556975220&rnid=3837712031&ref=sr_nr_p_89_1">Amazon</a>
                             </li>
