@@ -22,6 +22,7 @@ return [
     'MAGUS_home'          => 'AVITA MAGUS 12.2" 2-in-1 Laptop',
     'campus'        => 'Campus Ambassador Program',
     'MAGUS_spec'    => 'MAGUS 2 in 1 Laptops',
+    'Accessories'   => 'UBIQUE Mouse',
 
 
 ];
