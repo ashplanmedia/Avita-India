@@ -93,7 +93,7 @@ public function showProductSpec( $slug) {
             abort(404);
         }
 
-        return view($view, compact('product.liber'));
+        return view($view, compact('product'));
     }
     public function showProductSupport(Request $request, $slug) {
         $country = 'in';
