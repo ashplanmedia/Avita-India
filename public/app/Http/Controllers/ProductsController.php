@@ -77,7 +77,7 @@ class ProductsController extends Controller
             abort(404);
         }
 
-        return view('product.spec_new');
+        return view('product.liber_spec_new');
     }
 public function showProductSpec( $slug) {
         $country = 'in';
