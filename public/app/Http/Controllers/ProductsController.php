@@ -79,7 +79,22 @@ class ProductsController extends Controller
 
         return view($view, compact('product'));
     }
+public function showProductSpecOld( $slug) {
+        $country = 'in';
+        $product = $this->productFromURL($country, $slug);
 
+        if ( !$product ) {
+            abort(404);
+        }
+
+        $view = $product->getSpecView( );
+
+        if (!$view){
+            abort(404);
+        }
+
+        return view($view, compact('product'));
+    }
     public function showProductSupport(Request $request, $slug) {
         $country = 'in';
         $product = $this->productFromURL($country, $slug);
