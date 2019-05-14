@@ -10,7 +10,7 @@
 
 <li class="nav-item"><a class="nav-link py-1" href="/products/liber-new-generation">Overview AVITA LIBER 13.3" & 14" New Generation</a></li>
 
-                <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.spec-new', 'liber') }}">@lang('site.productnav_spec')</a></li>
+                <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.spec_new', 'liber') }}">@lang('site.productnav_spec')</a></li>
              
 
                 <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.support', 'liber') }}">@lang('site.support')</a></li>
