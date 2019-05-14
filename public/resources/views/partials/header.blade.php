@@ -55,11 +55,11 @@
                                         @else
 
                                             <li class="nav-item">
-                                                <a class="nav-link px-md-4 py-2" href="{{ route('product.overview', ['liber12']) }}">LIBER Series 12.5" (31.75 cm)</a>
+                                                <a class="nav-link px-md-4 py-2" href="{{ route('product.overview', ['liber12']) }}">LIBER</a>
                                             </li>
 
                                             <li class="nav-item">
-                                                <a class="nav-link px-md-4 py-2" href="/products/liber-new-generation">LIBER New Generation </a>
+                                                <a class="nav-link px-md-4 py-2" href="/products/liber-new-generation">LIBER New Generation</a>
                                             </li>
 
                                             <li class="nav-item">
