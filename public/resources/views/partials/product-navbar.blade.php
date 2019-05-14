@@ -15,7 +15,7 @@
                     <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.overview', 'liber') }}">Overview AVITA LIBER 13.3" & 14"</a></li>
                 @endif
 
-                <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.spec-liber', 'liber') }}">@lang('site.productnav_spec')</a></li>
+                <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.spec', 'liber') }}">@lang('site.productnav_spec')</a></li>
              
 
                 <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.support', 'liber') }}">@lang('site.support')</a></li>
