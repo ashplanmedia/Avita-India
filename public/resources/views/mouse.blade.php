@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-    @lang('title.MODUS_home')
+    @lang('title.Accessories')
 @stop
 
 
