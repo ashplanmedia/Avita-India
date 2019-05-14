@@ -79,7 +79,7 @@ class ProductsController extends Controller
 
         return view($view, compact('product'));
     }
-public function showProductSpecOld( $slug) {
+public function showProductSpecLiber( $slug) {
         $country = 'in';
         $product = $this->productFromURL($country, $slug);
 
