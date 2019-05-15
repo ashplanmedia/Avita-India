@@ -8,7 +8,7 @@
             <ul class="nav-product d-flex list-unstyled flex-column justify-content-center text-center flex-sm-row justify-content-sm-end my-2">
 
 
-<li class="nav-item"><a class="nav-link py-1" href="/products/liber-new-generation">Overview AVITA LIBER 13.3" & 14" New Generation</a></li>
+<li class="nav-item"><a class="nav-link py-1" href="/products/liber-new-generation">Overview 13.3" & 14" New Generation</a></li>
 
                 <li class="nav-item"><a class="nav-link py-1" href="{{ route('product.spec_new', 'liber') }}">@lang('site.productnav_spec')</a></li>
              
