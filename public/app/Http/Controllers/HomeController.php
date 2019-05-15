@@ -11,6 +11,7 @@ use App\ServiceCenter;
 use App\Settings;
 use App\Subscription;
 use Illuminate\Http\Request;
+use App\Mail\SendInMail;
 
 class HomeController extends Controller
 {
@@ -136,8 +137,7 @@ class HomeController extends Controller
 
     }
 
-    public function handleSubscription(Request $request) {
-        echo "handleSubscription";
+     public function handleSubscription(Request $request) {
 
         $this->validate($request, ['subscription_email' => 'required|email']);
 
@@ -145,6 +145,9 @@ class HomeController extends Controller
 
         // Store to DB.
         $subscription = Subscription::firstOrCreate(['email' => $email]);
+
+        $sub = new SendInMail;
+        $sub->createUser($email);
 
         $data = [
             'status' => 'success',
@@ -154,7 +157,8 @@ class HomeController extends Controller
         return response( $data );
         
     }
-
+	
+	
     public function getImago(Request $request) {
         return view('product.imago');
     }
