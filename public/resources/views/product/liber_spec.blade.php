@@ -84,7 +84,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">CPU</div>
-                                <div>Intel® Core i5</div>
+                                <div>from 7th Gen Intel® Core i5</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Display</div>
