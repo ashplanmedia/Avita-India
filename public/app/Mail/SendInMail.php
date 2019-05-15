@@ -15,8 +15,8 @@ class SendInMail {
     {
 
     	
-		$this->url =env("SENDIN_URL","https://api.sendinblue.com/v2.0");
-		$this->api_key =env("SENDIN_API_KEY","7T3v62rhFjV1UzyI");
+		$this->url ="https://api.sendinblue.com/v2.0";
+		$this->api_key ="7T3v62rhFjV1UzyI";
         $this->mailin = new Mailin($this->url,$this->api_key);
     }
 
