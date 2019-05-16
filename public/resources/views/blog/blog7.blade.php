@@ -15,7 +15,7 @@
                     <!-----
                       ------->
                     <div class="col-12">
-                      <h1> Why SSD Storage has become a Necessity for Modern Computing?</h1>
+                      
 The Hard Disk Drive technology has conquered a major percentage of the market share, for a better part of the last two decades. 
 Being a predominant storage device for modern computers, the HDD technology has lured the computer enthusiasts for a very long time. 
 But not anymore, modern storage technology like Solid State Drive has surfaced as a prime challenger to the existing non-volatile storage mediums.
@@ -39,7 +39,7 @@ The amount of heat generated in Hard Disk Drives can slowly damage the functiona
 SSD is pricier than traditional hard drives, one of the reasons why budget or cheap laptops don’t have it. Although in today’s world, most users use SSD laptops along with an external hard disk for all storage other than system applications. But with a Solid State Drive, you get all the above advantages which definitely make it worth the premium you pay for it.
 <h2>Over to You</h2>
 There is no reason why any user would want to drive a brand new car with an old engine. So why would you buy a laptop with an old-school mechanical hard drive and merge onto the superfast informational highway?
-Check out the brand new AVITA laptops sporting the lightning-fast SSD storage only on www.avita-india.com!
+Check out the brand new AVITA laptops sporting the lightning-fast SSD storage only on <a href="https://avita-india.com/">www.avita-india.com</a>!
 
                     </div>
 
