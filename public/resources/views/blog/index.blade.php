@@ -35,7 +35,7 @@
         ------->
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/blog6">  <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p></a><br/>
+                            <a href="/AVITA-Magus–8-Wonderful-Benefits-of-a-2-in-1-Laptops">  <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p></a><br/>
                             <figure>
                                 <div class="image-wrap">
                                     <img style="width: 100%; height:100%;" src="/images/blog/blog6.jpg" />
@@ -56,7 +56,7 @@
                       ------->
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/blog1"> <p>AVITA’s Guide to Buying the Perfect Student Laptop</p></a><br/>
+                            <a href="/AVITAs-Guide-to-Buying-the-Perfect-Student-Laptop"> <p>AVITA’s Guide to Buying the Perfect Student Laptop</p></a><br/>
                             <figure>
                                 <div class="image-wrap">
                                     <img style="width: 100%; height:100%;" src="/images/blog/blog1.jpeg" />
@@ -78,7 +78,7 @@
                     ------->
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/blog2"> <p>What are the benefits of smart scale?</p><br/>
+                            <a href="/What-are-the-benefits-of-smart-scale?"> <p>What are the benefits of smart scale?</p><br/>
                                 <figure>
                                     <div class="image-wrap">
                                         <img style="width: 100%; height:100%;" src="/images/blog/blog2.jpg" />
@@ -97,7 +97,7 @@
                       ------->
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/blog3"> <p>Why is College the RIGHT time to become Creative? </p><br/>
+                            <a href="/Why-is-College-the-RIGHT-time-to-become-Creative"> <p>Why is College the RIGHT time to become Creative? </p><br/>
                                 <figure>
                                     <div class="image-wrap">
                                         <img style="width: 100%; height:100%;" src="/images/blog/blog3.jpeg" />
@@ -119,7 +119,7 @@
                 <div class="row">
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/blog4"> <p>Avita Liber: Technology to keep YOU high on Fashion</p><br/>
+                            <a href="/Avita-Liber-Technology-to-keep-YOU-high-on-Fashion"> <p>Avita Liber: Technology to keep YOU high on Fashion</p><br/>
                                 <figure>
                                     <div class="image-wrap">
                                         <img style="width: 100%; height:100%;" src="/images/blog/blog4.jpeg" />
@@ -138,7 +138,7 @@
                       ------->
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/blog5">  <p>Why should your Personal Laptop be Light Weighted?</p><br/>
+                            <a href="/Why-should-your-Personal-Laptop-be-Light-Weighted">  <p>Why should your Personal Laptop be Light Weighted?</p><br/>
                                 <figure>
                                     <div class="image-wrap">
                                         <img style="width: 100%; height:100%;" src="/images/blog/blog5.jpeg" />
