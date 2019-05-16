@@ -17,7 +17,6 @@
             <div class="carousel-item active">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
-                        <a href="http://www.nexstgo.buzz/avita/prebook/">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
                                      style="background-image: url('/images/banner/Web_Banner_LIBER_1200x630.png')"></div>
@@ -27,7 +26,7 @@
                             @endif
                             <div class="banner-bg hidden-md-up"
                                  style="background-image: url('/images/banner/Web_Banner_LIBER_1200x630.png')"></div>
-                        </a>
+                 
                     </div>
                 </div>
             </div>
