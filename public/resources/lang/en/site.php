@@ -53,6 +53,8 @@ return [
     'blog4'                    => 'Avita Liber: Technology to keep YOU high on Fashion',
     'blog5'                    => 'Why should your Personal Laptop be Light Weighted?',
     'blog6'                    => 'AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops',
+    'blog7'                    => 'Why SSD Storage has become a Necessity for Modern Computing?',
+
 
     //blog end
 
