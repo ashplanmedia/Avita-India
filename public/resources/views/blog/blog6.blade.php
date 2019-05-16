@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-    @lang('title.blogs_title')
+     @lang('site.blogs_title')
 @stop
 
 @section('content')
