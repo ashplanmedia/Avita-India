@@ -78,7 +78,7 @@ function twitterLinkForCountry( $country ) {
 function metaKeywordByCountryAndLanguage( $country, $language ) {
 
     // Default
-    $keyword = "AVITA India Official Site | AVITA";
+    $keyword = "AVITA INDIA Official Site | AVITA INDIA";
 
     switch ( $country ) {
         case 'hk':
