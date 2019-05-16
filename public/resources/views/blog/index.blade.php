@@ -11,9 +11,7 @@
             <div class="container">
                 <h3 class="section-title ls-0 my-5">@lang('site.blogs_title')</h3>
 		<div class="row">
-                    <!-----
-        ------->
-                    <div class="col-12 col-md-6">
+                      <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/ssd-storage-for-modern-laptops"><p>Why SSD Storage has become a Necessity for Modern Computing?</p></a><br/>
                             <figure>
@@ -50,10 +48,7 @@
 			    </div>
         
                 <div class="row">
-                    <!-----
-        ------->
-   
-         
+
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/AVITAs-Guide-to-Buying-the-Perfect-Student-Laptop"> <p>AVITA’s Guide to Buying the Perfect Student Laptop</p></a><br/>
@@ -70,10 +65,10 @@
                         </div>
 
                     </div>
-                </div>
+                
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/What-are-the-benefits-of-smart-scale"> <p>What are the benefits of smart scale?</p><br/>
+                            <a href="/What-are-the-benefits-of-smart-scale"> <p>What are the benefits of smart scale?</p></a><br/>
                                 <figure>
                                     <div class="image-wrap">
                                         <img style="width: 100%; height:100%;" src="/images/blog/blog2.jpg" />
@@ -87,14 +82,9 @@
                         </div>
 
                     </div>
-
+			</div>
                 <div class="row">
-                    <!-----
-                    ------->
 
-
-                    <!-----
-                      ------->
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/Why-is-College-the-RIGHT-time-to-become-Creative"> <p>Why is College the RIGHT time to become Creative? </p><br/>
@@ -127,16 +117,12 @@
                         </div>
 
                     </div>
-                    <!-----
-                    ------->
+                  
                 </div>
 
 
                 <div class="row">
            
-
-                    <!-----
-                      ------->
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/Why-should-your-Personal-Laptop-be-Light-Weighted">  <p>Why should your Personal Laptop be Light Weighted?</p><br/>
@@ -153,10 +139,9 @@
                         </div>
 
                     </div>
-                    <!-------
-                    ----->
+               
                 </div>
-            </div>
+          
         </section>
 
 
