@@ -108,32 +108,32 @@ function metaKeywordByCountryAndLanguage( $country, $language ) {
 function metaDescriptionByCountryAndLanguage( $country, $language ) {
 
     // Default
-    $description = "Shop at AVITA India for our lifestyle products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. AVITA India is a one-stop shop to buy the most stylish consumer lifestyle products designed and manufactured by AVITA.";
+    $description = "Check out AVITA India for our lifestyle technology products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. Explore AVITA India to discover the most stylish consumer lifestyle products designed and manufactured by AVITA.";
 
     switch ( $country ) {
         case 'hk':
             if ( $language == 'tc') {
-                $description = "Shop at AVITA India for our lifestyle products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. AVITA India is a one-stop shop to buy the most stylish consumer lifestyle products designed and manufactured by AVITA.";
+                $description = "Check out AVITA India for our lifestyle technology products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. Explore AVITA India to discover the most stylish consumer lifestyle products designed and manufactured by AVITA.";
             } else {
-                $description = "Shop at AVITA India for our lifestyle products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. AVITA India is a one-stop shop to buy the most stylish consumer lifestyle products designed and manufactured by AVITA.";
+                $description = "Check out AVITA India for our lifestyle technology products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. Explore AVITA India to discover the most stylish consumer lifestyle products designed and manufactured by AVITA.";
             }
             break;
         case 'cn':
-            $description = 'Shop at AVITA India for our lifestyle products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. AVITA India is a one-stop shop to buy the most stylish consumer lifestyle products designed and manufactured by AVITA.';
+            $description = "Check out AVITA India for our lifestyle technology products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. Explore AVITA India to discover the most stylish consumer lifestyle products designed and manufactured by AVITA.";
             break;
         case 'th':
 
             if ( $language == 'en') {
-                $description = "Shop at AVITA India for our lifestyle products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. AVITA India is a one-stop shop to buy the most stylish consumer lifestyle products designed and manufactured by AVITA.";
+                $description = "Check out AVITA India for our lifestyle technology products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. Explore AVITA India to discover the most stylish consumer lifestyle products designed and manufactured by AVITA.";
             } else {
-                $description = 'Shop at AVITA India for our lifestyle products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. AVITA India is a one-stop shop to buy the most stylish consumer lifestyle products designed and manufactured by AVITA.';
+                $description = "Check out AVITA India for our lifestyle technology products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. Explore AVITA India to discover the most stylish consumer lifestyle products designed and manufactured by AVITA.";
             }
 
             break;
 
         case 'id':
             if ( $language = 'id') {
-                $keyword = 'Shop at AVITA India for our lifestyle products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. AVITA India is a one-stop shop to buy the most stylish consumer lifestyle products designed and manufactured by AVITA.';
+                $keyword = "Check out AVITA India for our lifestyle technology products like laptops for students, latest notebooks, mouse, smart scale, smart mirror and more. Explore AVITA India to discover the most stylish consumer lifestyle products designed and manufactured by AVITA.";
                 break;
             }
     }
