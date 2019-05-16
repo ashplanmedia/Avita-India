@@ -54,7 +54,7 @@ Route::get('/blog6', function(){
     return view('blog.blog6');
 });
 
-Route::get('/blog7', function(){
+Route::get('/ssd-storage-for-modern-laptops', function(){
     return view('blog.blog7');
 });
 
