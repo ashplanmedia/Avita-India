@@ -20,43 +20,20 @@
                         <a href="http://www.nexstgo.buzz/avita/prebook/">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/banner3.jpeg')"></div>
+                                     style="background-image: url('/images/banner/Web_Banner_LIBER_1200x630.png')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/banner3.jpeg')"></div>
+                                     style="background-image: url('/images/banner/Web_Banner_LIBER_1200x630.png')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/banner3_mobi.jpg')"></div>
+                                 style="background-image: url('/images/banner/Web_Banner_LIBER_1200x630.png')"></div>
                         </a>
                     </div>
                 </div>
             </div>
-         <div class="carousel-item">
-                <div class="responsive-block">
-                    <div class="banner-block responsive-item">
-                        <a href="http://www.nexstgo.buzz/avita/prebook/">
-                            @if( App::isLocale('en') )
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/Web_Banner.png')"></div>
-                            @else
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/Web_Banner.png')"></div>
-                            @endif
-                            <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/Mobile_Banner.png')"></div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-
-
+       
         </div>
-        <ol class="carousel-indicators">
-      <li data-target="#slideshow" data-slide-to="0" class="active"></li>
-            <li data-target="#slideshow" data-slide-to="1"></li>
-            
-        </ol>
+
     </div>
            
 </section>
