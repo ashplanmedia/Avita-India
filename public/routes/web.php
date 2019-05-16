@@ -38,7 +38,7 @@ Route::get('/blog', function(){
 Route::get('/Why-should-your-Personal-Laptop-be-Light-Weighted?', function(){
     return view('blog.blog1');
 });
-Route::get('/Avita Liber: Technology to keep YOU high on Fashion', function(){
+Route::get('/Avita-Liber-Technology-to-keep-YOU-high-on-Fashion', function(){
     return view('blog.blog2');
 });
 Route::get('/Why-is-College-the-RIGHT-time-to-become-Creative?', function(){
