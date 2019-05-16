@@ -54,6 +54,10 @@ Route::get('/blog6', function(){
     return view('blog.blog6');
 });
 
+Route::get('/blog7', function(){
+    return view('blog.blog7');
+});
+
 
 //
 
