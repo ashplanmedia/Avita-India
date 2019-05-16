@@ -35,22 +35,22 @@ Route::get('/blog', function(){
     return view('blog.index');
 });
 
-Route::get('/blog1', function(){
+Route::get('/Why-should-your-Personal-Laptop-be-Light-Weighted?', function(){
     return view('blog.blog1');
 });
-Route::get('/blog2', function(){
+Route::get('/Avita Liber: Technology to keep YOU high on Fashion', function(){
     return view('blog.blog2');
 });
-Route::get('/blog3', function(){
+Route::get('/Why-is-College-the-RIGHT-time-to-become-Creative?', function(){
     return view('blog.blog3');
 });
-Route::get('/blog4', function(){
+Route::get('/What-are-the-benefits-of-smart-scale?', function(){
     return view('blog.blog4');
 });
-Route::get('/blog5', function(){
+Route::get('/AVITAs-Guide-to-Buying-the-Perfect-Student-Laptop', function(){
     return view('blog.blog5');
 });
-Route::get('/blog6', function(){
+Route::get('/AVITA-Magus–8-Wonderful-Benefits-of-a-2-in-1-Laptops', function(){
     return view('blog.blog6');
 });
 
