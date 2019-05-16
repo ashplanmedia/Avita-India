@@ -50,6 +50,9 @@ Route::get('/blog4', function(){
 Route::get('/blog5', function(){
     return view('blog.blog5');
 });
+Route::get('/blog6', function(){
+    return view('blog.blog6');
+});
 
 
 //
