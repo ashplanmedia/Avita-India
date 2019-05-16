@@ -35,13 +35,13 @@ Route::get('/blog', function(){
     return view('blog.index');
 });
 
-Route::get('/Why-should-your-Personal-Laptop-be-Light-Weighted?', function(){
+Route::get('/Why-should-your-Personal-Laptop-be-Light-Weighted', function(){
     return view('blog.blog1');
 });
 Route::get('/Avita-Liber-Technology-to-keep-YOU-high-on-Fashion', function(){
     return view('blog.blog2');
 });
-Route::get('/Why-is-College-the-RIGHT-time-to-become-Creative?', function(){
+Route::get('/Why-is-College-the-RIGHT-time-to-become-Creative', function(){
     return view('blog.blog3');
 });
 Route::get('/What-are-the-benefits-of-smart-scale?', function(){
