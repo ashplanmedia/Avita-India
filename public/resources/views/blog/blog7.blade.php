@@ -40,7 +40,7 @@ SSD is pricier than traditional hard drives, one of the reasons why budget or ch
 <h2>Over to You</h2>
 There is no reason why any user would want to drive a brand new car with an old engine. So why would you buy a laptop with an old-school mechanical hard drive and merge onto the superfast informational highway?
 Check out the brand new AVITA laptops sporting the lightning-fast SSD storage only on <a href="https://avita-india.com/">www.avita-india.com</a>!
-
+<br/>
                     </div>
 
                 </div>
