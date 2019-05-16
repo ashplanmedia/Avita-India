@@ -73,7 +73,7 @@
                 </div>
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/What-are-the-benefits-of-smart-scale?"> <p>What are the benefits of smart scale?</p><br/>
+                            <a href="/What-are-the-benefits-of-smart-scale"> <p>What are the benefits of smart scale?</p><br/>
                                 <figure>
                                     <div class="image-wrap">
                                         <img style="width: 100%; height:100%;" src="/images/blog/blog2.jpg" />
