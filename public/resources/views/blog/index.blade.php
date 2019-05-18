@@ -16,7 +16,7 @@
         <a href="/why-millennials-are-choosing-cloud-storage-for-personal-computing"> <p>Why Millennials are choosing Cloud Storage for Personal Computing?</p></a><br/>
                             <figure>
                                 <div class="image-wrap">
-                                    <img style="width: 100%; height:100%;" src="/images/blog/why-millennials-are-choosing-cloud-storage-for-personal-computing.jpeg" />
+                                    <img style="width: 100%; height:100%;" src="/images/blog/why-millennials-are-choosing-cloud-storage-for-personal-computing.png" />
                                 </div>
                                 <figcaption class="d-flex event-caption coming_soon px-4 py-1">
                                     <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 18th May, 2019</div>
