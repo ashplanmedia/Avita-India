@@ -59,6 +59,10 @@ Route::get('/ssd-storage-for-modern-laptops', function(){
 });
 
 
+Route::get('/why-millennials-are-choosing-cloud-storage-for-personal-computing', function(){
+    return view('blog.blog8');
+});
+
 //
 
 
