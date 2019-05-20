@@ -42,7 +42,7 @@
                 <div class="container">
                     <div class="banner-info">
                         <div class="ac-computer-wrap">
-                            <img class="ac-computer-image ac-computer-1" src="/images/liber/sc2_img1.png">
+                            <img class="ac-computer-image ac-computer-1" src="/images/liber/AVITA_Backpack.png">
                         </div>
                         <div class="h2 banner-header mb-4 mb-sm-5">Inside-out Vibrancy</div>
                         <div class="banner-para">
