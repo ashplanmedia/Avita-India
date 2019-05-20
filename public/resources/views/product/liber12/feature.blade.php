@@ -69,7 +69,7 @@
                             <span class="d-lg-block">it on top features chic and interchangeable </span>
                             <span class="d-lg-block">form factors to reveal your true colors.</span>
                         </div>
-			<img class="ac-computer-image ac-computer-2" src="/images/liber/liber12_feature/AVITA_Backpack.png">
+			<img class="ac-computer-image ac-computer-2" src="/images/liber/AVITA_Backpack.png">
                     </div>
                 </div>
             </div>
