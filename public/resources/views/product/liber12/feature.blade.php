@@ -71,9 +71,10 @@
                         </div>
                     </div>
 		     </div>
-	<img class="ac-computer-image ac-computer-2" src="/images/liber/AVITA_Backpack.png" style="width:314px; height:497px;">
 
 		     </div>
+<img class="ac-computer-image ac-computer-2" src="/images/liber/AVITA_Backpack.png" style="width:314px; height:497px;">
+
         </section>
 
         <section class="product-liber-size ls-0"/>
