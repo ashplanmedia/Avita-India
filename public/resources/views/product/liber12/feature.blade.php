@@ -68,13 +68,12 @@
                             <span class="d-lg-block">Where the form of a laptop remains,</span>
                             <span class="d-lg-block">it on top features chic and interchangeable </span>
                             <span class="d-lg-block">form factors to reveal your true colors.</span>
+			    <img class="" src="/images/liber/AVITA_Backpack.png" style="width:314px; height:497px;">
+
                         </div>
                     </div>
 		     </div>
-
 		     </div>
-<img class="ac-computer-image ac-computer-2" src="/images/liber/AVITA_Backpack.png" style="width:314px; height:497px;">
-
         </section>
 
         <section class="product-liber-size ls-0"/>
