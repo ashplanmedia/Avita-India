@@ -84,7 +84,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">CPU</div>
-                                <div>from 7th Gen Intel® Core i5</div>
+                                <div>7th Gen Intel® Core i5</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Display</div>
@@ -265,7 +265,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Colour</div>
-<div>Avita Purple, Pearl White, Champagne Gold, Princess Pink, Cloud Silver, Shamrock Green, Fragrant Lilac, Space Grey, Angel Blue, Sunflower Yellow, Matt Black, Sunrise Orange, Peacock Green, Urban Ruby. </div>
+            <div>Avita Purple, Pearl White, Champagne Gold, Princess Pink, Cloud Silver, Shamrock Green, Fragrant Lilac, Space Grey, Angel Blue, Sunflower Yellow, Matt Black, Sunrise Orange, Peacock Green, Urban Ruby. </div>
                             </li>
 
                         </ul>
