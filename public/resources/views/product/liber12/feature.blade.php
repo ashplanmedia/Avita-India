@@ -19,13 +19,13 @@
                     <div class="banner-block responsive-item">
                             @if( App::isLocale('en') )
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/banner3.jpeg')"></div>
+                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v02-en.jpg')"></div>
                             @else
                                 <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/banner3.jpeg')"></div>
+                                     style="background-image: url('/images/banner/AVITA-KV_001_green_web_banners_1920x720_v02-en.jpg')"></div>
                             @endif
                             <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/banner3_mobi.jpg')"></div>
+                                 style="background-image: url('/images/banner/banner3_mob.jpg')"></div>
                  
                     </div>
                 </div>
