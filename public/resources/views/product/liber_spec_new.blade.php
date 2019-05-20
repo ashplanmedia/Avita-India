@@ -59,7 +59,7 @@
                             </ul>
                         </a>
 
-                        <a class="col text-center nav-link active" data-toggle="tab" href="#spec-3" role="tab">
+                        <!--<a class="col text-center nav-link active" data-toggle="tab" href="#spec-3" role="tab">
                             <div class="spec-item-name mb-4"><div class="d-sm-block">AVITA LIBER</div><div class="d-sm-block">(12.5-inch) @if( !$HAVE_LIBER_12) / @lang('site.coming_soon') @endif</div></div>
                             <img class="hidden-sm-down" src="/images/liber/12/pink.png">
                             <ul class="list-unstyled spec-color-list d-flex flex-wrap align-items-center justify-content-center mt-4 ">
@@ -69,7 +69,7 @@
                                 <li style="background-color: #74AACA" data-image="/images/liber/12/cyan.png"></li>
                                
                             </ul>
-                        </a>
+                        </a>-->
                     </nav>
                 </div>
             </div>
@@ -88,7 +88,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">CPU</div>
-                                <div>Intel® Core™ i7-8550U Processor, Intel® Core™ i5-8250U Processor, Intel® Core™ i3-8130U Processor, Intel® Pentium® N5000 Processor, Intel® Celeron® N4000 Processor, Intel® Core™ i7-7Y75 Processor, Intel® Core™ i5-7Y54 Processor, Intel® Pentium® N4200 Processor, Intel® Celeron® N3350 Processor </div>
+                                <div>Intel® Core™ i7-8550U Processor, Intel® Core™ i5-8250U Processor, Intel® Core™ i3-8130U Processor, Intel® Pentium® N5000 Processor, Intel® Celeron® N4000 Processor, Intel® Core™ i5-7Y54 Processor, Intel® Pentium® N4200 Processor, Intel® Celeron® N3350 Processor </div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Display</div>
@@ -174,7 +174,7 @@
                                 </li>
                                 <li class="spec-item d-flex">
                                     <div class="offset-md-1 col-4 col-md-3">CPU</div>
-                                    <div>Intel® Core™ i7-8550U Processor, Intel® Core™ i5-8250U Processor, Intel® Core™ i3-8130U Processor, Intel® Pentium® N5000 Processor, Intel® Celeron® N4000 Processor, Intel® Core™ i7-7Y75 Processor, Intel® Core™ i5-7Y54 Processor, Intel® Pentium® N4200 Processor, Intel® Celeron® N3350 Processor </div>
+                                    <div>Intel® Core™ i7-8550U Processor, Intel® Core™ i5-8250U Processor, Intel® Core™ i3-8130U Processor, Intel® Pentium® N5000 Processor, Intel® Celeron® N4000 Processor, Intel® Core™ i5-7Y54 Processor, Intel® Pentium® N4200 Processor, Intel® Celeron® N3350 Processor </div>
                                 </li>
                                 <li class="spec-item d-flex">
                                     <div class="offset-md-1 col-4 col-md-3">Display</div>
@@ -249,7 +249,7 @@
                             </ul>
                         </div>
                     </div>
-                <div class="tab-pane" id="spec-3" role="tabpanel">
+           <!---     <div class="tab-pane" id="spec-3" role="tabpanel">
                     <div class="container">
                         <ul class="list-unstyled spec-list">
                             <li class="spec-item d-flex">
@@ -332,7 +332,7 @@
                                 </li>
                         </ul>
                     </div>
-                </div>
+                </div>-->
 
             </div>
 
