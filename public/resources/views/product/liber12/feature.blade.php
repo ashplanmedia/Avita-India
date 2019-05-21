@@ -61,7 +61,8 @@
                             <img class="ac-computer-image ac-computer-1" src="/images/liber/liber12_feature/sc2_img1.png">
                      <!---   <img class="ac-computer-image ac-computer-2" src="/images/liber/liber12_feature/sc2_img2.png">--->
                         </div>
-						<div class="offset-md-1 col-8">
+						<div class="row">
+						<div class="col-8">
                         <div class="h2 banner-header mb-4 mb-sm-5">Inside-out Vibrancy</div>
                         <div class="banner-para">
 							
@@ -73,9 +74,10 @@
 						</div>			
 					
 						</div>
-							<div class="offset-md-1 col-4">
+							<div class="col-4">
 			 <img class="ac-computer-image ac-computer-1" src="/images/liber/AVITA_Backpack.png">
 
+							</div>
 							</div>
                     </div>
 				</div>
