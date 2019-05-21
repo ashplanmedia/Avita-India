@@ -4,7 +4,7 @@
         
      <div class="carousel-item  active">
                 <div class="responsive-block">
-                <a href="/products/liber-new-generation">
+                <a href="/product/liber/where_to_buy">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
