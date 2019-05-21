@@ -135,7 +135,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Colour</div>
-    <div>Princess Pink, Fragrant Lilac, Peacock Green, Angel Blue.</div> 
+        <div>Princess Pink, Fragrant Lilac, Peacock Green, Angel Blue.</div> 
                             </li>
                             
                         </ul>
@@ -215,7 +215,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">CPU</div>
-                                <div>PENTIUM N4200 and Intel® Core i5-7Y54</div>
+                                <div>Intel® Core i5-7Y54</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Display</div>
@@ -223,7 +223,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Memory</div>
-                                <div>4GB / 8GB DDR3 </div>
+                                <div> 8GB DDR3 </div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Graphics</div>
