@@ -44,6 +44,8 @@
                         <div class="ac-computer-wrap">
                             <img class="ac-computer-image ac-computer-1" src="/images/liber/sc2_img1.png">
                         </div>
+			<div class="row">
+			<div class="col-8">
                         <div class="h2 banner-header mb-4 mb-sm-5">Inside-out Vibrancy</div>
                         <div class="banner-para">
                             <span class="d-lg-block">LIBER is a new journey of self-discovery</span>
@@ -54,6 +56,10 @@
                         </div>
 
                     </div>
+		<div class="col-4">
+			 <img class="ac-computer-image ac-computer-1" src="/images/liber/AVITA_Sleeves.png">
+                      </div>
+		     </div>
                 </div>
             </div>
         </section>
