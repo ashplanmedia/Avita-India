@@ -57,7 +57,7 @@
 
                     </div>
 		<div class="col-4">
-			 <img class="ac-computer-image ac-computer-1" src="/images/liber/AVITA_Sleeves.png">
+			 <img class="ac-computer-image ac-computer-1" src="/images/liber/AVITA_Backpack.png">
                       </div>
 		     </div>
                 </div>
