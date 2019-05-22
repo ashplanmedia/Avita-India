@@ -63,6 +63,10 @@ Route::get('/why-millennials-are-choosing-cloud-storage-for-personal-computing',
     return view('blog.blog8');
 });
 
+Route::get('/AVITA-breaks-down-the-Most-Creative-Career-Choices-students-make-today', function(){
+    return view('blog.blog9');
+});
+
 //
 
 
