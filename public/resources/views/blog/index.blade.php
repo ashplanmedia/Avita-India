@@ -9,18 +9,18 @@
 
         <section class="focus-event top-nav-padding">
             <div class="container">
-                <h3 class="section-title ls-0 my-5">@lang('site.blogs_title')</h3>
-		<div class="row">
-			     <div class="col-12 col-md-6">
+      <h3 class="section-title ls-0 my-5">@lang('site.blogs_title')</h3>
+              <div class="row">
+                 <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-        <a href="/why-millennials-are-choosing-cloud-storage-for-personal-computing"> <p>Why Millennials are choosing Cloud Storage for Personal Computing?</p></a><br/>
+        <a href="/AVITA-breaks-down-the-Most-Creative-Career-Choices-students-make-today"><p>AVITA breaks down the Most Creative Career Choices students make today</p></a><br/>
                             <figure>
                                 <div class="image-wrap">
-                                    <img style="width: 100%; height:100%;" src="/images/blog/why-millennials-are-choosing-cloud-storage-for-personal-computing.png" />
+                                    <img style="width: 100%; height:100%;" src="/images/blog/AVITA-breaks-down-the-Most-Creative-Career-Choices-students-make-today.png" />
                                 </div>
                                 <figcaption class="d-flex event-caption coming_soon px-4 py-1">
-                                    <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 18th May, 2019</div>
-                                    <div class="event-status coming_soon ml-auto"></strong>Category:</strong>Cloud Storage</div>
+                                    <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 22th May, 2019</div>
+                                    <div class="event-status coming_soon ml-auto"></strong>Category:</strong>AVITA Liber New Generation</div>
                                 </figcaption>
                             </figure>
 
@@ -46,10 +46,12 @@
                     </div>
              </div>
 
-  <div class="row">
-                 <div class="col-12 col-md-6">
+        <div class="row">
+          
+
+                <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/AVITA-Magus–8-Wonderful-Benefits-of-a-2-in-1-Laptops">  <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p></a><br/>
+                            <a href="/AVITA-Magus–8-Wonderful-Benefits-of-a-2-in-1-Laptops"> <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p></a><br/>
                             <figure>
                                 <div class="image-wrap">
                                     <img style="width: 100%; height:100%;" src="/images/blog/blog6.jpg" />
@@ -63,13 +65,7 @@
                         </div>
 
                     </div>
-
-			  
-        
-              
-
-                    <div class="col-12 col-md-6">
-                        <div class="event-item mb-5">
+      <div class="event-item mb-5">
                             <a href="/AVITAs-Guide-to-Buying-the-Perfect-Student-Laptop"> <p>AVITA’s Guide to Buying the Perfect Student Laptop</p></a><br/>
                             <figure>
                                 <div class="image-wrap">
@@ -84,8 +80,12 @@
                         </div>
 
                     </div>
+            
                 </div>
-                  <div class="row">
+                 <div class="row">
+           <div class="col-12 col-md-6">
+                       
+            
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/What-are-the-benefits-of-smart-scale"> <p>What are the benefits of smart scale?</p></a><br/>
@@ -102,7 +102,7 @@
                         </div>
 
                     </div>
-	                <div class="col-12 col-md-6">
+                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/Why-is-College-the-RIGHT-time-to-become-Creative"> <p>Why is College the RIGHT time to become Creative? </p></a><br/>
                                 <figure>
@@ -116,11 +116,12 @@
                                 </figure>
 
                         </div>
+                </div>
+                <div class="row">
+                   
 
                     </div>
-                </div>
-                  <div class="row">
-                             <div class="col-12 col-md-6">
+                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/Avita-Liber-Technology-to-keep-YOU-high-on-Fashion"> <p>Avita Liber: Technology to keep YOU high on Fashion</p><br/>
                                 <figure>
@@ -136,9 +137,6 @@
                         </div>
 
                     </div>
-                  
-                
-           
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/Why-should-your-Personal-Laptop-be-Light-Weighted">  <p>Why should your Personal Laptop be Light Weighted?</p><br/>
@@ -156,8 +154,8 @@
 
                     </div>
                
-                </div>
-          
+                    </div>
+                 
         </section>
 
 
@@ -171,7 +169,7 @@
 @section('js')
     <script>
         $('#news-month-option').change( function(event) {
-			window.location = 'news/'+ $(this).val() ;
+            window.location = 'news/'+ $(this).val() ;
         })
     </script>
 @endsection
