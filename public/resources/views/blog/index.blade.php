@@ -65,7 +65,8 @@
                         </div>
 
                     </div>
-      <div class="event-item mb-5">
+                       <div class="col-12 col-md-6">
+        <div class="event-item mb-5">
                             <a href="/AVITAs-Guide-to-Buying-the-Perfect-Student-Laptop"> <p>AVITA’s Guide to Buying the Perfect Student Laptop</p></a><br/>
                             <figure>
                                 <div class="image-wrap">
@@ -83,9 +84,7 @@
             
                 </div>
                  <div class="row">
-           <div class="col-12 col-md-6">
-                       
-            
+           
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/What-are-the-benefits-of-smart-scale"> <p>What are the benefits of smart scale?</p></a><br/>
@@ -117,10 +116,10 @@
 
                         </div>
                 </div>
-                <div class="row">
-                   
-
-                    </div>
+            </div>
+            
+             <div class="row">
+           
                      <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/Avita-Liber-Technology-to-keep-YOU-high-on-Fashion"> <p>Avita Liber: Technology to keep YOU high on Fashion</p><br/>
