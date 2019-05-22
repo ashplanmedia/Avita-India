@@ -34,7 +34,7 @@ If you are skilled in talking your way out of uncomfortable conversations, then 
 A career in advertising has been promising because companies need to do much more than manufacturing the best product and providing the best service to attract the target audience. This is where advertising professionals come in. Advertising professionals perform varied roles such as client-servicing, research, copywriting, editing, scriptwriting, and much more. In such a demanding job, people need a laptop that can handle the load. AVITA is a perfect choice as it has 8 hours battery backup, with latest Intel i5 processor for fast processing.
 
 <h2>CONCLUSION</h2>
-Indian youth is breaking the stereotypes and going for the career of their choices. In such a situation, AVITA is a brand which is ready to be with you at every step. We are providing everything you are looking for in your dream laptop.
+Indian youth is breaking the stereotypes and going for the career of their choice. In such a situation, AVITA is a brand which is ready to be with you at every step. We are providing everything you are looking for in your dream laptop.
 
                     </div>
 
