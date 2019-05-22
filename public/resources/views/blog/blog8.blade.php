@@ -10,7 +10,7 @@
 
         <section class="focus-event top-nav-padding">
             <div class="container">
-                <h3 class="section-title ls-0 my-5">@lang('site.blog7')</h3>
+                <h3 class="section-title ls-0 my-5">@lang('site.blog8')</h3>
                 <div class="row">
                     <!-----
                       ------->
