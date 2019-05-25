@@ -47,7 +47,23 @@
              </div>
 
         <div class="row">
-          
+        <div class="col-12 col-md-6">
+                        <div class="event-item mb-5">
+                            <a href="/why-millennials-are-choosing-cloud-storage-for-personal-computing"> <p>Why Millennials are choosing Cloud Storage for Personal Computing</p></a><br/>
+                            <figure>
+                                <div class="image-wrap">
+                                    <img style="width: 100%; height:100%;" src="/images/blog/why-millennials-are-choosing-cloud-storage-for-personal-computing.png" />
+                                </div>
+                                <figcaption class="d-flex event-caption coming_soon px-4 py-1">
+                                    <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 13th May, 2019</div>
+                                    <div class="event-status coming_soon ml-auto"></strong>Category:</strong>Cloud Storage</div>
+                                </figcaption>
+                            </figure>
+
+                        </div>
+
+                    </div>
+                      
 
                 <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
@@ -65,8 +81,12 @@
                         </div>
 
                     </div>
-                       <div class="col-12 col-md-6">
-        <div class="event-item mb-5">
+                      
+            
+                </div>
+                 <div class="row">
+                 <div class="col-12 col-md-6">
+                  <div class="event-item mb-5">
                             <a href="/AVITAs-Guide-to-Buying-the-Perfect-Student-Laptop"> <p>AVITA’s Guide to Buying the Perfect Student Laptop</p></a><br/>
                             <figure>
                                 <div class="image-wrap">
@@ -81,10 +101,6 @@
                         </div>
 
                     </div>
-            
-                </div>
-                 <div class="row">
-           
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/What-are-the-benefits-of-smart-scale"> <p>What are the benefits of smart scale?</p></a><br/>
@@ -101,7 +117,11 @@
                         </div>
 
                     </div>
-                     <div class="col-12 col-md-6">
+                    
+            </div>
+            
+             <div class="row">
+             <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/Why-is-College-the-RIGHT-time-to-become-Creative"> <p>Why is College the RIGHT time to become Creative? </p></a><br/>
                                 <figure>
@@ -116,10 +136,6 @@
 
                         </div>
                 </div>
-            </div>
-            
-             <div class="row">
-           
                      <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/Avita-Liber-Technology-to-keep-YOU-high-on-Fashion"> <p>Avita Liber: Technology to keep YOU high on Fashion</p><br/>
@@ -136,6 +152,12 @@
                         </div>
 
                     </div>
+      
+
+                    </div>
+               
+                    </div>
+                    <div class="row">
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
                             <a href="/Why-should-your-Personal-Laptop-be-Light-Weighted">  <p>Why should your Personal Laptop be Light Weighted?</p><br/>
@@ -150,9 +172,7 @@
                                 </figure>
 
                         </div>
-
-                    </div>
-               
+                    
                     </div>
                  
         </section>
