@@ -126,18 +126,18 @@ return [
 
     'default_location' => [
         'ip' => '127.0.0.0',
-        'iso_code' => 'US',
-        'country' => 'United States',
-        'city' => 'New Haven',
-        'state' => 'CT',
-        'state_name' => 'Connecticut',
-        'postal_code' => '06510',
-        'lat' => 41.31,
-        'lon' => -72.92,
-        'timezone' => 'America/New_York',
+        'iso_code' => 'IN',
+        'country' => 'India',
+        'city' => 'New Delhi',
+        'state' => 'DL',
+        'state_name' => 'Delhi',
+        'postal_code' => '110025',
+        'lat' => 28.5381375,
+        'lon' => 77.2862822,
+        'timezone' => 'Asia/Kolkata',
         'continent' => 'NA',
         'default' => true,
-        'currency' => 'USD',
+        'currency' => 'INR',
     ],
 
 ];
