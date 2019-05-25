@@ -7,7 +7,7 @@
 @section('content')
 
     @php
-        $country = strtolower( request()->segment(2) );
+        $country = 'in';
     @endphp
 
     @if( View::exists('banner_'. $country))
