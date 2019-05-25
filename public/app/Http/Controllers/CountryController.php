@@ -12,6 +12,8 @@ class CountryController extends Controller
     public function switchCountry(Request $request, $country) {
 
         $countries = config('constants.countries');
+        
+        $country = 'in';
 
         $languages = config('languages');
 
