@@ -13,9 +13,7 @@ class CountryController extends Controller
 
         $countries = config('constants.countries');
         
-        $country = 'in';
-
-        $languages = config('languages');
+       $languages = config('languages');
 
         $lang = $request->get('lang');
 
