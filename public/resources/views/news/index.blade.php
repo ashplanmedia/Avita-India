@@ -36,6 +36,8 @@
 
 <div class="col-12 col-md-6">
     <div class="event-item mb-5">
+	<p>Consumer Electronics Show, 2019</p>
+
         <figure>
             <div class="image-wrap">
                 <img style="width: 100%;" src="/images/events/CES/IMG_5033.jpg" />
@@ -52,9 +54,10 @@
 
 <div class="col-12 col-md-6">
     <div class="event-item mb-5">
+	<p>AVITA India | Launch 24 Jan, 2019</p>
         <figure>
             <div class="image-wrap">
-                <img style="width: 100%;" src="/events/launch/avita india launch.jpg" />
+                <img style="width: 100%;" src="/images/events/launch/avita india launch.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
                 <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i> JAN 24, 2019</div>
@@ -95,7 +98,8 @@
         <div class="event-status coming_soon ml-auto"></strong>Publication:</strong> Sunday Guardian </div>
             </figcaption>
         </figure>
-      
+              <a class="overlay-link" href="/"></a>
+
             </div>
 
         </div>
