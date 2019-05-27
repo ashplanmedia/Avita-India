@@ -427,6 +427,23 @@
                 </div>
             </div>
         </section>
+        
+                <section class="product-statement">
+            <div class="container">
+               <div class="row">
+                    <div class="col-sm-3">
+                    </div>
+                    <div class="col-sm-6">
+                        <img class="bc-computer-image bc-computer-2" src="/images/liber/avita_sleeves.png" style="width: 512px; height: 256px; ">
+
+                    </div>
+                    <div class="col-sm-3">
+                    </div> 
+                    </div>
+               </div>
+           
+       
+        </section>
 
         <section class="product-statement">
             <div class="container">
