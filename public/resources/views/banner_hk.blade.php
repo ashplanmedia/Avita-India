@@ -8,10 +8,10 @@
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/Avita_jellyfish_teaser_banner_v3_comingsoon_1000px.jpg')"></div>
+                                 style="background-image: url('/images/banner/Avita_jellyfish_teaser_banner_v3_comingsoon_Banner.jpg')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/Avita_jellyfish_teaser_banner_v3_comingsoon_1000px.jpg')"></div>
+                                 style="background-image: url('/images/banner/Avita_jellyfish_teaser_banner_v3_comingsoon_Banner.jpg')"></div>
                         @endif
                         <div class="banner-bg hidden-md-up"
                              style="background-image: url('/images/banner/Avita_jellyfish_teaser_banner_v3_comingsoon_375px.jpg')"></div>
