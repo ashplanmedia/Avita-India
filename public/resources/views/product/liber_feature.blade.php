@@ -442,11 +442,11 @@
                             </div> -->
                         </div>
                     </div>
-
-                </div>
-                  <div class="banner-image">
+             <div class="banner-image">
                     <img class="bc-computer-image bc-computer-1" src="/images/liber/sc5_fimg1.jpg">
                </div>
+                </div>
+     
             </div>
         </section>
 
