@@ -39,14 +39,12 @@
                     <img class="bc-computer-image bc-computer-5" src="/images/liber/liber_u_feature/sc2_fimg5.png">
                     <img class="bc-computer-image bc-computer-6" src="/images/liber/liber_u_feature/sc2_fimg6.png">
                 </div>
-                <div class="container">
+                               <div class="container">
                     <div class="banner-info">
                         <div class="ac-computer-wrap">
-                            <img class="ac-computer-image ac-computer-1" src="/images/liber/liber_u_feature/sc2_img1.png">
-                            <!-- <img class="ac-computer-image ac-computer-2" src="/images/liber/liber_u_feature/sc2_img2.png"> -->
+                            <img class="ac-computer-image ac-computer-1" src="/images/liber/sc2_img1.png">
+                            <!-- <img class="ac-computer-image ac-computer-2" src="/images/liber/sc2_img2.png"> -->
                         </div>
-                        <div class="row">
-						<div class="col-8">
                         <div class="h2 banner-header mb-4 mb-sm-5">Inside-out Vibrancy</div>
                         <div class="banner-para">
                             <span class="d-lg-block">LIBER is a new journey of self-discovery</span>
@@ -56,10 +54,6 @@
                             <span class="d-lg-block">form factors to reveal your true colors.</span>
                         </div>
                     </div>
-                   <div class="col-4">
-			 <img class="ac-computer-image ac-computer-1" src="/images/liber/AVITA_Sleeves.png">
-                    </div>
-							</div>
                 </div>
             </div>
         </section>
