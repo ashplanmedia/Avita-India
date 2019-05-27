@@ -40,9 +40,9 @@
             <div class="image-wrap">
                 <img style="width: 100%;" src="/images/events/CES/IMG_5033.jpg" />
             </div>
-            <figcaption class="d-flex event-caption {{ $news->status }} px-4 py-1">
+            <figcaption class="d-flex event-caption coming_soon px-4 py-1">
                 <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i> JAN 8-11, 2019</div>
-                <div class="event-status {{ $news->status }} ml-auto">Finished</div>
+                <div class="event-status coming_soon ml-auto">Finished</div>
             </figcaption>
         </figure>
         <a class="overlay-link" href="/ces-events"></a>
@@ -56,9 +56,9 @@
             <div class="image-wrap">
                 <img style="width: 100%;" src="/events/launch/avita india launch.jpg" />
             </div>
-            <figcaption class="d-flex event-caption {{ $news->status }} px-4 py-1">
+            <figcaption class="d-flex event-caption coming_soon px-4 py-1">
                 <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i> JAN 24, 2019</div>
-                <div class="event-status {{ $news->status }} ml-auto">Finished</div>
+                <div class="event-status coming_soon ml-auto">Finished</div>
             </figcaption>
         </figure>
         <a class="overlay-link" href="/india-launch"></a>
