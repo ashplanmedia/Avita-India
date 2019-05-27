@@ -319,9 +319,7 @@
                 <div class="banner-image">
                     <img class="bc-computer-image bc-computer-1" src="/images/liber/liber12_feature/sc8_fimg1.png">
                     <!-- <img class="bc-computer-image bc-computer-2" src="/images/liber/liber12_feature/sc8_fimg2.png"> -->
-
-
-                    <img class="bc-computer-image bc-computer-4" src="/images/liber/liber12_feature/sc8_fimg4.png">
+		  <img class="bc-computer-image bc-computer-4" src="/images/liber/liber12_feature/sc8_fimg4.png">
                     <img class="bc-computer-image bc-computer-5" src="/images/liber/liber12_feature/sc8_fimg5.png">
                     <img class="bc-computer-image bc-computer-6" src="/images/liber/liber12_feature/sc8_fimg6.png">
                     <img class="bc-computer-image bc-computer-7" src="/images/liber/liber12_feature/sc8_fimg7.png">
@@ -458,6 +456,14 @@
                         </div>
                     </div>
 
+                </div>
+		 <div class="container">
+                    <div class="banner-info mx-auto mr-lg-0">
+                        <div class="ac-computer-wrap hidden-md-up">
+                           <img class="ac-computer-image ac-computer-1" src="/images/liber/avita_bags.png">
+                        </div>
+                       
+                    </div>
                 </div>
             </div>
         </section>
