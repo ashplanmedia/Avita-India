@@ -12,11 +12,9 @@
             <h3 class="section-title ls-0 my-5">@lang('site.news_title')</h3>
             <div class="row">
     
-          <!-----
-                  ------->
-        <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6">
             <div class="event-item mb-5">
-<a href="/AVITA-launches-stylish-ADMIROR-notebooks"><p>#YouCanBe AVITA launches stylish ADMIROR notebooks</p></a><br/>
+<p>#YouCanBe AVITA launches stylish ADMIROR notebooks</p>
             <figure>
             <div class="image-wrap">
                 <img style="width: 100%; height:100%;" src="http://avita-india.com/images/events/Avita_jellyfish_teaser_banner_v3_1000px.jpg" />
@@ -26,10 +24,48 @@
         <div class="event-status coming_soon ml-auto"></strong>Publication:</strong> stylish ADMIROR notebooks</div>
             </figcaption>
         </figure>
-      
+              <a class="overlay-link" href="/AVITA-launches-stylish-ADMIROR-notebooks"></a>
+
             </div>
 
         </div>
+    
+          <!-----
+                  ------->
+	  
+		  
+<div class="col-12 col-md-6">
+    <div class="event-item mb-5">
+        <figure>
+            <div class="image-wrap">
+                <img style="width: 100%;" src="/images/events/CES/IMG_5033.jpg" />
+            </div>
+            <figcaption class="d-flex event-caption {{ $news->status }} px-4 py-1">
+                <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i> JAN 8-11, 2019</div>
+                <div class="event-status {{ $news->status }} ml-auto">Finished</div>
+            </figcaption>
+        </figure>
+        <a class="overlay-link" href="{{ route('news.detail', $news->id) }}"></a>
+    </div>
+</div>
+
+
+<div class="col-12 col-md-6">
+    <div class="event-item mb-5">
+        <figure>
+            <div class="image-wrap">
+                <img style="width: 100%;" src="/events/launch/avita india launch.jpg" />
+            </div>
+            <figcaption class="d-flex event-caption {{ $news->status }} px-4 py-1">
+                <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i> JAN 24, 2019</div>
+                <div class="event-status {{ $news->status }} ml-auto">Finished</div>
+            </figcaption>
+        </figure>
+        <a class="overlay-link" href="/launch"></a>
+    </div>
+</div>
+
+
         
         <!---
         -------->
