@@ -1,7 +1,7 @@
  @extends('layouts.app')
 
 @section('title')
-    {{ $news_detail->title }} | @lang('title.whats_new')
+    @lang('title.whats_new')
 @stop
 
 
