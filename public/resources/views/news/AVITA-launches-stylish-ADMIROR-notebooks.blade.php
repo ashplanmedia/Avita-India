@@ -14,13 +14,13 @@
                     <div class="event-date color-required h5 mb-0 pr-3">
                         <i class="fa fa-calendar-o mr-2" aria-hidden="true"></i>May 27, 2019
                     </div>
-                    <div class="event-status px-4 py-1 {{ $news_detail->status }}">
+                    <div class="event-status px-4 py-1">
                        In Progress
                     </div>
                 </div>
                 <div class="row p-3 align-items-center">
                    <!--- <div class="event-detail-title h3">
-                        {{ $news_detail->title }}
+                       #YouCanBe AVITA launches stylish ADMIROR notebooks
                     </div>
                     --->
                    @if( $country != 'cn')
