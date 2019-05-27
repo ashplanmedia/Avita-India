@@ -80,12 +80,12 @@
                         </div>
                         <div class="banner-para ls-0">
                             <span class="d-lg-block">LIBER offers great mobility. </span>
-							<span class="d-lg-block">Having no compromise to a silky metallic body </span>
-							<span class="d-lg-block">with the thinnest part of only 5mm and </span>
-							<span class="d-lg-block"> weight starting from 1.35kg (13.3-inch) or 1.49kg (14-inch), </span>
-							<span class="d-lg-block">it comes with an ultra slim and light design </span>
-							<span class="d-lg-block">that unburdens you on the go.</span>
-							<span class="d-block"><small>* Thinnest part</small></span>
+				<span class="d-lg-block">Having no compromise to a silky metallic body </span>
+				<span class="d-lg-block">with the thinnest part of only 5mm and </span>
+				<span class="d-lg-block"> weight starting from 1.35kg (13.3-inch) or 1.49kg (14-inch), </span>
+				<span class="d-lg-block">it comes with an ultra slim and light design </span>
+				<span class="d-lg-block">that unburdens you on the go.</span>
+				<span class="d-block"><small>* Thinnest part</small></span>
                         </div>
                         <div class="banner-data d-flex flex-wrap text-left mx-auto pl-sm-5">
                             <div class="data-card data-card-1 col-6 my-2 my-sm-4 pl-1 px-sm-4">
@@ -458,6 +458,19 @@
                     <li>Windows is either registered trademark or trademark of Microsoft Corporation in the United States and/or other countries.</li>
                 </ul>
             </div>
+	    <div class="container">
+                    <div class="banner-info mx-auto mr-lg-0">
+                        <div class="ac-computer-wrap hidden-md-up">
+                            <img class="ac-computer-image ac-computer-1" src="/images/magus/sc7_fimg1.png">
+                        </div>
+                        <div class="h2 banner-header mb-4 mb-sm-5">AVITA Warranty Guideline</div>
+
+                        <div class="banner-para ls-0">
+                            <p class="d-lg-block">AVITA ensures a quick and hassle-free warranty for AVITA MAGUS which covers essentials like the battery pack and power adapter. Life only gets easier with AVITA.</p>
+
+                        </div>
+                    </div>
+                </div>
         </section>
 
         <div class="gotop-wrap">
