@@ -441,10 +441,11 @@
                                 <div class="badge-caption">&nbsp;</div>
                             </div> -->
                         </div>
+                        <img class="bc-computer-image bc-computer-1" src="/images/liber/sc5_fimg1.jpg">
                     </div>
-             <div class="banner-image">
-                    <img class="bc-computer-image bc-computer-1" src="/images/liber/sc5_fimg1.jpg">
-               </div>
+            
+                    
+            
                 </div>
      
             </div>
