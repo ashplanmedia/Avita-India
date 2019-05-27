@@ -8,6 +8,23 @@
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
+                                 style="background-image: url('/images/banner/Avita_jellyfish_teaser_v3_Banner.jpg')"></div>
+                        @else
+                            <div class="banner-bg hidden-sm-down"
+                                 style="background-image: url('/images/banner/Avita_jellyfish_teaser_v3_Banner.jpg')"></div>
+                        @endif
+                        <div class="banner-bg hidden-md-up"
+                             style="background-image: url('/images/banner/Avita_jellyfish_teaser_banner_v3_375px.jpg')"></div>
+                    </div>
+                    </a>
+                </div>
+            </div>
+                 <div class="carousel-item">
+                <div class="responsive-block">
+                <a href="/product/liber/where_to_buy">
+                    <div class="banner-block responsive-item">
+                        @if( App::isLocale('en') )
+                            <div class="banner-bg hidden-sm-down"
                                  style="background-image: url('/images/banner/offer99_web.png')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
@@ -86,6 +103,8 @@
                 <li data-target="#home_banner" data-slide-to="2"></li>
                 <li data-target="#home_banner" data-slide-to="3"></li>
                 <li data-target="#home_banner" data-slide-to="4"></li>
+           <li data-target="#home_banner" data-slide-to="5"></li>
+
             </ol>
         </div>
 </section>
