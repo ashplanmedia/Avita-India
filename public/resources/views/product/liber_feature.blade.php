@@ -463,12 +463,7 @@
                         <div class="ac-computer-wrap hidden-md-up">
                             <img class="ac-computer-image ac-computer-1" src="/images/magus/sc7_fimg1.png">
                         </div>
-                        <div class="h2 banner-header mb-4 mb-sm-5">AVITA Warranty Guideline</div>
-
-                        <div class="banner-para ls-0">
-                            <p class="d-lg-block">AVITA ensures a quick and hassle-free warranty for AVITA MAGUS which covers essentials like the battery pack and power adapter. Life only gets easier with AVITA.</p>
-
-                        </div>
+                       
                     </div>
                 </div>
         </section>
