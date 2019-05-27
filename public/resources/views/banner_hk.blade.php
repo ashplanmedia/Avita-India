@@ -4,7 +4,7 @@
         
      <div class="carousel-item  active">
                 <div class="responsive-block">
-                <a href="https://avita-india.com/AVITA-launches-stylish-ADMIROR-notebooks">
+                <a href="/AVITA-launches-stylish-ADMIROR-notebooks">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
