@@ -19,7 +19,7 @@
 <p>#YouCanBe AVITA launches stylish ADMIROR notebooks</p><br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/events/Avita_jellyfish_teaser_banner_v3_991px.jpg" />
+                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/events/Avita_jellyfish_teaser_banner_v3_1000px.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 27th May, 2019</div>
