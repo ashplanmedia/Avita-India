@@ -1,3 +1,4 @@
+
 @extends('layouts.app')
 
 @section('title')
@@ -32,8 +33,7 @@
     
           <!-----
                   ------->
-	  
-		  
+
 <div class="col-12 col-md-6">
     <div class="event-item mb-5">
         <figure>
@@ -45,7 +45,7 @@
                 <div class="event-status {{ $news->status }} ml-auto">Finished</div>
             </figcaption>
         </figure>
-        <a class="overlay-link" href="{{ route('news.detail', $news->id) }}"></a>
+        <a class="overlay-link" href="/ces-events"></a>
     </div>
 </div>
 
@@ -61,7 +61,7 @@
                 <div class="event-status {{ $news->status }} ml-auto">Finished</div>
             </figcaption>
         </figure>
-        <a class="overlay-link" href="/launch"></a>
+        <a class="overlay-link" href="/india-launch"></a>
     </div>
 </div>
 
