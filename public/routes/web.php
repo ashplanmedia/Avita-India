@@ -35,6 +35,10 @@ Route::get('/blog', function(){
     return view('blog.index');
 });
 
+Route::get('/AVITA-launches-stylish-ADMIROR-notebooks', function(){
+    return view('event.AVITA-launches-stylish-ADMIROR-notebooks');
+});
+
 Route::get('/Why-should-your-Personal-Laptop-be-Light-Weighted', function(){
     return view('blog.blog1');
 });
