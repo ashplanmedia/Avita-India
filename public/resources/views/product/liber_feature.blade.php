@@ -441,7 +441,6 @@
                                 <div class="badge-caption">&nbsp;</div>
                             </div> -->
                         </div>
-                        <img class="bc-computer-image bc-computer-1" src="/images/liber/sc5_fimg1.jpg">
                     </div>
             
                     
@@ -451,7 +450,18 @@
             </div>
         </section>
 
+        <section class="product-statement">
+            <div class="container">
+               <div class="row">
+                    <div class="col-sm-12">
+                        <img class="bc-computer-image bc-computer-2" src="/images/liber/sc9_fimg2.png">
 
+                    </div> 
+                    </div>
+               </div>
+            </div>
+       
+        </section>
 
 
         <section class="product-statement">
