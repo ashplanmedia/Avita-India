@@ -444,26 +444,14 @@
                     </div>
 
                 </div>
-
-
-            </div>
-        </section>
-
-        <section class="product-liber-wifi ls-0">
-            <div class="banner-block">
-                <div class="banner-bg"></div>
-                <div class="banner-image">
-                                        <img class="bc-computer-image bc-computer-1" src="/images/magus.png">
+                  <div class="banner-image">
+                         <img class="bc-computer-image bc-computer-1" src="/images/magus.png">
 
                 </div>
-  
 
-                
+
             </div>
         </section>
-
-
-
 
 
 
