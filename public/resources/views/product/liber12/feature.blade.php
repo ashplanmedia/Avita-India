@@ -55,30 +55,23 @@
                     <img class="bc-computer-image bc-computer-5" src="/images/liber/liber12_feature/sc2_fimg5.png">
                     <img class="bc-computer-image bc-computer-6" src="/images/liber/liber12_feature/sc2_fimg6.png">
                 </div>
-                <div class="container">
+                             <div class="container">
                     <div class="banner-info">
                         <div class="ac-computer-wrap">
                             <img class="ac-computer-image ac-computer-1" src="/images/liber/liber12_feature/sc2_img1.png">
-                     <!---   <img class="ac-computer-image ac-computer-2" src="/images/liber/liber12_feature/sc2_img2.png">--->
+                            <!-- <img class="ac-computer-image ac-computer-2" src="/images/liber/liber12_feature/sc2_img2.png"> -->
                         </div>
-						<div class="row">
-						
-                        <div class="h2 banner-header mb-6 mb-sm-5">Inside-out Vibrancy</div>
+                        <div class="h2 banner-header mb-4 mb-sm-5">Inside-out Vibrancy</div>
                         <div class="banner-para">
-							
                             <span class="d-lg-block">LIBER is a new journey of self-discovery</span>
                             <span class="d-lg-block">through art and humanity in technology.</span>
                             <span class="d-lg-block">Where the form of a laptop remains,</span>
                             <span class="d-lg-block">it on top features chic and interchangeable </span>
                             <span class="d-lg-block">form factors to reveal your true colors.</span>
-									
-					
-						</div>
-							
-							</div>
+                        </div>
                     </div>
-				</div>
-		     </div>
+                </div>
+	     </div>
         </section>
 
         <section class="product-liber-size ls-0"/>
