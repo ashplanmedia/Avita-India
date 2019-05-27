@@ -445,11 +445,8 @@
 
                 </div>
                   <div class="banner-image">
-                         <img class="bc-computer-image bc-computer-1" src="/images/magus.png">
-
-                </div>
-
-
+                    <img class="bc-computer-image bc-computer-1" src="/images/liber/sc5_fimg1.jpg">
+               </div>
             </div>
         </section>
 
