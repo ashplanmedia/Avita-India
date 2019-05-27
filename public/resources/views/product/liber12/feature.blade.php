@@ -457,15 +457,24 @@
                     </div>
 
                 </div>
-		 <div class="container">
-                    <div class="banner-info mx-auto mr-lg-0">
-                        <div class="ac-computer-wrap hidden-md-up">
-                           <img class="ac-computer-image ac-computer-1" src="/images/liber/avita_bags.png">
-                        </div>
-                       
-                    </div>
-                </div>
+		
             </div>
+        </section>
+	        <section class="product-statement">
+            <div class="container">
+               <div class="row">
+                    <div class="col-sm-3">
+                    </div>
+                    <div class="col-sm-6">
+                        <img class="bc-computer-image bc-computer-2" src="/images/liber/avita_bags.png" style="width: 512px; height: 256px; ">
+
+                    </div>
+                    <div class="col-sm-3">
+                    </div> 
+                    </div>
+               </div>
+           
+       
         </section>
 
         <section class="product-statement">
