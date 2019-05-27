@@ -457,8 +457,8 @@
 		<li>We try our best to provide accurate and complete product information online yet we reserve the rights to keep, change or correct any information without further notice.</li>
                     <li>Windows is either registered trademark or trademark of Microsoft Corporation in the United States and/or other countries.</li>
                 </ul>
-		 <div class="banner-info mx-auto mr-lg-0">
-                        <div class="ac-computer-wrap hidden-md-up">
+		 <div class="row">
+                  <div class="col-6">
                             <img class="ac-computer-image ac-computer-1" src="/images/liber/avita_bags.png">
                         </div>
                     </div>
