@@ -9,7 +9,7 @@
     <main>
         <section class="event-detail top-nav-padding">
             <div class="container mb-5">
-                <h3 class="section-title ls-0 my-4 mt-5">@lang('site.news_title')</h3>
+                <h3 class="section-title ls-0 my-4 mt-5">#YouCanBe AVITA launches stylish ADMIROR notebooks</h3>
                 <div class="row p-3 align-items-center">
                     <div class="event-date color-required h5 mb-0 pr-3">
                         <i class="fa fa-calendar-o mr-2" aria-hidden="true"></i>May 27, 2019
