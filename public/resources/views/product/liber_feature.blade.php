@@ -461,7 +461,7 @@
 	    <div class="container">
                     <div class="banner-info mx-auto mr-lg-0">
                         <div class="ac-computer-wrap hidden-md-up">
-                            <img class="ac-computer-image ac-computer-1" src="/images/products/avita_bags.png">
+                            <img class="ac-computer-image ac-computer-1" src="/images/liber/avita_bags.png">
                         </div>
                        
                     </div>
