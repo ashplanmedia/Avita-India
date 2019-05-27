@@ -4,15 +4,6 @@
     {{ $news_detail->title }} | @lang('title.whats_new')
 @stop
 
-@section('meta')
- 
-    <meta property="og:url"                content="{{ route('news.detail', [$country, $news_detail->id] ) }}" />
-    <meta property="og:type"               content="article" />
-    <meta property="og:title"              content="AVITA - {{ $news_detail->title }}" />
-    <meta property="og:description"        content="{{ $news_detail->introduction }}" />
-    <meta property="og:image"              content="{{ $news_detail->image_url() }}" />
-
-@stop
 
 @section('content')
     <main>
