@@ -453,9 +453,13 @@
         <section class="product-statement">
             <div class="container">
                <div class="row">
-                    <div class="col-sm-12">
-                        <img class="bc-computer-image bc-computer-2" src="/images/liber/avita_bags.png" style="width: 512px; height: 256px; ">
+                    <div class="col-sm-3">
+                    </div>
+                    <div class="col-sm-6">
+                        <img class="bc-computer-image bc-computer-2" src="/images/liber/avita_bags.png" style="width: 512px; height: 512px; ">
 
+                    </div>
+                    <div class="col-sm-3">
                     </div> 
                     </div>
                </div>
