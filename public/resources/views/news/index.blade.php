@@ -11,7 +11,7 @@
         <div class="container">
             <h3 class="section-title ls-0 my-5">@lang('site.news_title')</h3>
             <div class="row">
-                        <div class="row">
+    
           <!-----
                   ------->
         <div class="col-12 col-md-6">
@@ -35,6 +35,7 @@
         -------->
 	       
             </div>
+	    </div>
        
     </section>
 
