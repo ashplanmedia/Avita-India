@@ -63,7 +63,7 @@
                         </div>
 						<div class="row">
 						
-                        <div class="h2 banner-header mb-4 mb-sm-5">Inside-out Vibrancy</div>
+                        <div class="h2 banner-header mb-6 mb-sm-5">Inside-out Vibrancy</div>
                         <div class="banner-para">
 							
                             <span class="d-lg-block">LIBER is a new journey of self-discovery</span>
