@@ -32,7 +32,7 @@
         </div>
     
           <!-----
-                  ------->
+                 
 
 <div class="col-12 col-md-6">
     <div class="event-item mb-5">
@@ -70,7 +70,7 @@
 
 
         
-        <!---
+     
         -------->
 	       
             </div>
