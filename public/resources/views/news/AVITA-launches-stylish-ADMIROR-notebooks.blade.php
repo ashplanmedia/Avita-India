@@ -35,7 +35,7 @@
                </div>
            
                   <div class="event-banner">
-                        <img src="/images/events/Avita_jellyfish_teaser_banner_v3_1000px.jpg" class="img-responsive" />
+                        <img src="/images/events/Avita_jellyfish_teaser_banner_v3_comingsoon_Banner.jpg" class="img-responsive" />
                     </div>
                   
                
