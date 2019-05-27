@@ -13,8 +13,7 @@
             <div class="row">
                         <div class="row">
           <!-----
-                
-                ------->
+                  ------->
         <div class="col-12 col-md-6">
             <div class="event-item mb-5">
 <p>#YouCanBe AVITA launches stylish ADMIROR notebooks</p><br/>
@@ -33,11 +32,10 @@
         </div>
         
         <!---
-        
         -------->
 	       
             </div>
-        </div>
+       
     </section>
 
 
