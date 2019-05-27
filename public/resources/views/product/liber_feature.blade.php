@@ -454,7 +454,7 @@
             <div class="container">
                <div class="row">
                     <div class="col-sm-12">
-                        <img class="bc-computer-image bc-computer-2" src="/images/liber/avita_bags.png">
+                        <img class="bc-computer-image bc-computer-2" src="/images/liber/avita_bags.png" style="width: 512px; height: 256px; ">
 
                     </div> 
                     </div>
