@@ -69,14 +69,7 @@
   </div>
 </div>
 
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                @endif
+ 
                 <div class="event-desc py-3 mb-5">
                     <div class="event-desc-block pb-5">
                         <p class="event-desc-content">
