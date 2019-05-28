@@ -30,6 +30,24 @@
             </div>
 
         </div>
+	
+ <div class="col-12 col-md-6">
+            <div class="event-item mb-5">
+<p>Hong Kong Tech Innovator Nexstgo returns to COMPUTEX 2019 Introducing the new AVITA ADMIROR Flagship Laptop</p>
+            <figure>
+            <div class="image-wrap">
+                <img style="width: 100%; height:100%;" src="/images/events/Hong-Kong-tech-innovator-Nexstgo-returns-to-COMPUTEX-2019_final.jpg" />
+            </div>
+            <figcaption class="d-flex event-caption coming_soon px-4 py-1">
+        <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 28th May, 2019</div>
+        <div class="event-status coming_soon ml-auto"></strong>Publication:</strong> AVITA ADMIROR Flagship Laptop</div>
+            </figcaption>
+        </figure>
+              <a class="overlay-link" href="/Hong-Kong-tech-innovator-Nexstgo-returns-to-COMPUTEX-2019_final"></a>
+
+            </div>
+
+        </div>
     
           <!-----
                  
