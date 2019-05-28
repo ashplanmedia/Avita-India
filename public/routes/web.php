@@ -39,6 +39,10 @@ Route::get('/AVITA-launches-stylish-ADMIROR-notebooks', function(){
     return view('news.AVITA-launches-stylish-ADMIROR-notebooks');
 });
 
+Route::get('/Hong-Kong-tech-innovator-Nexstgo-returns-to-COMPUTEX-2019_final', function(){
+    return view('news.Hong-Kong-tech-innovator-Nexstgo-returns-to-COMPUTEX-2019_final');
+});
+
 Route::get('/Why-should-your-Personal-Laptop-be-Light-Weighted', function(){
     return view('blog.blog1');
 });
