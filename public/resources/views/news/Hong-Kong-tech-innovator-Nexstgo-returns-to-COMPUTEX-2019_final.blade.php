@@ -14,7 +14,7 @@
                 <h3 class="section-title ls-0 my-4 mt-5">Events</h3>
                 <div class="row p-3 align-items-center">
                     <div class="event-date color-required h5 mb-0 pr-3">
-                        <i class="fa fa-calendar-o mr-2" aria-hidden="true"></i>2019.05.28
+                        <i class="fa fa-calendar-o mr-2" aria-hidden="true"></i>May 28, 2019
                     </div>
                     <div class="event-status px-4 py-1 in_progress">
                         In Progress                    </div>
