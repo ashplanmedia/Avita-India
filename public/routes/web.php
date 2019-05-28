@@ -35,6 +35,10 @@ Route::get('/blog', function(){
     return view('blog.index');
 });
 
+Route::get('/ces-events', function(){
+    return view('news.ces-events');
+});
+
 Route::get('/AVITA-launches-stylish-ADMIROR-notebooks', function(){
     return view('news.AVITA-launches-stylish-ADMIROR-notebooks');
 });
