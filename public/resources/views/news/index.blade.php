@@ -16,6 +16,7 @@
             <div class="col-12 col-md-6">
             <div class="event-item mb-5">
 <p>#YouCanBe AVITA launches stylish ADMIROR notebooks</p>
+<br/>
             <figure>
             <div class="image-wrap">
                 <img style="width: 100%; height:100%;" src="/images/events/Avita_jellyfish_teaser_banner_v3_comingsoon_1000px.jpg" />
