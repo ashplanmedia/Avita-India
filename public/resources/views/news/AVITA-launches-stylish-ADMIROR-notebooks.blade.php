@@ -35,7 +35,7 @@
                </div>
            
                   <div class="event-banner">
-                        <img src="/images/events/#You Can Be AVITA launches stylish ADMIROR notebooks_FINAL.jpeg" class="img-responsive" />
+                        <img src="/images/events/#You Can Be AVITA launches stylish ADMIROR notebooks_FINAL.jpg" class="img-responsive" />
                     </div>
                   
                
