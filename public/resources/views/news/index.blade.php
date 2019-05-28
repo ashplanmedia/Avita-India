@@ -50,7 +50,7 @@
 
         </div>
                      
-
+<!------
 <div class="col-12 col-md-6">
     <div class="event-item mb-5">
 	<p>Consumer Electronics Show, 2019</p>
@@ -84,7 +84,7 @@
         <a class="overlay-link" href="/india-launch"></a>
     </div>
 </div>
-       
+       -------->
             </div>
 	    </div>
        
