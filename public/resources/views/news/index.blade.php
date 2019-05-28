@@ -19,7 +19,7 @@
 <br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="/images/events/#You Can Be AVITA launches stylish ADMIROR notebooks_FINAL.jpeg" />
+                <img style="width: 100%; height:100%;" src="/images/events/#You Can Be AVITA launches stylish ADMIROR notebooks_FINAL.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 27th May, 2019</div>
