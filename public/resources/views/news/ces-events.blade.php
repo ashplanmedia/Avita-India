@@ -39,28 +39,28 @@
  
   </div>
   <div class="column">
-<img style="width: 30%;" src="https://avita-india.com/images/events/CES/IMG_5028.jpg" />
-<img style="width: 30%;" src="https://avita-india.com/images/events/CES/IMG_5033.jpg" />
-<img style="width: 30%;" src="https://avita-india.com/images/events/CES/IMG_5034.jpg" />
+<img style="width: 30%;" src="/images/events/CES/IMG_5028.jpg" />
+<img style="width: 30%;" src="/images/events/CES/IMG_5033.jpg" />
+<img style="width: 30%;" src="/images/events/CES/IMG_5034.jpg" />
 
   </div>  
   <div class="column">
-<img style="width: 30%;" src="https://avita-india.com/images/events/CES/IMG_5035.jpg" />
-<img style="width: 30%;" src="https://avita-india.com/images/events/CES/IMG_5036.jpg" />
-<img style="width: 30%;" src="https://avita-india.com/images/events/CES/IMG_5037.jpg" />
+<img style="width: 30%;" src="/images/events/CES/IMG_5035.jpg" />
+<img style="width: 30%;" src="/images/events/CES/IMG_5036.jpg" />
+<img style="width: 30%;" src="/images/events/CES/IMG_5037.jpg" />
 
 
   </div>
   <div class="column">
-  <img style="width: 30%;" src="https://avita-india.com/images/events/CES/IMG_5038.jpg" />
-  <img style="width: 30%;" src="https://avita-india.com/images/events/CES/IMG_5039.jpg" />
-  <img style="width: 30%;" src="https://avita-india.com/images/events/CES/IMG_5040.jpg" />
+  <img style="width: 30%;" src="/images/events/CES/IMG_5038.jpg" />
+  <img style="width: 30%;" src="/images/events/CES/IMG_5039.jpg" />
+  <img style="width: 30%;" src="/images/events/CES/IMG_5040.jpg" />
   
   </div>
   
     <div class="column">
-  <img style="width: 45%;" src="https://avita-india.com/images/events/CES/IMG_5026.jpg" />
-  <img style="width: 45%;" src="https://avita-india.com/images/events/CES/IMG_5032.jpg" />
+  <img style="width: 45%;" src="/images/events/CES/IMG_5026.jpg" />
+  <img style="width: 45%;" src="/images/events/CES/IMG_5032.jpg" />
  
   </div>
 </div>
