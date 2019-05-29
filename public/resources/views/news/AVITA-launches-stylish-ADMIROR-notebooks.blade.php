@@ -83,12 +83,19 @@
         $('.fb_share_btn').click( function(e) {
 
             e.preventDefault();
-
+/*
         FB.ui( {
                 method: 'share',
                 href: $(location).attr('href')
             }, function(response){
-       
+       */
+            var current_url = $('meta[property="og:url"]').prop('content');
+
+
+            var share_url = "https://facebook.com/intent/share?text=" + encodeURIComponent( current_url );
+            window.open( share_url, '_blank' );
+        });
+
         
 
         $('.twitter_share_btn').click(function(e){
