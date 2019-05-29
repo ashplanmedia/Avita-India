@@ -27,7 +27,7 @@
                     
                     <div class="event-share ml-auto">
                         <span class="px-2">Share:</span>
-                        <a href="#" class="ml-0 ml-md-auto fb_share_btn"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        <a href="#" class="ml-0 ml-md-auto fb_share_btn"><i class="fa fa-facebook pl-1" aria-hidden="true"></i></a>
                         <a href="#" class="ml-0 ml-md-2 twitter_share_btn"><i class="fa fa-twitter pl-1" aria-hidden="true"></i></a>
                     </div>
 
