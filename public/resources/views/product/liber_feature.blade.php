@@ -456,7 +456,7 @@
                     <div class="col-sm-3">
                     </div>
                     <div class="col-sm-6">
-                        <img class="bc-computer-image bc-computer-2" src="/images/liber/avita_bags.png" style="width: 512px; height: 256px; ">
+                        <img class="bc-computer-image bc-computer-2" src="/images/liber/avita_bags.png" style="width: 512px; height: 300px; ">
 
                     </div>
                     <div class="col-sm-3">
