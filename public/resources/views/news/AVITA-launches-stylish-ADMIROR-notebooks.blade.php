@@ -79,24 +79,7 @@
 @section('js')
 
     <script>
-
-        $('.fb_share_btn').click( function(e) {
-
-            e.preventDefault();
-/*
-        FB.ui( {
-                method: 'share',
-                href: $(location).attr('href')
-            }, function(response){
-       */
-                var current_url = $('meta[property="og:url"]').prop('content');
-
-
-            var share_url = "https://facebook.com/share?text=" + encodeURIComponent( current_url );
-            window.open( share_url, '_blank' );
-        });
-
-
+Invalid App ID: The provided app ID does not look like a valid app ID.
         
 
         $('.twitter_share_btn').click(function(e){
