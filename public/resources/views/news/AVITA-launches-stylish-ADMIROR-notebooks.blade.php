@@ -79,7 +79,18 @@
 @section('js')
 
     <script>
-Invalid App ID: The provided app ID does not look like a valid app ID.
+    
+  $('.fb_share_btn').click( function(e) {
+
+            e.preventDefault();
+
+            FB.ui( {
+                method: 'share',
+                href: $(location).attr('href')
+            }, function(response){
+
+            });
+        });
         
 
         $('.twitter_share_btn').click(function(e){
