@@ -89,12 +89,13 @@
                 href: $(location).attr('href')
             }, function(response){
        */
-            var current_url = $('meta[property="og:url"]').prop('content');
+                var current_url = $('meta[property="og:url"]').prop('content');
 
 
-            var share_url = "https://facebook.com/intent/share?text=" + encodeURIComponent( current_url );
+            var share_url = "https://facebook.com/share?text=" + encodeURIComponent( current_url );
             window.open( share_url, '_blank' );
         });
+
 
         
 
