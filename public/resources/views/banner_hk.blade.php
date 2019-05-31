@@ -25,13 +25,13 @@
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/offer99_web.png')"></div>
+                                 style="background-image: url('/images/banner/offer_banner_web.png')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/offer99_web.png')"></div>
+                                 style="background-image: url('/images/banner/offer_banner_web.png')"></div>
                         @endif
                         <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/offer99_mob.png')"></div>
+                             style="background-image: url('/images/banner/offer_banner_mod.png')"></div>
                     </div>
                     </a>
                 </div>
