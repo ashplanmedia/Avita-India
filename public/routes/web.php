@@ -23,6 +23,19 @@ Route::get('/product-experience', function (){
 
 });
 
+Route::get('/customMagus', function(){
+    return view('product.cat3');
+});
+
+Route::get('/customUSeries', function(){
+    return view('product.cat2');
+});
+
+Route::get('/customVSeries', function(){
+    return view('product.cat');
+});
+
+
 Route::get('/magus', function(){
     return view('product.magus');
 });
