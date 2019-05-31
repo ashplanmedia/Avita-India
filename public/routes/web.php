@@ -18,6 +18,11 @@ Route::get('/techideate', function (){
 
 });
 
+Route::get('/product-experience', function (){
+    return view('product-experience');
+
+});
+
 Route::get('/magus', function(){
     return view('product.magus');
 });
