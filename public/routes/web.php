@@ -31,7 +31,7 @@ Route::get('/customUSeries', function(){
     return view('product.cat2');
 });
 
-Route::get('/customVSeries', function(){
+Route::get('/customYSeries', function(){
     return view('product.cat');
 });
 
