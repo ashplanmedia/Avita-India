@@ -117,7 +117,7 @@ input:checked +label img{
             <ul class="nav-product d-flex list-unstyled flex-column justify-content-center text-center flex-sm-row justify-content-sm-end my-2">  
                 <li class="nav-item"><a class="nav-link py-1" href="https://avita-india.com/customMagus">Magus</a></li>
                 <li class="nav-item"><a class="nav-link py-1" href="https://avita-india.com/customUSeries">U Series</a></li>
-                <li class="nav-item"> <a class="nav-link py-1" href="https://avita-india.com/customVSeries">Y series</a>
+                <li class="nav-item"> <a class="nav-link py-1" href="https://avita-india.com/customYSeries">Y series</a>
                     </li>
                
             </ul>
