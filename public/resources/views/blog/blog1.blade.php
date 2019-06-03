@@ -30,10 +30,10 @@
 <h3>Weight</h3> <p>Weight is determined largely by screen size -- each added inch brings added ounces of plastic and metal to support it. 
 What's the sweet-spot for laptop weight? Most buying guides say it's about 4 lbs, give or take.</p>
 <h3>Screen Size</h3>
-<p>First, know that improving display technology (HD, Full HD, 4K, etc.) has enabled impressive view ability in all laptops. 
+<p class="MsoNormal" style="text-align: center; line-height: 20.0pt; mso-line-height-rule: exactly;" align="center">First, know that improving display technology (HD, Full HD, 4K, etc.) has enabled impressive view ability in all laptops. 
 Students who mostly read and write can utilize smaller screens while those whose learning involves more visual or creative activities can benefit from larger ones.</p>
 <h3>Battery Life</h3>
-<p>These days, if a laptop manufacturer isn't offering battery life of 8-12+ hours, you should probably keep looking.</br>
+<p class="MsoNormal" style="text-align: center; line-height: 20.0pt; mso-line-height-rule: exactly;" align="center">These days, if a laptop manufacturer isn't offering battery life of 8-12+ hours, you should probably keep looking.</br>
 Consider these factors:</p>
 <ul>
     <li>How big is it?</li> 
@@ -45,21 +45,21 @@ Consider these factors:</p>
 But it is processor (CPU) power that truly matters from an educational/work product perspective, since it determines how much your laptop can accomplish for you (and how fast).</p>
 
 <h3>Graphic Capabilities</h3>
-<p>You'll have to choose between systems with integrated graphics or ones with dedicated graphics cards, which are placed separately on the motherboard and are typically more powerful. 
+<p class="MsoNormal" style="text-align: center; line-height: 20.0pt; mso-line-height-rule: exactly;" align="center">You'll have to choose between systems with integrated graphics or ones with dedicated graphics cards, which are placed separately on the motherboard and are typically more powerful. 
 Most student users will be satisfied with integrated graphics, but dedicated GPUs might be best for those who intend to also play advanced computer games or whose course of study (such as engineering, videography, etc.) involves the creation or rendering of complex images or artwork.</p>
 
 <h3>Ports and Accessories</h3>
 <p>When it comes to USBs, the more the better, especially with all of the peripherals, such as smartphones, that a student might need to plug in. 
 The same goes for external connection options (HDMI, DVI-D, USB Type-C); the more you have, the greater your flexibility. </p>
 <h3>Wireless Connectivity</h3>
-<p>Once an option, screaming fast wireless is now essential in student laptop -- not just for research but for lifestyle activities such as movie streaming and social media. 
+<p class="MsoNormal" style="text-align: center; line-height: 20.0pt; mso-line-height-rule: exactly;" align="center">Once an option, screaming fast wireless is now essential in student laptop -- not just for research but for lifestyle activities such as movie streaming and social media. 
 The latest wireless standard to look for is 802.11ac, which has a theoretical maximum of 1300 megabits per second (Mbps), approx. three times that of the previous consumer standard, 802.11n.</p>
 <h3>Durability</h3>
-<p>Laptops with added features for hard use or rugged environments are already popular in industrial settings and are quickly moving into the student market, too. 
+<p class="MsoNormal" style="text-align: center; line-height: 20.0pt; mso-line-height-rule: exactly;" align="center">Laptops with added features for hard use or rugged environments are already popular in industrial settings and are quickly moving into the student market, too. 
 Models with spill-proof keyboards (in which any small amounts of liquid are directed away from the interior electrical components) are ideal for students and available in every price category. 
 More expensive models might use magnesium alloy like the AVITA Liber to protect against short drops or falls, and some laptops (and laptop cases) are put through military-level durability tests (MIL-SPEC 810G, for example).
 <h3>Technical Support</h3>
-<p>Depending on the student's technical know-how, the quality and availability of technical support from the laptop manufacturer could be an important factor, so consider checking the online forums where these matters are discussed. 
+<p class="MsoNormal" style="text-align: center; line-height: 20.0pt; mso-line-height-rule: exactly;" align="center">Depending on the student's technical know-how, the quality and availability of technical support from the laptop manufacturer could be an important factor, so consider checking the online forums where these matters are discussed. 
 If you truly need a new student laptop to last 4-5 years, consider the cost-benefit value of any extended warranty that might be offered.
 There you go.
 These were the top factors every student should consider when buying a student laptop.</p>
