@@ -113,8 +113,8 @@
 
 
 
-<script type="text/javascript" src="{{ asset('js/vendor.js') }}"></script>
-<script type="text/javascript" src="{{ asset("js/demo.js") }}"></script>
+<script defer="defer" type="text/javascript" type="text/javascript" src="{{ asset('js/vendor.js') }}"></script>
+<script defer="defer" type="text/javascript" type="text/javascript" src="{{ asset("js/demo.js") }}"></script>
 
 <!-- Facebook API -->
 <script>
