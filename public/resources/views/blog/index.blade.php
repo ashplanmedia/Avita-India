@@ -148,7 +148,7 @@
                                         <div class="event-status coming_soon ml-auto"></strong>Category:</strong> Avita Liber</div>
                                     </figcaption>
                                 </figure>
-
+                             </a>
                         </div>
 
                     </div>
