@@ -6,56 +6,72 @@
 
 @section('content')
     <main>
-    
+        <section class="event-detail top-nav-padding">
+            <div class="container mb-5">
+                <br/>
+               <div class="event-banner">
+                        <img src="/images/blog/blog4.jpeg" class="img-responsive" />
+                    </div>
+                  
+               
+                <div class="event-desc-block pb-5">
+                        <p class="event-desc-content">
+                            </p><p class="MsoNormal" style="text-align: center; line-height: 20.0pt; mso-line-height-rule: exactly;" align="center"><strong><span lang="EN-US" style="font-size: 18.0pt; mso-bidi-font-family: 'Times New Roman';">@lang('site.blog2')</span></strong></p>
+<p class="MsoNormal" style="line-height: 16pt; text-align: center;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"><em style="text-align: center;"><span lang="EN-US"> Technology has evolved all around the corners of the world. Surviving in the 21st century without laptops and smartphones is impossible. Each and every person carries a laptop to the office or college for their specific purposes.</span></em></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Just imagine a day without a laptop in your office or college.</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> So, here you are spending your time on our blog post, trying to find the best answers to your queries.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> This is not just a ‘One way street’.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> What’s happening right now is a communication between you and our creation.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">And an effective communication is one of the most basic developments that build your college life.</span></p>
+And that’s exactly where technology steps in.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">Today, we will take you through our guide to help you sail through one of the most difficult decisions every student has to take in his college life – buying a Student Laptop.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">So, without any further ado, let’s dive in.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>What are the Key features Students should look in a laptop?</span></u></strong></p>  
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Weight : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">  Weight is determined largely by screen size -- each added inch brings added ounces of plastic and metal to support it. 
+What's the sweet-spot for laptop weight? Most buying guides say it's about 4 lbs, give or take.  </span></p>
 
-    <section class="focus-event top-nav-padding">
-        <div class="container">
-            <h3 class="section-title ls-0 my-5">@lang('site.blog2')</h3>
-            <div class="row">
-          <!-----
-            ------->
-        <div class="col-12">
-  <p>Weight is one of the most important health concerns people face today. 
-Most of us have heard the warnings that several common causes of early death, such as heart disease, stroke, type 2 Diabetes, and even certain types of cancer are linked to obesity. 
-While weight management involves a whole lifestyle of good habits, one integral piece is weighing yourself. 
-You need a smart scale!
-When you're not happy with your body or your weight or your progress in managing it, stepping on the scale sucks. 
-We want to convince you that getting a smart bathroom scale, one that's wirelessly connected to an app that helps you track your weight, is not only going to help monitor all the pounds in your household, but also has the potential to make your whole family happier about doing it.</p>
 
-<h3>What is a Smart Scale?</h3>
-<p>A smart body scale is an electronic bathroom scale that measures weight and other body composition metrics, and then sends them wirelessly to an app or online service that automatically records the data.</p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Screen Size : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">  First, know that improving display technology (HD, Full HD, 4K, etc.) has enabled impressive view ability in all laptops. Students who mostly read and write can utilize smaller screens while those whose learning involves more visual or creative activities can benefit from larger ones.</span></p>
 
-<h3>What Do Smart Scales Do?</h3>
-<p>The primary job of a smart scale is to record your weight and other metrics in an app that lets you see your history of weight change over time.
-Multiple people can use the same scale, making them perfect for a health-conscious family. 
-Most scales differentiate each person based on their prior readings. 
 
-If one family member weighs around 160 pounds and the other weighs 140, the scale quickly figures out who is who. 
-If two people have close readings, the scale or app usually asks the person being weighed at the moment to confirm his or her identity. 
-A smart scale helps a family organize their health initiatives because it makes the tracking effortless. 
-No one ever has to write down the details of the weigh-in because the tracking happens automatically. 
-The most you have to do is make sure the scale's batteries are still going strong.
-</p>
-<h3>What are the benefits of Using a Smart Scale?</h3>
-<p>Beyond tracking weight, there are other benefits to using a smart scale:</p>
-<ol>
-    <li>You don't have to look! Stepping on the scale sometimes sucks. When you use a smart scale, you don't have to look if you don't want to. The weight will still be recorded in your app, and you or your doctor can look later. Long-term trends are at least as important as the daily numbers.
-</li>
-<li>Pregnancy and post-pregnancy weight-tracking is much easier. A lot of people don't like facing the numbers of their weight, but imagine how much worse it could be if your body's hormones are fluctuating during or after a pregnancy. This also disables the body composition features, which pregnant women (as well as people with implanted devices, such as pacemakers) are often told not to use.
-</li>
-<li>Smart scales can increase motivation. If you and your family like technology, incorporating a smart scale might actually make it fun to start tracking weight, or at least motivate them to start. Having a new toy in the house could give everyone the boost they need to start stepping on the scale every day.
-</li>
-<li>Kids can learn good habits. If everyone steps on the scale every day and there's a record to prove it, kids will pick up on what it means to create a habit out of their weight-management practices, and creating good habits is key.</li>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Battery Life : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">  These days, if a laptop manufacturer isn't offering battery life of 8-12+ hours, you should probably keep looking.
+Consider these factors: 
+<ul>
+    <li>How big is it?</li> 
+    <li>How will you use it?</li> 
+    <li>Where will you use it?</li> 
+    </ul>
 
-<li>They typically pair with fitness trackers. If you already use a fitness tracker, buying the companion smart scale will give you much more insight into how your activities, sleep, and food intake affect your weight.</li></ol>
-<p>We hope these benefits push you forward to get yourself a smart scale.
-If you are looking forward to buy one, don’t forget to check out the brand new AVITA Smart Scale!
+</span>
 </p>
 
-        </div>
-        </div>
-        </div>
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Processor, RAM, and Storage : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Storage is less important today. RAM shopping is easy: 4 GB is the minimum, 8 GB is considered typical, and the ability to add more RAM chips is a useful option. But it is processor (CPU) power that truly matters from an educational/work product perspective, since it determines how much your laptop can accomplish for you (and how fast).</span></p>
+
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Graphic Capabilities : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">You'll have to choose between systems with integrated graphics or ones with dedicated graphics cards, which are placed separately on the motherboard and are typically more powerful. Most student users will be satisfied with integrated graphics, but dedicated GPUs might be best for those who intend to also play advanced computer games or whose course of study (such as engineering, videography, etc.) involves the creation or rendering of complex images or artwork. </span></p>
+
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br> Ports and Accessories : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">When it comes to USBs, the more the better, especially with all of the peripherals, such as smartphones, that a student might need to plug in. 
+The same goes for external connection options (HDMI, DVI-D, USB Type-C); the more you have, the greater your flexibility. </span></p>
+
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Wireless Connectivity : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Once an option, screaming fast wireless is now essential in student laptop -- not just for research but for lifestyle activities such as movie streaming and social media. The latest wireless standard to look for is 802.11ac, which has a theoretical maximum of 1300 megabits per second (Mbps), approx. three times that of the previous consumer standard, 802.11n. </span></p>
+
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br> Durability : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Laptops with added features for hard use or rugged environments are already popular in industrial settings and are quickly moving into the student market, too. 
+Models with spill-proof keyboards (in which any small amounts of liquid are directed away from the interior electrical components) are ideal for students and available in every price category. More expensive models might use magnesium alloy like the AVITA Liber to protect against short drops or falls, and some laptops (and laptop cases) are put through military-level durability tests (MIL-SPEC 810G, for example).</span></p>
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Technical Support : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Depending on the student's technical know-how, the quality and availability of technical support from the laptop manufacturer could be an important factor, so consider checking the online forums where these matters are discussed. If you truly need a new student laptop to last 4-5 years, consider the cost-benefit value of any extended warranty that might be offered. There you go. These were the top factors every student should consider when buying a student laptop. </span></p>
+
+       </div>
         </section>
+
         <div class="gotop-wrap">
             <button class="btn-gotop"><span class="sr-only">Back to Top</span></button>
         </div>
@@ -67,8 +83,8 @@ If you are looking forward to buy one, don’t forget to check out the brand new
 @section('js')
 
     <script>
-
-        $('.fb_share_btn').click( function(e) {
+    
+  $('.fb_share_btn').click( function(e) {
 
             e.preventDefault();
 
@@ -79,6 +95,7 @@ If you are looking forward to buy one, don’t forget to check out the brand new
 
             });
         });
+        
 
         $('.twitter_share_btn').click(function(e){
 
