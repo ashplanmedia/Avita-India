@@ -27,8 +27,28 @@ And that’s exactly where technology steps in.</span></p>
 <p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">Today, we will take you through our guide to help you sail through one of the most difficult decisions every student has to take in his college life – buying a Student Laptop.</span></p>
 <p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">So, without any further ado, let’s dive in.</span></p>
 <p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>What are the Key features Students should look in a laptop?</span></u></strong></p>  
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Weight</span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">  Weight is determined largely by screen size -- each added inch brings added ounces of plastic and metal to support it. 
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Weight : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">  Weight is determined largely by screen size -- each added inch brings added ounces of plastic and metal to support it. 
 What's the sweet-spot for laptop weight? Most buying guides say it's about 4 lbs, give or take.  </span></p>
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Screen Size : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">  First, know that improving display technology (HD, Full HD, 4K, etc.) has enabled impressive view ability in all laptops. Students who mostly read and write can utilize smaller screens while those whose learning involves more visual or creative activities can benefit from larger ones.</span></p>
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Battery Life : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">  These days, if a laptop manufacturer isn't offering battery life of 8-12+ hours, you should probably keep looking.
+Consider these factors: 
+<ul>
+    <li>How big is it?</li> 
+    <li>How will you use it?</li> 
+    <li>Where will you use it?</li> 
+    </ul>
+
+</span>
+</p>
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Processor, RAM, and Storage : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Storage is less important today. RAM shopping is easy: 4 GB is the minimum, 8 GB is considered typical, and the ability to add more RAM chips is a useful option. But it is processor (CPU) power that truly matters from an educational/work product perspective, since it determines how much your laptop can accomplish for you (and how fast).</span></p>
+
+
 
 
 
