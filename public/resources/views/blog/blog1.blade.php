@@ -50,10 +50,26 @@ Consider these factors:
 
 
 
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Graphic Capabilities : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">You'll have to choose between systems with integrated graphics or ones with dedicated graphics cards, which are placed separately on the motherboard and are typically more powerful. Most student users will be satisfied with integrated graphics, but dedicated GPUs might be best for those who intend to also play advanced computer games or whose course of study (such as engineering, videography, etc.) involves the creation or rendering of complex images or artwork. </span></p>
 
 
 
-            </div>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br> Ports and Accessories : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">When it comes to USBs, the more the better, especially with all of the peripherals, such as smartphones, that a student might need to plug in. 
+The same goes for external connection options (HDMI, DVI-D, USB Type-C); the more you have, the greater your flexibility. </span></p>
+
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Wireless Connectivity : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Once an option, screaming fast wireless is now essential in student laptop -- not just for research but for lifestyle activities such as movie streaming and social media. The latest wireless standard to look for is 802.11ac, which has a theoretical maximum of 1300 megabits per second (Mbps), approx. three times that of the previous consumer standard, 802.11n. </span></p>
+
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br> Durability : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Laptops with added features for hard use or rugged environments are already popular in industrial settings and are quickly moving into the student market, too. 
+Models with spill-proof keyboards (in which any small amounts of liquid are directed away from the interior electrical components) are ideal for students and available in every price category. More expensive models might use magnesium alloy like the AVITA Liber to protect against short drops or falls, and some laptops (and laptop cases) are put through military-level durability tests (MIL-SPEC 810G, for example).</span></p>
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Technical Support : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Depending on the student's technical know-how, the quality and availability of technical support from the laptop manufacturer could be an important factor, so consider checking the online forums where these matters are discussed. If you truly need a new student laptop to last 4-5 years, consider the cost-benefit value of any extended warranty that might be offered. There you go. These were the top factors every student should consider when buying a student laptop. </span></p>
+
+       </div>
         </section>
 
         <div class="gotop-wrap">
