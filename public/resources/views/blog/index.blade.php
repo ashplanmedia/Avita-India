@@ -13,7 +13,7 @@
               <div class="row">
                  <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-        <a href="/AVITA-breaks-down-the-Most-Creative-Career-Choices-students-make-today"><p>AVITA breaks down the Most Creative Career Choices students make today</p></a><br/>
+        <a href="/AVITA-breaks-down-the-Most-Creative-Career-Choices-students-make-today"><p>AVITA breaks down the Most Creative Career Choices students make today</p><br/>
                             <figure>
                                 <div class="image-wrap">
                                     <img style="width: 100%; height:100%;" src="/images/blog/AVITA-breaks-down-the-Most-Creative-Career-Choices-students-make-today.jpg" />
@@ -30,7 +30,7 @@
 
                       <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/ssd-storage-for-modern-laptops"><p>Why SSD Storage has become a Necessity for Modern Computing?</p></a><br/>
+                            <a href="/ssd-storage-for-modern-laptops"><p>Why SSD Storage has become a Necessity for Modern Computing?</p><br/>
                             <figure>
                                 <div class="image-wrap">
                                     <img style="width: 100%; height:100%;" src="/images/blog/ssd-storage-for-modern-laptops.png" />
@@ -49,7 +49,7 @@
         <div class="row">
         <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/why-millennials-are-choosing-cloud-storage-for-personal-computing"> <p>Why Millennials are choosing Cloud Storage for Personal Computing</p></a><br/>
+                            <a href="/why-millennials-are-choosing-cloud-storage-for-personal-computing"> <p>Why Millennials are choosing Cloud Storage for Personal Computing</p><br/>
                             <figure>
                                 <div class="image-wrap">
                                     <img style="width: 100%; height:100%;" src="/images/blog/why-millennials-are-choosing-cloud-storage-for-personal-computing.png" />
@@ -67,7 +67,7 @@
 
                 <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/AVITA-Magus–8-Wonderful-Benefits-of-a-2-in-1-Laptops"> <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p></a><br/>
+                            <a href="/AVITA-Magus–8-Wonderful-Benefits-of-a-2-in-1-Laptops"> <p>AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops</p><br/>
                             <figure>
                                 <div class="image-wrap">
                                     <img style="width: 100%; height:100%;" src="/images/blog/blog6.jpg" />
@@ -87,7 +87,7 @@
                  <div class="row">
                  <div class="col-12 col-md-6">
                   <div class="event-item mb-5">
-                            <a href="/AVITAs-Guide-to-Buying-the-Perfect-Student-Laptop"> <p>AVITA’s Guide to Buying the Perfect Student Laptop</p></a><br/>
+                            <a href="/AVITAs-Guide-to-Buying-the-Perfect-Student-Laptop"> <p>AVITA’s Guide to Buying the Perfect Student Laptop</p><br/>
                             <figure>
                                 <div class="image-wrap">
                                     <img style="width: 100%; height:100%;" src="/images/blog/blog1.jpeg" />
@@ -103,7 +103,7 @@
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/What-are-the-benefits-of-smart-scale"> <p>What are the benefits of smart scale?</p></a><br/>
+                            <a href="/What-are-the-benefits-of-smart-scale"> <p>What are the benefits of smart scale?</p><br/>
                                 <figure>
                                     <div class="image-wrap">
                                         <img style="width: 100%; height:100%;" src="/images/blog/blog2.jpg" />
@@ -123,7 +123,7 @@
              <div class="row">
              <div class="col-12 col-md-6">
                         <div class="event-item mb-5">
-                            <a href="/Why-is-College-the-RIGHT-time-to-become-Creative"> <p>Why is College the RIGHT time to become Creative? </p></a><br/>
+                            <a href="/Why-is-College-the-RIGHT-time-to-become-Creative"> <p>Why is College the RIGHT time to become Creative? </p><br/>
                                 <figure>
                                     <div class="image-wrap">
                                         <img style="width: 100%; height:100%;" src="/images/blog/blog3.jpeg" />
