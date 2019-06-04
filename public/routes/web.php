@@ -74,7 +74,7 @@ Route::get('/Avita-Liber-Technology-to-keep-YOU-high-on-Fashion', function(){
 Route::get('/Why-is-College-the-RIGHT-time-to-become-Creative', function(){
     return view('blog.blog3');
 });
-Route::get('/What-are-the-benefits-of-smart-scale?', function(){
+Route::get('/What-are-the-benefits-of-smart-scale', function(){
     return view('blog.blog4');
 });
 Route::get('/AVITAs-Guide-to-Buying-the-Perfect-Student-Laptop', function(){
