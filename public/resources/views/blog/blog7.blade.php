@@ -10,7 +10,7 @@
             <div class="container mb-5">
                 <br/>
                <div class="event-banner">
-                        <img src="/images/blog/blog7.jpg" class="img-responsive" />
+                        <img src="/images/blog/why-millennials-are-choosing-cloud-storage-for-personal-computing.png" class="img-responsive" />
                     </div>
                   
                
