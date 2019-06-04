@@ -85,12 +85,12 @@ Route::get('/AVITA-Magus–8-Wonderful-Benefits-of-a-2-in-1-Laptops', function()
 });
 
 Route::get('/ssd-storage-for-modern-laptops', function(){
-    return view('blog.blog7');
+    return view('blog.blog8');
 });
 
 
 Route::get('/why-millennials-are-choosing-cloud-storage-for-personal-computing', function(){
-    return view('blog.blog8');
+    return view('blog.blog7');
 });
 
 Route::get('/AVITA-breaks-down-the-Most-Creative-Career-Choices-students-make-today', function(){
