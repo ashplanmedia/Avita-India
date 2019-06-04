@@ -44,9 +44,9 @@ return [
     // universal
      'blogs_title'                   => 'AVITA INDIA | Blogs',
     'blog1'                    => 'AVITA’s Guide to Buying the Perfect Student Laptop',
-    'blog2'                    => 'What are the benefits of smart scale?',
+    'blog2'                    => 'Avita Liber: Technology to keep YOU high on Fashion',
     'blog3'                    => 'Why is College the RIGHT time to become Creative?',
-    'blog4'                    => 'Avita Liber: Technology to keep YOU high on Fashion',
+    'blog4'                    => 'What are the benefits of smart scale?',
     'blog5'                    => 'Why should your Personal Laptop be Light Weighted?',
      'blog6'                    => 'AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops',
     'blog7'                    => 'Why Millennials are choosing Cloud Storage for Personal Computing',
