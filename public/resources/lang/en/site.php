@@ -1,126 +1,251 @@
- @extends('layouts.app')
+<?php
 
-@section('title')
-     @lang('site.blogs_title')
-@stop
+return [
+    // universal
+    'products'                      => 'Products',
+    'news'                          => 'What\'s New',
+    'service'                       => 'Service',
+    'member_center'                 => 'Member Center',
+    'logout'                        => 'Logout',
+    'login'                         => 'Login',
+    'terms'                         => 'Terms of Use Notice',
+    'privacy'                       => 'Privacy Policy',
+    'terms_privacy'                 => 'Terms of Use Notice and Privacy Policy',
+    'form_address'                  => 'Address: ',
+    'form_phone'                    => 'Phone: ',
+    'form_fax'                      => 'Fax: ',
+    'form_mail'                     => 'Email: ',
+    'form_nickname'                 => 'Nickname: ',
+    'form_email'                    => 'Email: ',
+    'form_pwd'                      => 'Password:',
+    'form_pwd_detail'               => 'Please enter 8-25 characters',
+    'form_repwd'                    => 'Confirm Password: ',
+    'form_repwd_detail'             => 'Please enter your password again',
+    'form_city'                     => 'Country/Region: ',
+    'form_birthday'                 => 'Birthday: ',
+    'form_lastname'                 => 'Last Name: ',
+    'form_firstname'                => 'First Name: ',
+    'form_gender'                   => 'Gender: ',
+    'form_mobilephone'              => 'Mobile Phone: ',
+    'save'                          => 'Save',
+    'contactus'                     => 'Contact Us',
+    'more'                          => 'Answer',
+    'confirm'                       => 'Confirm',
+    'share'                         => 'Share',
+    'laptops'                       => 'Laptops',
+    'liber_series'                  => 'LIBER Series',
+    'smart_device'                  => 'Smart Device',
+    'imago_series'                  => 'IMAGO Series Smart Mirror',
+    'modus_scale'                   => 'MODUS Smart Scale',
+    'support'                       => 'Support',
+    'gender_m'                      => 'Male',
+    'gender_f'                      => 'Female',
+        'productnav_magus'      		=> 'AVITA MAGUS 12.2" 2-in-1 Laptop',
+    // universal
+     'blogs_title'                   => 'AVITA INDIA | Blogs',
+    'blog1'                    => 'AVITA’s Guide to Buying the Perfect Student Laptop',
+    'blog2'                    => 'What are the benefits of smart scale?',
+    'blog3'                    => 'Why is College the RIGHT time to become Creative?',
+    'blog4'                    => 'Avita Liber: Technology to keep YOU high on Fashion',
+    'blog5'                    => 'Why should your Personal Laptop be Light Weighted?',
+     'blog6'                    => 'AVITA Magus – 8 Wonderful Benefits of a 2-in-1 Laptops',
+    'blog7'                    => 'Why Millennials are choosing Cloud Storage for Personal Computing',
+    'blog8'                    => 'Why SSD Storage has become a Necessity for Modern Computing?',
+    'blog9'                    => 'AVITA breaks down the Most Creative Career Choices students make today',
 
-@section('content')
-    <main>
-        <section class="event-detail top-nav-padding">
-            <div class="container mb-5">
-                <br/>
-               <div class="event-banner">
-                        <img src="/images/blog/blog4.jpeg" class="img-responsive" />
-                    </div>
-                  
-               
-                <div class="event-desc-block pb-5">
-                        <p class="event-desc-content">
-                            </p><p class="MsoNormal" style="text-align: center; line-height: 20.0pt; mso-line-height-rule: exactly;" align="center"><strong><span lang="EN-US" style="font-size: 18.0pt; mso-bidi-font-family: 'Times New Roman';">@lang('site.blog2')</span></strong></p>
-<p class="MsoNormal" style="line-height: 16pt; text-align: center;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"><em style="text-align: center;"><span lang="EN-US"> Technology has evolved all around the corners of the world. Surviving in the 21st century without laptops and smartphones is impossible. Each and every person carries a laptop to the office or college for their specific purposes.</span></em></span></p>
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Just imagine a day without a laptop in your office or college.</strong></span></p>
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"><ul><li> How would you be providing presentations?</li>
-<li> How would you be providing presentations?</li>
-<li> How would you be able to carry on with your work?</li>
-<li> How would you be able to perform accurate calculations?</li>
-<li> How would you be preparing the content for your project?</li>
-<li> Most importantly, how would you be playing games?</li>
-</ul>
-</span></p>
-
-
-
-
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> This is not just a ‘One way street’.</span></p>
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> What’s happening right now is a communication between you and our creation.</span></p>
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">And an effective communication is one of the most basic developments that build your college life.</span></p>
-And that’s exactly where technology steps in.</span></p>
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">Today, we will take you through our guide to help you sail through one of the most difficult decisions every student has to take in his college life – buying a Student Laptop.</span></p>
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">So, without any further ado, let’s dive in.</span></p>
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>What are the Key features Students should look in a laptop?</span></u></strong></p>  
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Weight : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">  Weight is determined largely by screen size -- each added inch brings added ounces of plastic and metal to support it. 
-What's the sweet-spot for laptop weight? Most buying guides say it's about 4 lbs, give or take.  </span></p>
-
-
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Screen Size : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">  First, know that improving display technology (HD, Full HD, 4K, etc.) has enabled impressive view ability in all laptops. Students who mostly read and write can utilize smaller screens while those whose learning involves more visual or creative activities can benefit from larger ones.</span></p>
-
-
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Battery Life : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">  These days, if a laptop manufacturer isn't offering battery life of 8-12+ hours, you should probably keep looking.
-Consider these factors: 
-<ul>
-    <li>How big is it?</li> 
-    <li>How will you use it?</li> 
-    <li>Where will you use it?</li> 
-    </ul>
-
-</span>
-</p>
-
-
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Processor, RAM, and Storage : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Storage is less important today. RAM shopping is easy: 4 GB is the minimum, 8 GB is considered typical, and the ability to add more RAM chips is a useful option. But it is processor (CPU) power that truly matters from an educational/work product perspective, since it determines how much your laptop can accomplish for you (and how fast).</span></p>
+ 
+  'accessories'                   => 'Accessories',
+    'mouse'                         => 'UBIQUE Mouse',
 
 
+    'header_store'                  => 'AVITA Store',
+    'header_where_to_buy'           => 'Where To Buy',
 
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Graphic Capabilities : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">You'll have to choose between systems with integrated graphics or ones with dedicated graphics cards, which are placed separately on the motherboard and are typically more powerful. Most student users will be satisfied with integrated graphics, but dedicated GPUs might be best for those who intend to also play advanced computer games or whose course of study (such as engineering, videography, etc.) involves the creation or rendering of complex images or artwork. </span></p>
+    'footer_aboutus'                => 'About Us',
+    'footer_contact'                => 'Contact AVITA',
+    'footer_terms_privacy'          => '',
+    'footer_repair_tnc'             => 'Repair Terms & Conditions',
 
+    'home_learnmore'                => 'Learn More',
+    'home_shopnow'                  => 'Shop Now',
+    'home_photo1_image'             => 'promo-01-en.jpg',
+    'home_photo2_image'             => 'promo-02-en.jpg',
+    'home_photo3_image'             => 'promo-03-en.jpg',
+    'home_photo4_image'             => 'promo-04-en.jpg',
+    'home_join'                     => 'Join the AVITA Community',
+    'home_receiving'                => 'Receiving AVITA\'s latest news, promotions and offer',
+    'home_subscribe'                => 'Subscribe Now',
 
+    'productnav_overview'           => 'Overview',
+    'productnav_overview_12'        => 'Overview 12.5"',
+    'productnav_overview_13'        => 'Overview 13.3" &amp; 14"',
+    'productnav_overview_u_series'  => 'Overview AVITA LIBER 13.3" & 14" New Generation',
 
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br> Ports and Accessories : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;">When it comes to USBs, the more the better, especially with all of the peripherals, such as smartphones, that a student might need to plug in. 
-The same goes for external connection options (HDMI, DVI-D, USB Type-C); the more you have, the greater your flexibility. </span></p>
+    'productnav_spec'               => 'Tech Spec',
+    'productnav_support'            => 'Support',
+    'productnav_wheretobuy'         => 'Where to buy',
+    'productnav_magus'      		=> 'AVITA MAGUS 12.2" 2-in-1 Laptop',
 
-
-
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Wireless Connectivity : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Once an option, screaming fast wireless is now essential in student laptop -- not just for research but for lifestyle activities such as movie streaming and social media. The latest wireless standard to look for is 802.11ac, which has a theoretical maximum of 1300 megabits per second (Mbps), approx. three times that of the previous consumer standard, 802.11n. </span></p>
-
-
-
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br> Durability : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Laptops with added features for hard use or rugged environments are already popular in industrial settings and are quickly moving into the student market, too. 
-Models with spill-proof keyboards (in which any small amounts of liquid are directed away from the interior electrical components) are ideal for students and available in every price category. More expensive models might use magnesium alloy like the AVITA Liber to protect against short drops or falls, and some laptops (and laptop cases) are put through military-level durability tests (MIL-SPEC 810G, for example).</span></p>
-
-
-<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><strong><u><span lang="EN-US"><br>Technical Support : </span></u></strong><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; color: #212121; mso-font-kerning: 0pt;"> Depending on the student's technical know-how, the quality and availability of technical support from the laptop manufacturer could be an important factor, so consider checking the online forums where these matters are discussed. If you truly need a new student laptop to last 4-5 years, consider the cost-benefit value of any extended warranty that might be offered. There you go. These were the top factors every student should consider when buying a student laptop. </span></p>
-
-       </div>
-        </section>
-
-        <div class="gotop-wrap">
-            <button class="btn-gotop"><span class="sr-only">Back to Top</span></button>
-        </div>
-
-    </main>
-@endsection
-
-
-@section('js')
-
-    <script>
-    
-  $('.fb_share_btn').click( function(e) {
-
-            e.preventDefault();
-
-            FB.ui( {
-                method: 'share',
-                href: $(location).attr('href')
-            }, function(response){
-
-            });
-        });
-        
-
-        $('.twitter_share_btn').click(function(e){
-
-            e.preventDefault();
-
-            var current_url = $('meta[property="og:url"]').prop('content');
+    'aboutus_about'                 => 'About AVITA',
+    'aboutus_content'               => [
+        'At AVITA we believe in the wonder and power of the individual. We make premium technology products that not only fit your lifestyle but are representations of you.',
+        'The AVITA product series which ranges from PC, smart home and IoT devices has come to realization based on three core values: Liberty, Diversity and Individualism for an exceptional and highly personal experience to the new generation of tech users.',
+        'Your ideas, passions, personal style and what makes you uniquely you inspires us. And we believe that your choice in technology shouldn\'t define you, it should reflect you.',
+        'Our team is comprised of talented individuals who, before starting up AVITA, worked in product development for some big name tech companies. It was their collective enthusiasm for outstanding design and meaningful technology that brought them together to form AVITA. You can learn more about the company behind AVITA here.',
+        '“Live it up” is more than a tagline to us, it’s a part of our ethos and company DNA.',
+    ],
 
 
-            var share_url = "https://twitter.com/intent/tweet?text=" + encodeURIComponent( current_url );
-            window.open( share_url, '_blank' );
-        });
+    'contactus_contactus'           => 'Contact Us',
+    'contactus_operating'           => 'Operating hours',
+    'ccontactus_findus'             => 'Find Us',
+    'search_result_title'           => 'Search Result',
+
+    // chinese language only, awaiting for the translation
+
+    'product_support_1'             =>  'Driver & Tools',
+    'product_support_1_option_1'    =>  'Please select your model',
+    'product_support_result'        => ':total results',
+    'product_support_version'       => 'Version',
+    'product_support_desc'          => 'Description',
+    'product_support_size'          => 'File Size',
+    'product_support_update'        => 'Update',
+    'product_support_download'      => 'Download',
+    'product_support_earth'         => 'Global',
+    'product_support_2'             => 'Warranty',
+    'product_support_3'             => 'FAQ',
+    'product_support_footer_1'      => 'Models or specifications may vary from country to country. Check with your local distributors or retailers for any updates on the current product.',
+    'product_support_footer_2'      => 'Colors of actual products may differ from product shots due to photography lighting or display setting of your viewing device.',
+    'product_support_footer_3'      => 'We try our best to provide accurate and complete product information online yet we reserve the rights to keep, change or correct any information without further notice.',
+    'product_support_footer_4'      => 'Windows is either registered trademark or trademark of Microsoft Corporation in the United States and/or other countries.',
+
+    'support_title'                 => 'We\'re Here To Help!',
+    'support_searchbox'             => 'Please select your product model',
+    'support_title_2'               => 'Service Center',
+    'support_opentime'              => 'Operation Hour: ',
+
+    'login_reg_title'               => 'Become an AVITA Member',
+    'login_reg_content_1'           => 'In addition to AVITA intermittently offering the hottest discounts, news on sales promotions, and the newest information on AVITA, you will also enjoy having excellent technological support services to promote your experience as a user of our products.',
+    'login_reg_content_2'           => '',
+    'login_reg_content_3'           => '',
+    'login_reg_content_4'           => '',
+    'login_reg_btn'                 => 'Sign Up Now',
+    'login_title'                   => 'Account Login',
+    'login_content'                 => 'Enter your AVITA Member account and password to log in.',
+    'login_rememberme'              => 'Remember me',
+    'login_forgot_pwd'              => 'Forget Password?',
+    'login_resend_email'            => 'Resend account verification email',
+    'login_other_way'               => 'You can use the account and password below to log in directly as an AVITA Member.',
+
+    'member_myaccount'              => 'My Account',
+    'member_myprofile'              => 'My Profile',
+    'member_mysupport'              => 'My Support',
+    'member_change_pwd'             => 'Change Password',
+    'member_myproduct'              => 'My Product',
+
+    'register_title'                => 'Join Now',
+    'register_title_content_1'      => 'Welcome, AVITA Member! Once you have filled out the following information, you can complete your registration. The information you provide will not be used in any other way, so feel secure as you fill in your information.',
+    'form_required'                 => 'Items marked with an asterisk <span class="required"> (*) </span> must be filled out.',
+    'register_checkbox_1'           => 'I agree to the AVITA??erms of Use Notice??& AVITA??rivacy Policy??.',
+    'register_checkbox_2'           => 'Keep me up to date by eDMs with AVITA news, latest product and service information.',
+    'register_btn'                  => 'Join Now',
+
+    'product_reg_title'             => 'Product Registration',
+    'product_reg_form_num'          => 'Serial Number:',
+    'product_reg_form_type'         => 'Product Type: ',
+    'product_reg_form_name'         => 'Product Name: ',
+    'product_reg_form_phr'          => 'Reseller Name: ',
+    'product_reg_form_phr_date'     => 'Purchase Date: ',
+
+    'profile_product_reg'           => 'Product Registration',
+    'profile_content_1'             => '',
+
+    'success_title'                 => 'Congratulations! Your information has already been authenticated.',
+    'success_content_1'             => 'In order to verify that your email address is valid, we have already sent an email to your inbox. Please open the email and click on the link to enable your AVITA Member Account.',
+    'success_subtitle'              => 'Did you not receive an account verification email?',
+    'success_content_2'             => 'If you have not received an email to verify your AVITA Member Account, then?check your inbox according to the following steps.',
+    'success_solution_1'            => 'If the actions above still cannot solve your problem, please send an Email to member_activereg@csc.avita.global through your registered Email account',
+    'success_solution_2'            => 'Email subject: AVITA Member Account Active',
+    'success_solution_3'            => 'Email content: leave it blank',
+    'success_solution_4'            => 'We will reply your membership activation status to you after we verify your membership registration information',
+    'success_content_3'             => 'Once you have completed email verification, we can provide you with the newest product information and services. Welcome to AVITA!',
+    'success_btn'                   => 'I understand and will complete email verification in a little while.',
+
+    'change_pwd_title'              => 'Change Password',
+    'change_pwd_title_2'            => 'To reset your password, enter the old password and new password.',
+    'change_pwd_origin'             => 'Original Password: ',
+    'change_pwd_new'                => 'New Password: ',
+    'change_pwd_renew'              => 'Confirm Password?',
+
+    'product_list_title'            => 'Registered Product',
+    'product_list_th_1'             => 'Product',
+    'product_list_th_2'             => 'Serial Number',
+    //************ to be confirmed ***************/
+    'product_list_th_3'             => 'Purchase From',
+    //************ to be confirmed ***************/
+    'product_list_th_4'             => 'Purchase Date',
+    'product_header_expire_date'    => 'Warranty expire',
+
+    'product_reg_success_title'     =>  'Registration Successfully',
+    'product_reg_success_content_1' => 'You have received an additional service for :month months of maintenance service! ',
+    'product_reg_success_content_2' => 'The following is your product registration information: ',
+    'product_reg_success_content_3' => 'Product number: ',
+    'product_reg_success_content_4' => 'Maintenance expiration date?',
+
+    'localization_title'            => 'Choose Your Location',
+    'localization_subtitle_1'       => 'Visit the ',
+    'localization_subtitle_2'       => 'AVITA Global',
+    'localization_subtitle_3'       => ' website, or choose your country/region below.',
+
+    'news_title'                    => 'Events',
+    'news_process'                  => 'On Going',
+    'news_other_event'              => 'Other Event',
+    'news_select_month'             => 'Choose the month',
+
+    // News Status
+    'news_status_coming_soon'       => 'Coming Soon',
+    'news_status_in_progress'       => 'In Progress',
+    'news_status_finished'          => 'Finished',
+
+    'global_global'                 => 'Global',
+    'global_asia'                   => 'Asia',
+    'global_hk'                     => 'Hong Kong',
+    'global_sg'                     => 'Singapore',
+    'global_my'                     => 'Malaysia',
+    'global_tw'                     => '台灣',
+    'global_cn'                     => '中國',
+    'global_ph'                     => 'Philippines',
+    'global_th'                     => 'Thailand',
+    'global_vn'                     => 'Vietnam',
+    'global_id'                     => 'Indonesia',
+    'global_in'                     => 'India',
 
 
 
-    </script>
+    'forget_pwd_title'              => 'Forgot Password',
+    'extra_warranty_statement'      => 'If you want to receive an additional :month months warranty (personal computer products), <br>please complete warranty registration within 1 month after purchase. ',
+    'forget_pwd_content'            => 'Please enter your AVITA account email to reset password',
+    'forget_pwd_reset'              => 'Reset Password',
 
-@stop
+
+    'shops_near_you'                => 'Find retails near you',
+
+    'imago_retail_store'   => 'Where to buy',
+
+    'imago_retails' => [
+
+        [
+            'address' => 'Fortress (Quarry Bay): Shop 418, 4/F, Cityplaza South, Cityplaza, Hong Kong',
+            'phone' => '2568 2280'
+        ],
+
+        [
+            'address' => 'Fortress (Kowloon Bay): Shop No. G45-51, Telford Plaza, Phase 1, Kowloon Bay, Kowloon, Hong Kong',
+            'phone' => '2997 3223'
+        ],
+
+    ],
+
+    'experience_liber125_here' => '? Experience LIBER 12.5" here! ',
+    'coming_soon' => 'Coming Soon',
+];
