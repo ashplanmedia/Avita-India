@@ -6,65 +6,84 @@
 
 @section('content')
     <main>
-    
+        <section class="event-detail top-nav-padding">
+            <div class="container mb-5">
+                <br/>
+               <div class="event-banner">
+                        <img src="/images/blog/blog1.jpeg" class="img-responsive" />
+                    </div>
+                  
+               
+                <div class="event-desc-block pb-5">
+                        <p class="event-desc-content">
+                            </p><p class="MsoNormal" style="text-align: center; line-height: 20.0pt; mso-line-height-rule: exactly;" align="center"><strong><span lang="EN-US" style="font-size: 18.0pt; mso-bidi-font-family: 'Times New Roman';">@lang('site.blog5')</span></strong></p>
 
-    <section class="focus-event top-nav-padding">
-        <div class="container">
-            <h3 class="section-title ls-0 my-5">@lang('site.blog5')</h3>
-            <div class="row">
-          <!-----
-            ------->
-        <div class="col-12">
-    <p>People all over the world buy laptops for their personal use in offices or classes.</p> 
-<p>The primary objective of the personal laptop is that people can carry it along with them any place they visit.</p>
-<p>Various laptops are available all over the world with different specifications. </p>
-<p>Some are light-weighted, and some of them weigh a ton!</p>
-
- <h3 style="text-align:center">Role of Laptops in Life of a Student or an Employee</h3>    
-    <p>If you are a student, you will always be required to carry your laptop in your classes. </p>
-<p>If you are an employee in a company, you would still be required to carry your laptops to the company to provide presentations and performing office work.</p> 
-<p>In short, you will always require your laptop with you at all times during your working hours. </p>
-<p>If your laptops are really heavy, you would be really troubled when you carry it from one place to another. </p>
-<p>What is the point of personal laptops if they are just too heavy to be carried around?</p>
-
-<h3 style="text-align:center">Problem with heavy laptops</h3>    
-    <p>Carrying a heavy laptop would totally take a toll on your arms as well as shoulders. </p>
-<p>Heavy laptops are known to kill mobility. The laptops weighing in the range of 7-8 pounds are really heavy to be carried around. </p>
-<p>You would be really frustrated to carry your personal laptops from one place to another. </p>
-<p>Heavy laptops are not really slim, and hence, they would occupy all the space in your backpack. </p>
-<p>Sometimes, your backpack would be at risk of being torn due to the heavy weight of the laptop.</p>
-
-
-<h3 style="text-align:center">Light-weight laptops</h3>    
-    <p>The main point that must be taken into consideration is that when you are looking for a good laptop, you must go for a laptop that weights between 5-6 pounds. </p>
-<p>The laptops that weigh in the range of 5-6 pounds are really good to be carried around at all times without stressing any weight on your arms or shoulders. </p>
-<p>Advantages of a lightweight laptop:</p>
-<ul>
-    <li>Lightweight laptops are totally slim.</li>
-    <li>Lightweight laptops would not be occupying any additional space in your backpack. </li>
-<li>Additionally, your backpack would not be at risk of being torn apart.</li>
-    <li>Light weighted laptop adds style to your personality.</li>
-    <li>They are considered the best option for your business travel.</li>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"><ul><li>What’s the best thing technology does? </li>
+<li>It brings people together.</li>
+<li>So, here you are spending your time on our blog post, trying to find the best answers to your queries.</li>
+<li>This is not just a ‘One way street’.</li>
+<li>What’s happening right now is a communication between you and our creation.</li>
+<li>And an effective communication is one of the most basic developments that build your college life. </li>
+<li>And that’s exactly where technology steps in.</li>
+<li>Today, we will take you through our guide to help you sail through one of the most difficult decisions every student has to take in his college life – buying a Student Laptop. </li>
+<li>So, without any further ado, let’s dive in.</li>
 </ul>
-    
-<strong>It is a myth that lightweight laptops are less powerful than heavy weighted laptops. Lightweight laptops can work as efficiently as the heavy weighted laptops. Though small or slim in size, their computation power is really great comparatively.<br/></strong>
-
-<p>Lightweight laptops are available in various models with different specifications in the market. </p>
-
-<p>They are really famous for their gorgeous slim build. </p>
-
-<p>Other people are attracted to your laptop as they are really attractive in appearance and can perform really well.</p>
+</span></p>
 
 
-<h3 style="text-align:center">Conclusion</h3>    
-    <p>It is really important to carefully analyze the size and weight of the laptop while buying one.</p>
-      <p>A heavy laptop would really be frustrating sometimes.</p>
-        <p>Hence, you must always think of choosing a lightweight laptop if they fall in your specified budget.</p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>What are the Key features Students should look in a laptop?</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Weight</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">Weight is determined largely by screen size -- each added inch brings added ounces of plastic and metal to support it. What's the sweet-spot for laptop weight? Most buying guides say it's about 4 lbs, give or take.</span></p>
 
-        </div>
-        </div>
-        </div>
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Screen Size</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">First, know that improving display technology (HD, Full HD, 4K, etc.) has enabled impressive view ability in all laptops. Students who mostly read and write can utilize smaller screens while those whose learning involves more visual or creative activities can benefit from larger ones.
+</span></p>
+
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Battery Life</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">These days, if a laptop manufacturer isn't offering battery life of 8-12+ hours, you should probably keep looking. Consider these factors:
+
+<ul type="circle">
+<li>How big is it? </li>
+
+<li>How will you use it? </li>
+
+<li>Where will you use it? </li>
+
+</ul>
+</span>
+</p>
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Processor, RAM, and Storage</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">Storage is less important today. RAM shopping is easy: 4 GB is the minimum, 8 GB is considered typical, and the ability to add more RAM chips is a useful option. But it is processor (CPU) power that truly matters from an educational/work product perspective, since it determines how much your laptop can accomplish for you (and how fast).</span></p>
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Graphic Capabilities</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">You'll have to choose between systems with integrated graphics or ones with dedicated graphics cards, which are placed separately on the motherboard and are typically more powerful. Most student users will be satisfied with integrated graphics, but dedicated GPUs might be best for those who intend to also play advanced computer games or whose course of study (such as engineering, videography, etc.) involves the creation or rendering of complex images or artwork.</span></p>
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Ports and Accessories</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">When it comes to USBs, the more the better, especially with all of the peripherals, such as smartphones, that a student might need to plug in. The same goes for external connection options (HDMI, DVI-D, USB Type-C); the more you have, the greater your flexibility.</span></p>
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Wireless Connectivity</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">Once an option, screaming fast wireless is now essential in student laptop -- not just for research but for lifestyle activities such as movie streaming and social media. The latest wireless standard to look for is 802.11ac, which has a theoretical maximum of 1300 megabits per second (Mbps), approx. three times that of the previous consumer standard, 802.11n.</span></p>
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Durability</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">Laptops with added features for hard use or rugged environments are already popular in industrial settings and are quickly moving into the student market, too. Models with spill-proof keyboards (in which any small amounts of liquid are directed away from the interior electrical components) are ideal for students and available in every price category. More expensive models might use magnesium alloy like the AVITA Liber to protect against short drops or falls, and some laptops (and laptop cases) are put through military-level durability tests (MIL-SPEC 810G, for example).</span></p>
+
+
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';"> <strong>Technical Support</strong></span></p>
+<p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 16.0pt; mso-line-height-rule: exactly;"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman';">Depending on the student's technical know-how, the quality and availability of technical support from the laptop manufacturer could be an important factor, so consider checking the online forums where these matters are discussed. <br/>
+If you truly need a new student laptop to last 4-5 years, consider the cost-benefit value of any extended warranty that might be offered.
+There you go.<br/>
+These were the top factors every student should consider when buying a student laptop.
+</span></p>
+
+       </div>
         </section>
+
         <div class="gotop-wrap">
             <button class="btn-gotop"><span class="sr-only">Back to Top</span></button>
         </div>
@@ -76,8 +95,8 @@
 @section('js')
 
     <script>
-
-        $('.fb_share_btn').click( function(e) {
+    
+  $('.fb_share_btn').click( function(e) {
 
             e.preventDefault();
 
@@ -88,6 +107,7 @@
 
             });
         });
+        
 
         $('.twitter_share_btn').click(function(e){
 
