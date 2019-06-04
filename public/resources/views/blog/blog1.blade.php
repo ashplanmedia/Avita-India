@@ -14,7 +14,7 @@
             <div class="row">
           <!-----
             ------->
-        <div class="col-12">
+        <div class="event-desc-block pb-5">
     <ul style="list-style-type: none;">
         <li>  What’s the best thing technology does?<br/></li>
         <li> It brings people together.<br/></li>
