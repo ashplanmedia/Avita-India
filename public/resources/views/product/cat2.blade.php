@@ -14,10 +14,10 @@
                 </div>
 
                 <div class="product-nav-collapse">
-                    <ul class="nav-product d-flex list-unstyled flex-column justify-content-center text-center flex-sm-row justify-content-sm-end my-2">
-                        <li class="nav-item"><a class="nav-link py-1" href="/customMagus">Liber</a></li>
-                        <li class="nav-item"><a class="nav-link py-1" href="/customUSeries">Liber New Generation</a></li>
-                        <li class="nav-item"><a class="nav-link py-1" href="/customYSeries">Magus</a></li>
+              <ul class="nav-product d-flex list-unstyled flex-column justify-content-center text-center flex-sm-row justify-content-sm-end my-2">
+                        <li class="nav-item"><a class="nav-link py-1" href="/customMagus">Magus</a></li>
+                        <li class="nav-item"><a class="nav-link py-1" href="/customYSeries">Liber</a></li>
+                         <li class="nav-item"><a class="nav-link py-1" href="/customUSeries">Liber New Generation</a></li>
                     </ul>
                 </div>
             </div>
