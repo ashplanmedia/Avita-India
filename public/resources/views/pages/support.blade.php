@@ -64,7 +64,7 @@
                             </form>
                                 
                         <br/>
-                        <img src="http://avita-india.com/images/contact.png" style="width:350px;">
+                        <img src="/images/contact.png" style="width:350px;">
 
                         </div>
 
