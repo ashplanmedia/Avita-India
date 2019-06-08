@@ -11,7 +11,7 @@
 
 	<section class="">
 
-        <img src="/images/bhel.png" class="w-100 ">
+        <img src="/images/bhel.jpg" class="w-100 ">
 
     </section>
 
