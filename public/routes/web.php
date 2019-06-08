@@ -13,6 +13,11 @@
 
 Route::get('/', 'HomeController@redirectToHome');
 
+
+Route::get('/bhel', function (){
+    return view('bhel');
+});
+
 Route::get('/techideate', function (){
     return view('techideate');
 
