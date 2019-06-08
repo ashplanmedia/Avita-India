@@ -11,7 +11,7 @@
 
 	<section class="">
 
-        <img src="/images/bhel.jpg" class="w-100 ">
+        <a href="https://ekhareedo.com/bhel-sale/"><img src="/images/bhel.jpg" class="w-100 "></a>
 
     </section>
 
