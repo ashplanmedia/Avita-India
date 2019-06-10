@@ -2,7 +2,8 @@
     <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
         
-     <div class="carousel-item  active">
+    <!-----
+    <div class="carousel-item  active">
                 <div class="responsive-block">
                 <a href="/AVITA-launches-stylish-ADMIROR-notebooks">
                     <div class="banner-block responsive-item">
@@ -19,7 +20,8 @@
                     </a>
                 </div>
             </div>
-                 <div class="carousel-item">
+            ----->
+                 <div class="carousel-item active">
                 <div class="responsive-block">
                 <a href="/product/liber/where_to_buy">
                     <div class="banner-block responsive-item">
