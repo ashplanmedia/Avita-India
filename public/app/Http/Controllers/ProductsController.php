@@ -133,7 +133,7 @@ public function showProductSpec( $slug) {
                 $join->on('shops.id', '=', 'shop_translations.shop_id');
                 $join->on('shop_translations.locale', '=', \DB::raw('"en"') );
             })
-                ->orderBy('shop_translations.name', 'asc');
+                ->orderBy('shop_translations.priority', 'asc');
 
         } else {
             $query = Shop::select();
