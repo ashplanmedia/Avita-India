@@ -23,7 +23,7 @@ return [
     'campus'        => 'Campus Ambassador Program',
     'MAGUS_spec'    => 'MAGUS 2 in 1 Laptops',
     'Accessories'   => 'UBIQUE Mouse',
-    'bhel'          => 'BHEL AVITA INDIA',    
+    'bhel'          => 'BHEL Offer',    
 
 
 ];
