@@ -1,4 +1,4 @@
-var $productTypeField = $('#product_type_field');
+var $productTypeField = $("#product_type_field");
 var $productSeriesField = $('#product_series_field');
 var $productNumberField = $('#product_number_field');
 var $marketingNumberField = $('#marketing_number_field');
