@@ -14,179 +14,74 @@
                 </div>
 
                 <div class="product-nav-collapse">
-              <ul class="nav-product d-flex list-unstyled flex-column justify-content-center text-center flex-sm-row justify-content-sm-end my-2">
-                        <li class="nav-item"><a class="nav-link py-1" href="/customMagus">Magus</a></li>
-                        <li class="nav-item"><a class="nav-link py-1" href="/customYSeries">Liber</a></li>
-                         <li class="nav-item"><a class="nav-link py-1" href="/customUSeries">Liber New Generation</a></li>
+                    <ul class="nav-product d-flex list-unstyled flex-column justify-content-center text-center flex-sm-row justify-content-sm-end my-2">
+                        <li class="nav-item"><a class="nav-link py-1" href="/customMagus">Liber</a></li>
+                        <li class="nav-item"><a class="nav-link py-1" href="/customUSeries">Liber New Generation</a></li>
+                        <li class="nav-item"><a class="nav-link py-1" href="/customYSeries">Magus</a></li>
                     </ul>
                 </div>
             </div>
         </div>
         <!--------------->
-        <section style="background-color:#fff">
-            
-            <div id="container" class="cf">
-            <div class="product-slider">
+        <section class="sec-product-gallery">
+            <div class="container img-container">
                 <div class="row">
-                    <div class="col-md-2">
-                        <div class="colorSelector">
-                            <div class="row">
-                                <div class="col-md-2 text-left">
-                                    <label class="block">
-                                    <input type="radio" name="color" value="Angel Blue" checked>
-                                    <img height="50px" width="50px" src="images/custom/colors/Angel Blue.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Avita Purple">
-                                    <img height="50px" width="50px" src="images/custom/colors/Avita Purple.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Blossom Pink">
-                                    <img height="50px" width="50px" src="images/custom/colors/Blossom Pink.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Champagne Gold">
-                                    <img height="50px" width="50px" src="images/custom/colors/Champagne Gold.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Cloud Silver">
-                                    <img height="50px" width="50px" src="images/custom/colors/Cloud Silver.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Fragrant Lilac">
-                                    <img height="50px" width="50px" src="images/custom/colors/Fragrant Lilac.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Himalayan Blue">
-                                    <img height="50px" width="50px" src="images/custom/colors/Himalayan Blue.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Matt Black">
-                                    <img height="50px" width="50px" src="images/custom/colors/Matt Black.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Peacock Green">
-                                    <img height="50px" width="50px" src="images/custom/colors/Peacock Green.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Pearl White">
-                                    <img height="50px" width="50px" src="images/custom/colors/Pearl White.jpg">
-                                    </label>
-                                </div>
-                                <div class="col-md-2 text-right" style="margin-left: 50px">
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Shamrock Green">
-                                    <img height="50px" width="50px" src="images/custom/colors/Shamrock Green.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Space Grey">
-                                    <img height="50px" width="50px" src="images/custom/colors/Space Grey.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Sunflower Yellow">
-                                    <img height="50px" width="50px" src="images/custom/colors/Sunflower Yellow.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Sunrise Orange">
-                                    <img height="50px" width="50px" src="images/custom/colors/Sunrise Orange.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="Urban Ruby">
-                                    <img height="50px" width="50px" src="images/custom/colors/Urban Ruby.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="B07M5KHX2Z">
-                                    <img height="50px" width="50px" src="images/custom/colors/B07M5KHX2Z.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="B07M8GDNLV">
-                                    <img height="50px" width="50px" src="images/custom/colors/B07M8GDNLV.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="B07MN1N8C3">
-                                    <img height="50px" width="50px" src="images/custom/colors/B07MN1N8C3.jpg">
-                                    </label>
-                                    <label  class="block">
-                                    <input type="radio" name="color" value="B07MN1TLPG">
-                                    <img height="50px" width="50px" src="images/custom/colors/B07MN1TLPG.jpg">
-                                    </label>
-                                </div>
-                            </div>
+                    <div class="col-md-2 gallery-thumbnails">
+                        <div><img src= "images/custom/U Series/Angel Blue/MAIN.jpg"></div>
+                        <div><img src= "images/custom/U Series/Angel Blue/PTO1.jpg"></div>
+                        <div><img src= "images/custom/U Series/Angel Blue/PTO2.jpg"></div>
+                        <div><img src= "images/custom/U Series/Angel Blue/PTO3.jpg"></div>
+                        <div><img src= "images/custom/U Series/Angel Blue/PTO4.jpg"></div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="product-gallery">
+                            <img src= "images/custom/U Series/Angel Blue/MAIN.jpg">
                         </div>
                     </div>
-                    <div class="col-md-8">
-                        <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000">
-                            <div class="carousel-inner">
-                                <div class="item active"> <img id="1a" height="500px" width="500px" src="images/custom/U Series/Angel Blue/MAIN.jpg"> </div>
-                            <div class="item"> <img id="2a" height="500px"  width="500px" src= "images/custom/U Series/Angel Blue/PTO1.jpg"> </div>
-                            <div class="item"> <img id="3a" height="500px" width="500px" src= "images/custom/U Series/Angel Blue/PTO2.jpg"> </div>
-                            <div class="item"> <img id="4a" height="500px" width="500px" src= "images/custom/U Series/Angel Blue/PTO3.jpg"> </div>
-                            <div class="item"> <img id="5a" height="500px" width="500px" src= "images/custom/U Series/Angel Blue/PTO4.jpg"> </div>
-                            <div class="item"> <img id="6a" height="500px" width="500px" src= "images/custom/U Series/Angel Blue/PTO5.jpg"> </div>
-                            <div class="item"> <img id="7a" height="500px" width="500px" src= "images/custom/U Series/Angel Blue/PTO6.jpg"> </div>
-                            <div class="item"> <img id="8a" height="500px" width="500px" src= "images/custom/U Series/Angel Blue/PTO7.jpg"> </div>
-                            <div class="item"> <img id="9a" height="500px" width="500px" src= "images/custom/U Series/Angel Blue/PTO8.jpg"> </div>
+                    <div class="col-md-4">
+                        <ul class="nav nav-tabs nav-justified" id="myTab" role="tablist">
+                          <li class="nav-item">
+                            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Color</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Pattern</a>
+                          </li>
+                        </ul>
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active color-filter" id="home" role="tabpanel" aria-labelledby="home-tab">
+                                <img src="images/custom/colors/Angel Blue.jpg">
+                                <img src="images/custom/colors/Avita Purple.jpg">
+                                <img src="images/custom/colors/Blossom Pink.jpg">
+                                <img src="images/custom/colors/Champagne Gold.jpg">
+                                <img src="images/custom/colors/Cloud Silver.jpg">
+                                <img src="images/custom/colors/Fragrant Lilac.jpg">
+                                <img src="images/custom/colors/Himalayan Blue.jpg">
+                                <img src="images/custom/colors/Matt Black.jpg">
+                                <img src="images/custom/colors/Peacock Green.jpg">
+                                <img src="images/custom/colors/Pearl White.jpg">
+                                <img src="images/custom/colors/Shamrock Green.jpg">
+                                <img src="images/custom/colors/Space Grey.jpg">
+                                <img src="images/custom/colors/Sunflower Yellow.jpg">
+                                <img src="images/custom/colors/Sunrise Orange.jpg">
+                                <img src="images/custom/colors/Urban Ruby.jpg">
+                                <img src="images/custom/colors/B07M5KHX2Z.jpg">
+                                <img src="images/custom/colors/B07M8GDNLV.jpg">
+                                <img src="images/custom/colors/B07MN1N8C3.jpg">
+                                <img src="images/custom/colors/B07MN1TLPG.jpg">
                             </div>
-                            <!-- Left and right controls -->
-                              <a class="left carousel-control" href="#carousel" data-slide="prev">
-                                <i class="fa fa-angle-left" aria-hidden="true"></i>
-                              </a>
-                              <a class="right carousel-control" href="#carousel" data-slide="next">
-                                <i class="fa fa-angle-right" aria-hidden="true"></i>
-                              </a>
-                        </div>
-                        <div class="clearfix">
-                            <div id="thumbcarousel" class="carousel slide" data-interval="false">
-                                <div class="carousel-inner">
-                                    <div class="item active">
-                                        <div data-target="#carousel" data-slide-to="0" class="thumb"><img height="75px" width="75px" id="1b" src= "images/custom/U Series/Angel Blue/MAIN.jpg"></div>
-                                        <div data-target="#carousel" data-slide-to="1" class="thumb"><img height="75px" width="75px" id="2b" src= "images/custom/U Series/Angel Blue/PTO1.jpg"></div>
-                                        <div data-target="#carousel" data-slide-to="2" class="thumb"><img height="75px" width="75px" id="3b" src= "images/custom/U Series/Angel Blue/PTO2.jpg"></div>
-                                        <div data-target="#carousel" data-slide-to="3" class="thumb"><img height="75px" width="75px" id="4b" src= "images/custom/U Series/Angel Blue/PTO3.jpg"></div>
-                                        <div data-target="#carousel" data-slide-to="4" class="thumb"><img height="75px" width="75px" id="5b" src= "images/custom/U Series/Angel Blue/PTO4.jpg"></div>
-                                        <div data-target="#carousel" data-slide-to="5" class="thumb"><img height="75px" width="75px" id="6b" src= "images/custom/U Series/Angel Blue/PTO5.jpg"></div>
-                                        <div data-target="#carousel" data-slide-to="6" class="thumb"><img height="75px" width="75px" id="7b" src= "images/custom/U Series/Angel Blue/PTO6.jpg"></div>
-                                        <div data-target="#carousel" data-slide-to="7" class="thumb"><img height="75px" width="75px" id="8b" src= "images/custom/U Series/Angel Blue/PTO7.jpg"></div>
-                                        <div data-target="#carousel" data-slide-to="8" class="thumb"><img height="75px" width="75px" id="9b" src= "images/custom/U Series/Angel Blue/PTO8.jpg"></div>
-                                    </div>
-                                </div>
-                                <!-- /thumbcarousel --> 
+                            <div class="tab-pane fade pattern-filter" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                                <img src="images/custom/patterns/Batik in Champagne Gold.jpg">
+                                <img src="images/custom/patterns/Batik in Urban Ruby.jpg">
+                                <img src="images/custom/patterns/Cherry Blossom.jpg">
+                                <img src="images/custom/patterns/Flowers in Sunflower.jpg">
+                                <img src="images/custom/patterns/Paisley in Lilac.jpg">
+                                <img src="images/custom/patterns/Snow Flake.jpg">
+                                
                             </div>
-                        </div>
-                    </div>
-                    <!-- col ends-->
-                    <div class="col-md-2">
-                        <div class="patternSelector text-right " style="margin-top: 10px">
-                            <label class="block">
-                            <img height="75px" width="75px" src="images/custom/patterns/Batik in Champagne Gold.jpg">
-                            <input type="radio" name="pattern" value="Batik in Champagne Gold" checked>
-                            </label>
-                            <label  class="block">
-                            <img height="75px" width="75px" src="images/custom/patterns/Batik in Urban Ruby.jpg">
-                            <input type="radio" name="pattern" value="Batik in Urban Ruby">
-                            </label>
-                            <label  class="block">
-                            <img height="75px" width="75px" src="images/custom/patterns/Cherry Blossom.jpg">
-                            <input type="radio" name="pattern" value="Cherry Blossom">
-                            </label>
-                            <label  class="block">
-                            <img height="75px" width="75px" src="images/custom/patterns/Flowers in Sunflower.jpg">
-                            <input type="radio" name="pattern" value="Flowers in Sunflower">
-                            </label>
-                            <label  class="block">
-                            <img height="75px" width="75px" src="images/custom/patterns/Paisley in Lilac.jpg">
-                            <input type="radio" name="pattern" value="Paisley in Lilac">
-                            </label>
-                            <label  class="block">
-                            <img height="75px" width="75px" src="images/custom/patterns/Snow Flake.jpg">
-                            <input type="radio" name="pattern" value="Snow Flake">
-                            </label>
                         </div>
                     </div>
                 </div>
-                <!-- row ends-->
             </div>
-        </div>
         </section>
 
         <div class="gotop-wrap">
@@ -200,178 +95,75 @@
 @section('css')
     <!-- <link type="text/css" rel="stylesheet" href="{{ asset('css/product-magus.css') }}"/> -->
 <style>
-.carousel-inner>.item {
-    position: relative;
-    display: none;
-    -webkit-transition: .6s ease-in-out left;
-    -o-transition: .6s ease-in-out left;
-    transition: .6s ease-in-out left;
+.sec-product-gallery{
+    background: url('/images/imago/bg.png') left top / auto no-repeat;
+    background-color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
-.carousel-inner > .item.active.left, .carousel-inner > .item.prev {
-    left: 0;
-    -webkit-transform: translate3d(-100%,0,0);
-    transform: translate3d(-100%,0,0);
+.img-container{
+    padding: 4% 1% 2%;
 }
-
-.carousel-inner > .item.active, .carousel-inner > .item.next.left, .carousel-inner > .item.prev.right {
-    left: 0;
-    -webkit-transform: translate3d(0,0,0);
-    transform: translate3d(0,0,0);
+.gallery-thumbnails{
+    text-align: center;
 }
-.carousel-inner > .next.left, .carousel-inner > .prev.right {
-    left: 0;
+.gallery-thumbnails > div{
+    width: 80%;
+    padding: 0px 15px;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 3px 4px 12px -5px #7a7a7a;
+    margin-bottom: 15px;
+    background-color: #fff;
 }
-.carousel-inner > .item.active.right, .carousel-inner > .item.next {
-    left: 0;
-    -webkit-transform: translate3d(100%,0,0);
-    transform: translate3d(100%,0,0);
-}
-.carousel-inner>.active {
-    left: 0;
-}
-.carousel-inner > .next {
-    left: 100%;
-}
-.carousel-inner > .item {
-
-    -webkit-transition: -webkit-transform .6s ease-in-out;
-    -o-transition: -o-transform .6s ease-in-out;
-    transition: transform .6s ease-in-out;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    -webkit-perspective: 1000px;
-    perspective: 1000px;
-
-}
-.carousel-inner > .item {
-   position: relative;
-    display: none;
-    -webkit-transition: .6s ease-in-out left;
-    -o-transition: .6s ease-in-out left;
-    transition: .6s ease-in-out left;
-}
-.carousel-inner > .next, .carousel-inner > .prev {
-   position: absolute;
-    top: 0;
+.gallery-thumbnails img{
     width: 100%;
 }
-.carousel-inner > .active, .carousel-inner > .next, .carousel-inner > .prev {
-     display: block;
+.product-gallery img{
+    width: 100%;
 }
-
-input[type="radio"] {
-  margin-top: -1px;
-  vertical-align: middle;
+.color-filter,.pattern-filter{
+    padding: 20px;
+    background-color: #fff;
 }
-
-.block {
-  display: block;
+.color-filter img{
+    width: 50px;
+    height: 50px;
+    margin:5px;
+    border-radius: 50%;
 }
-
-.main{
-    float: center;
+.pattern-filter img{
+    width: 85px;
+    height: 85px;
+    margin:5px;
+    border-radius: 50%;
 }
-
-
-.product-slider {
-    padding: 45px; 
+#myTabContent .tab-pane.active{
+    opacity: 1;
 }
-
-.product-slider #carousel { 
-  margin: 0; 
-  height: 500px;
-  overflow: hidden;
-  
+.product-gallery img{
+    -webkit-animation: mover 2s  alternate;
+    animation: mover 2s  alternate;
 }
-
-.product-slider #thumbcarousel { 
-  margin: 12px 0 0; 
-  padding: 0 45px; 
+@-webkit-keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
 }
-
-.product-slider #thumbcarousel .item,.product-slider #carousel .item { 
-  text-align: center; 
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
 }
-
-.product-slider #thumbcarousel .item .thumb { 
-  border: 2px solid #cecece; 
-  width: 20%; 
-  margin: 2%; 
-  display: inline-block; 
-  vertical-align: middle; 
-  cursor: pointer; 
-  max-width: 98px; 
+.color-filter img,.pattern-filter img{
+    animation: 1s ease-out 0s 1 slideInFromLeft;
 }
-
-.product-slider #thumbcarousel .item .thumb:hover { border-color: #1089c0; }
-
-.product-slider .item img { width: auto; height: 450px; }
-.product-slider .thumb img { width: 50px; height: 50px; }
-
-.carousel-control { color: #0284b8; text-align: center; text-shadow: none; font-size: 30px; width: 30px; height: 30px; line-height: 20px; top: 23%; }
-
-.carousel-control:hover, .carousel-control:focus, .carousel-control:active { 
-  color: #333; 
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-30%);
+  }
+  100% {
+    transform: translateX(0);
+  }
 }
-
-.carousel-caption, .carousel-control .fa {
-
- font: normal normal normal 50px/36px FontAwesome; 
-
-}
-
-.carousel-control {
-
- background-color: rgba(0, 0, 0, 0);
- bottom: auto; font-size: 20px; 
- left: 0; 
- position: absolute; 
- top: 30%; 
- width: auto; 
-}
-
-.carousel-control.right {
-    right: 0;
-    left: auto;
-    
-}
-
-.carousel-control {
-    position: absolute;
-    top: 46%;
-    bottom: 0;
-    left: 0;
-    width: 15%;
-    font-size: 20px;
-    text-align: center;
-    text-shadow: 0 1px 2px rgba(0,0,0,.6);
-    background-color: rgba(0,0,0,0);
-    filter: alpha(opacity=50);
-    opacity: .5;
-}
-@media screen and (min-width: 768px){
-.carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev {
-    margin-left: -10px;
-}
-}
-
-
-/*.carousel-control.right, .carousel-control.left { 
-    background-color: rgba(0, 0, 0, 0); background-image: none; 
-}*/
-
-input {
-    visibility:hidden;
-}
-
-input:checked +label img{
-
-  border:1px solid #021a40;
-}
-.block img{
-    cursor: pointer;
-}
-
 </style>
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" media="screen" /> -->
 @endsection
@@ -379,52 +171,7 @@ input:checked +label img{
 @section('js')
 <script>
 
-    $(document).on('click', 'input[name="color"]',function(){
     
-      var dir = "images/custom/U Series/";
-      var colorName = $(this).val();
-      var files = ['MAIN.jpg','PTO1.jpg','PTO2.jpg','PTO3.jpg','PTO4.jpg','PTO5.jpg','PTO6.jpg','PTO7.jpg','PTO8.jpg'];
-    
-      $('#8b').show();
-      $('#9b').show();
-    
-    
-      fillSlider(dir,colorName,files);
-    
-    });
-    
-    $(document).on('click', 'input[name="pattern"]',function(){
-    
-      var dir = "images/custom/U Series Pattern/";
-      var colorName = $(this).val();
-    
-    
-      $('#8b').hide();
-      $('#9b').hide();
-    
-      var files = ['MAIN.jpg','PTO1.jpg','PTO2.jpg','PTO3.jpg','PTO4.jpg','PTO5.jpg','PTO6.jpg'];
-    
-      fillSlider(dir,colorName,files);
-    
-    });
-    
-    
-    var fillSlider = function (dir,colorName,files) {
-      
-      $.each(files, function(index,value){
-    
-        var i = index+1;
-    
-        var img = $('#' + i.toString() + 'a');
-        var img2 = $('#'+ i.toString() + 'b');
-    
-        img.attr('src', dir + colorName +"/"+ files[index]);
-        img2.attr('src',dir + colorName +"/"+ files[index]);
-    
-    });
-    
-      
-    }
   
 </script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" ></script>
