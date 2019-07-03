@@ -6,9 +6,6 @@
 
 @section('content')
     <main class="top-nav-padding">
-
-        @include('partials.product-navbar')
-
         <section class="product-liber-banner">
             <div class="responsive-block">
                 <div class="banner-block responsive-item">
