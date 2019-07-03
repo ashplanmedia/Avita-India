@@ -46,7 +46,7 @@
                 <div class="container">
                     <div class="banner-info">
                         <div class="ac-computer-wrap hidden-md-up">
-                            <img class="ac-computer-image ac-computer-1" style="" src="/images/liber/liber12_feature/sc4_fimg1.png">
+                            <img class="ac-computer-image ac-computer-1" style="" src="/images/liber/liber12_feature/sc8_fimg1.png">
                         </div>
                         <div class="h2 banner-header mb-4 mb-sm-5">Full HD IPS, Borderless Display</div>
                         <div class="banner-para ls-0">
@@ -100,8 +100,7 @@
 
                                 </div>
                             </div>
-                            <!-- <img class="ac-computer-image ac-computer-1" src="/images/liber/liber12_feature/sc5_fimg1.jpg"> -->
-                        </div>
+                          </div>
                         <div class="col-12 col-lg-7">
                             <div class="battery-wrap d-flex align-items-center">
                                 <div class="badge-caption">Up to <span class="badge-value px-1">8</span> hrs<br>Battery life</div>
