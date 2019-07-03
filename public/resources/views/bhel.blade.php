@@ -7,9 +7,7 @@
 @section('content')
     <main class="top-nav-padding">
 
-        @include('partials.product-navbar')
-
-        <section class="product-liber-banner">
+    <section class="product-liber-banner">
             
     <div id="slideshow" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
@@ -44,83 +42,6 @@
     
 @endsection
 
- <section class="product-liber-computer ls-0" id="test">
-            <div class="banner-block">
-                <div class="banner-bg"></div>
-                <div class="banner-image">
-                    <img class="bc-computer-image bc-computer-1" src="/images/liber/liber12_feature/sc2_fimg1.png">
-                    <img class="bc-computer-image bc-computer-2" src="/images/liber/liber12_feature/sc2_fimg2.png">
-                    <img class="bc-computer-image bc-computer-3" src="/images/liber/liber12_feature/sc2_fimg3.png">
-                    <img class="bc-computer-image bc-computer-4" src="/images/liber/liber12_feature/sc2_fimg4.png">
-                    <img class="bc-computer-image bc-computer-5" src="/images/liber/liber12_feature/sc2_fimg5.png">
-                    <img class="bc-computer-image bc-computer-6" src="/images/liber/liber12_feature/sc2_fimg6.png">
-                </div>
-                             <div class="container">
-                    <div class="banner-info">
-                        <div class="ac-computer-wrap">
-                            <img class="ac-computer-image ac-computer-1" src="/images/liber/liber12_feature/sc2_img1.png">
-                            <!-- <img class="ac-computer-image ac-computer-2" src="/images/liber/liber12_feature/sc2_img2.png"> -->
-                        </div>
-                        <div class="h2 banner-header mb-4 mb-sm-5">Inside-out Vibrancy</div>
-                        <div class="banner-para">
-                            <span class="d-lg-block">LIBER is a new journey of self-discovery</span>
-                            <span class="d-lg-block">through art and humanity in technology.</span>
-                            <span class="d-lg-block">Where the form of a laptop remains,</span>
-                            <span class="d-lg-block">it on top features chic and interchangeable </span>
-                            <span class="d-lg-block">form factors to reveal your true colors.</span>
-                        </div>
-                    </div>
-                </div>
-	     </div>
-        </section>
-
-        <section class="product-liber-size ls-0"/>
-            <div class="banner-block">
-                <div class="banner-bg"></div>
-                <div class="banner-image">
-                    <img class="bc-computer-image bc-computer-1" src="/images/liber/liber12_feature/sc3_fimg1.png">
-                    <img class="bc-computer-image bc-computer-2" src="/images/liber/liber12_feature/sc3_fimg2.png">
-                    <img class="bc-computer-image bc-computer-3" src="/images/liber/liber12_feature/sc3_fimg3.png">
-                    <img class="bc-computer-image bc-computer-4" src="/images/liber/liber12_feature/sc3_fimg4.png">
-                    <img class="bc-computer-image bc-computer-5" src="/images/liber/liber12_feature/sc3_fimg5.png">
-                    <img class="bc-computer-image bc-computer-6" src="/images/liber/liber12_feature/sc3_fimg6.png">
-                    <img class="bc-computer-image bc-computer-7" src="/images/liber/liber12_feature/sc3_fimg7.png">
-                    <img class="bc-computer-image bc-computer-8" src="/images/liber/liber12_feature/sc3_fimg8.png">
-                </div>
-                <div class="container">
-                    <div class="banner-info">
-
-                        <div class="h2 banner-header mb-4 mb-sm-5">Tangible Lightness</div>
-                        <div class="ac-computer-wrap hidden-md-up">
-                            <img class="ac-computer-image ac-computer-1" style="" src="/images/liber/liber12_feature/sc3_fimg2.png">
-                        </div>
-                        <div class="banner-para ls-0">
-
-                            <span class="d-lg-block">LIBER offers great mobility.</span>
-                            <span class="d-lg-block">Having no compromise to <br>a silky metallic body</span>
-                            <span class="d-lg-block">with the thinnest part of only 5mm and</span>
-                            <span class="d-lg-block">weight starting from 1.14kg,</span>
-                            <span class="d-lg-block">it comes with an ultra slim and light design</span>
-                            <span class="d-lg-block">that unburdens you on the go.</span>
-                        </div>
-                        <div class="banner-data d-flex flex-wrap text-left mx-auto pl-sm-5">
-                            <div class="data-card data-card-1 col-6 my-2 my-sm-4 pl-1 px-sm-4">
-                                <div class="badge-caption">&nbsp;</div>
-                                <span class="badge-value">5</span>
-								<span class="badge-caption">mm</span>
-								<div class="badge-caption pt-1">Thinnest part</div>
-                            </div>
-                            <div class="data-card data-card-3 col-6 my-2 my-sm-4 pl-1 px-sm-4">
-                                <div class="badge-caption">Starting from</div>
-                                <span class="badge-value">1.14</span>
-								<span class="badge-caption">kg</span>
-								<div  class="badge-caption pt-1">12.5-inch weight</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
 
         <section class="product-liber-performance ls-0">
             <div class="banner-block">
