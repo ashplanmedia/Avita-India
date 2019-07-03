@@ -54,7 +54,7 @@
                         <div class="ac-computer-wrap hidden-md-up">
                             <img class="ac-computer-image ac-computer-1" style="" src="/images/liber/liber12_feature/sc4_fimg1.png">
                         </div>
-                        <div class="h2 banner-header mb-4 mb-sm-5">Seamless Efficiency</div>
+                        <div class="h2 banner-header mb-4 mb-sm-5">Full HD IPS, Borderless Display</div>
                         <div class="banner-para ls-0">
                             <span class="d-md-block">LIBER is made for the best work and entertainment experience. </span>
 							<span class="d-md-block">It is marked with a high performance speed particularly useful in</span>
@@ -76,22 +76,7 @@
 								<div class="badge-value">8<span class="badge-caption pl-1">GB</span></div>
 								<div class="badge-caption">RAM</div>
                             </div>
-                            <!-- <div class="data-card">
-                                <div class="badge-caption">可提升至</div>
-                                <div class="badge-value">3.6<span class="badge-caption">GHz</span></div>
-                                <div class="badge-caption">頻率</div>
-                            </div> -->
-                            <!-- <div class="clearfix col-12"></div> -->
-                            <!-- <div class="data-card pr-5">
-                                <div class="badge-caption">&nbsp;</div>
-                                <div class="badge-value">3X<span class="badge-caption">倍</span></div>
-                                <div class="badge-caption">比 SATA3 SSD 快</div>
-                            </div>
-                            <div class="data-card">
-                                <div class="badge-caption">最高</div>
-                                <div class="badge-value">256<span class="badge-caption">GB</span></div>
-                                <div class="badge-caption">RAM</div>
-                            </div> -->
+                           
                         </div>
                     </div>
                 </div>
@@ -109,7 +94,7 @@
                         <div class="col-12 col-lg-5">
                             <div class="banner-info  mx-auto">
 
-                                <div class="h2 banner-header mb-4 mb-sm-5"><div class="d-sm-inline">Full Battery for All-day Menu</div></div>
+                                <div class="h2 banner-header mb-4 mb-sm-5"><div class="d-sm-inline">Lightning Fast SSD Storage</div></div>
     							<div class="banner-para ls-0">
     								<span class="d-lg-block">From the first news feed you get in the morning, </span>
     								<span class="d-lg-block">through a hectic day of work to finally </span>
@@ -132,19 +117,7 @@
     								<div class="badge-caption">&nbsp;</div>
     								<div class="badge-value text-center">27.8<span class="badge-caption pl-1">Wh</span></div>
     								<div class="badge-caption">Li-ion Battery</div>
-                                </div>
-
-                                <ul class="battery-block d-flex"><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>
-                                <!-- <div class="data-card">
-                                    <div class="badge-caption">快速充電？</div>
-                                    <div class="badge-value">10%</div>
-                                    <div class="badge-caption">每分鐘</div>
-                                </div> -->
-                                <!-- <div class="data-card">
-                                    <div class="badge-caption">&nbsp;</div>
-                                    <div class="badge-value">3<span class="badge-caption">倍</span></div>
-                                    <div class="badge-caption">電池使用壽命</div>
-                                </div> -->
+                               </div>
                             </div>
                         </div>
                     </div>
@@ -160,7 +133,7 @@
                 <div class="container">
                     <div class="banner-info mx-auto ml-lg-0">
 
-                        <div class="h2 banner-header mb-4 mb-sm-5">Pleasing Keyboard Design</div>
+                        <div class="h2 banner-header mb-4 mb-sm-5">Large Trackpad</div>
 						<div class="ac-computer-wrap hidden-md-up">
 							<img class="ac-computer-image ac-computer-1" style="" src="/images/liber/liber12_feature/sc6_fimg1.png">
 						</div>
@@ -173,17 +146,7 @@
                             <span class="d-lg-block"><small>* Backlit keyboard, which improve input experience in dimly-lit environment, is available on all 12.5-inch models</small></span>
 
                         </div>
-                        <!-- <div class="banner-data d-flex justify-content-around">
-                            <div class="data-card">
-                                <div class="badge-value">512<span class="badge-caption">厘米</span></div>
-                                <div class="badge-caption">行程距離</div>
-                            </div>
-                            <div class="data-card">
-                                <div class="badge-value">512<span class="badge-caption">厘米</span></div>
-                                <div class="badge-caption">按鍵間距</div>
-                            </div>
-                        </div> -->
-                    </div>
+                     </div>
                 </div>
             </div>
         </section>
