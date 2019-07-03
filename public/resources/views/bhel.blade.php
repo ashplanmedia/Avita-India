@@ -8,7 +8,6 @@
     <main class="top-nav-padding">
 
     <section class="product-liber-banner">
-            
     <div id="slideshow" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
 
@@ -35,14 +34,9 @@
            
 </section>
         
-        
 @section('js')
-      
-    
-    
+
 @endsection
-
-
         <section class="product-liber-performance ls-0">
             <div class="banner-block">
                 <div class="banner-bg"></div>
@@ -56,14 +50,14 @@
                         </div>
                         <div class="h2 banner-header mb-4 mb-sm-5">Full HD IPS, Borderless Display</div>
                         <div class="banner-para ls-0">
-                            <span class="d-md-block">LIBER is made for the best work and entertainment experience. </span>
-							<span class="d-md-block">It is marked with a high performance speed particularly useful in</span>
-							<span class="d-md-block">handling complicated operations and visual contents.</span>
+                            <span class="d-md-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+				<span class="d-md-block"> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </span>
+				<span class="d-md-block">when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span>
                         </div>
                         <div class="banner-data d-flex flex-column flex-sm-row flex-wrap justify-content-center justify-content-sm-between">
                             <div class="data-card my-3 text-left">
                                 <div class="badge-caption">Up to</div>
-								<div class="badge-value">Core i5</div>
+				<div class="badge-value">Core i5</div>
                                 <div class="badge-caption">INTEL&reg; CORE&trade; PROCESSOR</div>
                             </div>
                             <div class="data-card my-3 text-left">
