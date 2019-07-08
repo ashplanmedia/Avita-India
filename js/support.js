@@ -48,7 +48,7 @@ $productTypeField.change(function() {
 
     if ( $(this).val() ) {
 
-        var url = "https://asp.avita.global/api/product/marketing-numbers?country=in&brand=avita&series=liber";
+        var url = "https://asp.avita.global/api/product/product-series?country=in&brand=avita&type=1";
 
         $.getJSON( url, {
             type: $(this).val()
