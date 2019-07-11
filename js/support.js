@@ -135,7 +135,7 @@ $marketingNumberField.change(function() {
     var select = $productNumberField;
 
     if ( $(this).val() ) {
-        var url = "https://asp.avita.global/api/product/product-models?country=in&brand=avita";
+        var url = "https://asp.avita.global/api/product/product-models?country=in&brand=avita&marketing_number=NS13A1";
 
         $.getJSON( url, {
             marketing_number: $(this).val()
