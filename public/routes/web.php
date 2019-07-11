@@ -173,6 +173,7 @@ Route::get('login/google/callback', 'Auth\LoginController@handleGoogleCallback')
 // API
 
 Route::get('api/drivers', 'ProductsController@showDriverComponent');
+Route::get('api/products/types', 'ProductsController@showProductTypes');
 Route::get('api/products/series', 'ProductsController@showProductSeries');
 Route::get('api/products/marketing_numbers', 'ProductsController@showProductMarketingNumbers');
 Route::get('api/products/numbers', 'ProductsController@showProductNumbers');
