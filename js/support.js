@@ -48,7 +48,7 @@ $productTypeField.change(function() {
 
     if ( $(this).val() ) {
 
-        var url = "https://asp.avita.global/api/product/product-series";
+        var url = "https://asp.avita.global/api/product/product-series?country=mu&brand=avita&type=1";
 
         $.getJSON( url, {
             type: $(this).val()
@@ -92,7 +92,7 @@ $productSeriesField.change(function() {
     var select = $marketingNumberField;
 
     if ( $(this).val() ) {
-        var url = "https://asp.avita.global/api/product/marketing-numbers";
+        var url = "https://asp.avita.global/api/product/marketing-numbers?country=mu&brand=avita&series=liber";
 
         $.getJSON( url, {
             series: $(this).val()
@@ -135,7 +135,7 @@ $marketingNumberField.change(function() {
     var select = $productNumberField;
 
     if ( $(this).val() ) {
-        var url = "https://asp.avita.global/api/product/product-models";
+        var url = "https://asp.avita.global/api/product/product-models?country=mu&brand=avita";
 
         $.getJSON( url, {
             marketing_number: $(this).val()
