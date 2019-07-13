@@ -105,7 +105,7 @@
 <p>Avita’s fashion –forward laptop’s launched in India </p><br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/sunday_guardian.jpg" />
+                <img style="width: 100%; height:100%;" src="/images/publication/sunday_guardian.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 27th January, 2019</div>
@@ -131,7 +131,7 @@
 <p>Bollywood actress Neha Sharma launches US lifestyle Tech Brand AVITA</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/pc_quest.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/pc_quest.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 25th January, 2019</div>
@@ -156,7 +156,7 @@
 <p>Avita comes to India with new and funky range of laptops</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/gadget_now.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/gadget_now.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 27th January, 2019</div>
@@ -179,7 +179,7 @@
 <p><br/></p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/sub_guru.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/sub_guru.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 24th January, 2019</div>
@@ -202,7 +202,7 @@
 <p><br/></p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/dainik_savera.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/dainik_savera.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 25th January, 2019</div>
@@ -226,7 +226,7 @@
 <p>Avita’s fashion forward Launched in India </p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/sunday_guardian_live.jpg" />
+                <img style="width: 100%; height:100%;" src="/images/publication/sunday_guardian_live.jpg" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 27th January, 2019</div>
@@ -250,7 +250,7 @@
 <p><br/><br/></p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/daily_hunt.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/daily_hunt.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 25th January, 2019</div>
@@ -274,7 +274,7 @@
 <p>Nexstgo Introduces It’s First Flagship Commercial Laptop PRIMUS Enters India market</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_1.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_1.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 21th November, 2019</div>
@@ -297,7 +297,7 @@
 <p>Nexstgo enters India with Primus Laptops starting at Rs 80,990</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_2.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_2.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 20th November 2018</div>
@@ -320,7 +320,7 @@
 <p>Hong Kong’s Nexstgo all set to launch its PRIMUS laptop in India</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_3.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_3.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 20th November 2018</div>
@@ -343,7 +343,7 @@
 <p>Hong Kong-based laptop maker Nexstgo launches its first laptop in India</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_4.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_4.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong>20th November 2018</div>
@@ -366,7 +366,7 @@
 <p>Nexstgo's First Flagship Commercial Laptop 'PRIMUS' Enters Indian Market</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_5.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_5.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong>20th November 2018</div>
@@ -389,7 +389,7 @@
 <p>Nexstgo forays into India with its Primus laptops</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_6.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_6.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong>20th November 2018</div>
@@ -412,7 +412,7 @@
 <p>Nexstgo launches Primus laptops in India </p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_7.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_7.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong>20th November 2018</div>
@@ -435,7 +435,7 @@
 <p>Hong Kong tech nova Nexstgo’s first flagship laptop PRIMUS enters India market</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_8.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_8.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 20th November 2018</div>
@@ -458,7 +458,7 @@
 <p>Nexstgo enters India with Primus Laptops starting at Rs 80,990</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_9.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_9.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 20th November 2018</div>
@@ -481,7 +481,7 @@
 <p>Hong Kong tech nova Nexstgo’s first flagship laptop PRIMUS enters India market</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_10.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_10.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong>20th November 2018</div>
@@ -504,7 +504,7 @@
 <p>Hong Kong tech nova Nexstgo’s first flagship commercial laptop PRIMUS enters India market</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_11.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_11.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 20th November 2018</div>
@@ -527,7 +527,7 @@
 <p>Nexstgo launches Primus laptops in India</p><br/>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_12.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_12.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 20th November 2018</div>
@@ -550,7 +550,7 @@
 <p>Nexstgo to Bring its Flagship Laptop PRIMUS to the Indian Market</p>
             <figure>
             <div class="image-wrap">
-                <img style="width: 100%; height:100%;" src="http://avita-india.com/images/publication/img_13.png" />
+                <img style="width: 100%; height:100%;" src="/images/publication/img_13.png" />
             </div>
             <figcaption class="d-flex event-caption coming_soon px-4 py-1">
         <div class="event-date"><i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Date:</strong> 20th November 2018</div>
