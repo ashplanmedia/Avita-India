@@ -108,7 +108,7 @@
                             <a class="col-6 px-0" href="/entry"><i class="fa fa-globe mr-2" aria-hidden="true"></i><span class="">INDIA</span></a>
                         </div>
                          <div class="col-12 info-lang w-100 px-0 hidden-md-up pb-sm-2">
-                            <a class="col-6 px-0" href="{{ route('country.picker') }}"><i class="fa fa-globe mr-2" aria-hidden="true"></i><span class="pr-2">{{ strtoupper( __("site.global_{$country}")) }}</span></a>
+                            <a class="col-6 px-0" href="/entry"><i class="fa fa-globe mr-2" aria-hidden="true"></i><span class="pr-2">{{ strtoupper( __("site.global_{$country}")) }}</span></a>
 
 
                         </div>
