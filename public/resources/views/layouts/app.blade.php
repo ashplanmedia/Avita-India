@@ -91,11 +91,11 @@
     @yield('css')
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 </head>
-<body class="lang_{{$lang}} country_{{ $country }}">
+<body class="lang_{{$lang}}">
 
 
-@if( View::exists('partials.header_'.$country) )
-    @include('partials.header_'.$country)
+@if( View::exists('partials.header_') )
+    @include('partials.header_')
 @else
     @include('partials.header')
 @endif
@@ -105,8 +105,8 @@
 <!-- ./Content -->
 
 
-@if( View::exists('partials.footer_'.$country) )
-    @include('partials.footer_'.$country)
+@if( View::exists('partials.footer_') )
+    @include('partials.footer_')
 @else
     @include('partials.footer')
 @endif
