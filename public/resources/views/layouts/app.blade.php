@@ -11,6 +11,7 @@
 
 @endphp
 
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{{ $xml_lang }}" lang="{{ $xml_lang }}">
 <head>
     <meta charset="utf-8"/>
@@ -88,7 +89,7 @@
 
     @stack('css')
     @yield('css')
-
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 </head>
 <body class="lang_{{$lang}} country_{{ $country }}">
 
@@ -150,7 +151,7 @@
     /* ]]> */
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 
 </script>
 <noscript>
