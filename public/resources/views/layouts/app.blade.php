@@ -1,16 +1,15 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 @php
-	//$country = 'in';
+	$country = 'in';
     $xml_lang = ($lang == 'en') ? 'en' : 'zh-hk';
 
-   $keyword = "AVITA India";
+    $keyword = metaKeywordByCountryAndLanguage( $country, $lang);
 
-    $description = "AVITA India";
+    $description = metaDescriptionByCountryAndLanguage( $country, $lang );
 
 
 @endphp
-
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{{ $xml_lang }}" lang="{{ $xml_lang }}">
 <head>
@@ -89,13 +88,13 @@
 
     @stack('css')
     @yield('css')
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 </head>
-<body class="lang_{{$lang}}">
+<body class="lang_{{$lang}} country_{{ $country }}">
 
 
-@if( View::exists('partials.header_') )
-    @include('partials.header_')
+@if( View::exists('partials.header_'.$country) )
+    @include('partials.header_'.$country)
 @else
     @include('partials.header')
 @endif
@@ -105,8 +104,8 @@
 <!-- ./Content -->
 
 
-@if( View::exists('partials.footer_') )
-    @include('partials.footer_')
+@if( View::exists('partials.footer_'.$country) )
+    @include('partials.footer_'.$country)
 @else
     @include('partials.footer')
 @endif
@@ -151,7 +150,7 @@
     /* ]]> */
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 </script>
 <noscript>
