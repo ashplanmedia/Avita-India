@@ -37,36 +37,7 @@
                     </a>
                 </div>
             </div>
-                  <div class="carousel-item">
-                <div class="responsive-block">
-                    <div class="banner-block responsive-item">
-                        <a href="/product/magus12-2in1-laptop">
-                            @if( App::isLocale('en') )
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/Web_Banner.png')"></div>
-                            @else
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/Web_Banner.png')"></div>
-                            @endif
-                            <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/Mobile_Banner.png')"></div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-           
-    <div class="carousel-item">
-                <div class="responsive-block">
-                    <div class="banner-block responsive-item d-flex align-items-center">
-                       <video autoplay muted loop >
-                          <source src="/videos/magus.mp4" type="video/mp4">
-                            <source src="/videos/magus.ogg" type="video/ogg">
-                                      Your browser does not support the video tag.
-                            </video>
-                    </div>
-                </div>
-            </div>
-
+                           
             <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
@@ -82,15 +53,22 @@
                     </div>
                 </div>
             </div>
-
+ <div class="carousel-item">
+                <div class="responsive-block">
+                    <div class="banner-block responsive-item d-flex align-items-center">
+                       <video autoplay muted loop >
+                          <source src="/videos/magus.mp4" type="video/mp4">
+                            <source src="/videos/magus.ogg" type="video/ogg">
+                                      Your browser does not support the video tag.
+                            </video>
+                    </div>
+                </div>
+            </div>
             <ol class="carousel-indicators">
                 <li data-target="#home_banner" data-slide-to="0" class="active"></li>
                 <li data-target="#home_banner" data-slide-to="1"></li>
                 <li data-target="#home_banner" data-slide-to="2"></li>
                 <li data-target="#home_banner" data-slide-to="3"></li>
-                <li data-target="#home_banner" data-slide-to="4"></li>
-                    <li data-target="#home_banner" data-slide-to="5"></li>
-
             </ol>
         </div>
 </section>
