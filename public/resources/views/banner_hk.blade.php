@@ -1,8 +1,8 @@
 <section class="top-nav-padding homepage-banner">
     <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
-        
-    <!-----
+
+<!--------
     <div class="carousel-item  active">
                 <div class="responsive-block">
                 <a href="/AVITA-launches-stylish-ADMIROR-notebooks">
@@ -20,25 +20,26 @@
                     </a>
                 </div>
             </div>
-            ----->
-                 <div class="carousel-item active">
+        ----->
+            <div class="carousel-item active">
                 <div class="responsive-block">
-                <a href="/product/liber/where_to_buy">
+           <a href="/product/magus12-2in1-laptop">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/offer_banner_web.png')"></div>
+                                 style="background-image: url('/images/banner/rakshabandhan_web.png')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/offer_banner_web.png')"></div>
+                                 style="background-image: url('/images/banner/rakshabandhan_web.png')"></div>
                         @endif
                         <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/offer_banner_mob.png')"></div>
+                             style="background-image: url('/images/banner/rakshabandhan_mobile.png')"></div>
                     </div>
                     </a>
                 </div>
             </div>
-                  <div class="carousel-item">
+
+       <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
                         <a href="/product/magus12-2in1-laptop">
@@ -99,15 +100,16 @@
                 </div>
             </div>
 
-            <ol class="carousel-indicators">
+          <ol class="carousel-indicators">
                 <li data-target="#home_banner" data-slide-to="0" class="active"></li>
                 <li data-target="#home_banner" data-slide-to="1"></li>
                 <li data-target="#home_banner" data-slide-to="2"></li>
                 <li data-target="#home_banner" data-slide-to="3"></li>
                 <li data-target="#home_banner" data-slide-to="4"></li>
 
-            </ol>
-        </div>
+            </ol> 
+
+        </div> 
 </section>
 
 @section('css')

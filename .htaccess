@@ -25,6 +25,7 @@
 </IfModule>
 
 ## EXPIRES CACHING ##
+## EXPIRES CACHING ##
 <IfModule mod_expires.c>
 ExpiresActive On
 ExpiresByType image/jpg "access 1 year"
@@ -40,3 +41,13 @@ ExpiresByType image/x-icon "access 1 year"
 ExpiresDefault "access 2 days"
 </IfModule>
 ## EXPIRES CACHING ##
+
+## EXPIRES CACHING ##
+
+## COOKIESLESS DOMAIN ##
+<FilesMatch "\.(js|css|jpg|png|jpeg|gif|xml|json|txt|pdf|mov|avi|otf|woff|ico|swf)$">
+	RequestHeader unset Cookie
+	Header unset Cookie
+        Header unset Set-Cookie
+</FilesMatch>
+## COOKIESLESS DOMAIN ##
