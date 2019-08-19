@@ -3,7 +3,6 @@
         <div class="carousel-inner" role="listbox">
         
 
-<div class="carousel-item active">
 
        
                  <div class="carousel-item active">
@@ -24,7 +23,6 @@
                     </a>
                 </div>
             </div>
-        </div>
         
         <div class="carousel-item">
                 <div class="responsive-block">
@@ -111,6 +109,7 @@
                 <li data-target="#home_banner" data-slide-to="2"></li>
                 <li data-target="#home_banner" data-slide-to="3"></li>
                 <li data-target="#home_banner" data-slide-to="4"></li>
+                    <li data-target="#home_banner" data-slide-to="5"></li>
 
             </ol>
         </div>
