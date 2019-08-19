@@ -4,7 +4,7 @@
  
               <div class="carousel-item active">
                 <div class="responsive-block">
-           <a href="/product/magus12-2in1-laptop">
+           <a href="/products/liber-new-generation">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
@@ -22,7 +22,7 @@
         
         <div class="carousel-item">
                 <div class="responsive-block">
-                <a href="/product/liber/where_to_buy">
+                <a href="/product/magus12-2in1-laptop">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
@@ -40,6 +40,7 @@
                            
             <div class="carousel-item">
                 <div class="responsive-block">
+                 <a href="/product/liber12">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
@@ -51,16 +52,17 @@
                         <div class="banner-bg hidden-md-up"
                              style="background-image: url('/images/banner/mob_banner.jpg')"></div>
                     </div>
+                </a>
                 </div>
             </div>
- <div class="carousel-item">
+   <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item d-flex align-items-center">
-                       <video autoplay muted loop >
+                       <video autoplay loop>
                           <source src="/videos/magus.mp4" type="video/mp4">
                             <source src="/videos/magus.ogg" type="video/ogg">
                                       Your browser does not support the video tag.
-                            </video>
+                         </video>
                     </div>
                 </div>
             </div>
