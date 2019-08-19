@@ -1,24 +1,20 @@
 <section class="top-nav-padding homepage-banner">
     <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
-        
-
-
-       
-                 <div class="carousel-item active">
-
+ 
+              <div class="carousel-item active">
                 <div class="responsive-block">
            <a href="/product/magus12-2in1-laptop">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/rakshabandhan_web.png')"></div>
+                                 style="background-image: url('/images/banner/Web_Banner.png')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/rakshabandhan_web.png')"></div>
+                                 style="background-image: url('/images/banner/Web_Banner.png')"></div>
                         @endif
                         <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/rakshabandhan_mobile.png')"></div>
+                             style="background-image: url('/images/banner/Mobile_Banner.png')"></div>
                     </div>
                     </a>
                 </div>
@@ -30,13 +26,13 @@
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/offer_banner_web.png')"></div>
+                                 style="background-image: url('/images/banner/magus_web.jpg')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/offer_banner_web.png')"></div>
+                                 style="background-image: url('/images/banner/magus_web.jpg')"></div>
                         @endif
                         <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/offer_banner_mob.png')"></div>
+                             style="background-image: url('/images/banner/magus_mob.jpg')"></div>
                     </div>
                     </a>
                 </div>
@@ -58,23 +54,7 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-item">
-                <div class="responsive-block">
-                    <div class="banner-block responsive-item">
-                        <a href="/product/magus12-2in1-laptop">
-                            @if( App::isLocale('en') )
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/magus_web.jpg')"></div>
-                            @else
-                                <div class="banner-bg hidden-sm-down"
-                                     style="background-image: url('/images/banner/magus_web.jpg')"></div>
-                            @endif
-                            <div class="banner-bg hidden-md-up"
-                                 style="background-image: url('/images/banner/magus_mob.jpg')"></div>
-                        </a>
-                    </div>
-                </div>
-            </div>
+           
     <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item d-flex align-items-center">
