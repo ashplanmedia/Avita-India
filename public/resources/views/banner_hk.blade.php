@@ -20,8 +20,14 @@
                     </a>
                 </div>
             </div>
+<<<<<<< HEAD
         ----->
             <div class="carousel-item active">
+=======
+            ----->
+            <!------
+                 <div class="carousel-item active">
+>>>>>>> 4c6d6024451aebf0ca2040059a0197b1276e53e4
                 <div class="responsive-block">
            <a href="/product/magus12-2in1-laptop">
                     <div class="banner-block responsive-item">
@@ -38,8 +44,13 @@
                     </a>
                 </div>
             </div>
+<<<<<<< HEAD
 
        <div class="carousel-item">
+=======
+            -------->
+                  <div class="carousel-item">
+>>>>>>> 4c6d6024451aebf0ca2040059a0197b1276e53e4
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
                         <a href="/product/magus12-2in1-laptop">
@@ -73,17 +84,19 @@
                     </div>
                 </div>
             </div>
-
-            <div class="carousel-item">
+        
+       <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item d-flex align-items-center">
-                        <video class="leadin-video video-bgv2" muted playsinline>
-                            <source src="/videos/magus.mp4" type="video/mp4">
-                        </video>
+                       <video autoplay muted loop >
+                          <source src="/videos/magus.mp4" type="video/mp4">
+                            <source src="/videos/magus.ogg" type="video/ogg">
+                                      Your browser does not support the video tag.
+                            </video>
                     </div>
                 </div>
             </div>
-
+            
             <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item">
@@ -105,11 +118,17 @@
                 <li data-target="#home_banner" data-slide-to="1"></li>
                 <li data-target="#home_banner" data-slide-to="2"></li>
                 <li data-target="#home_banner" data-slide-to="3"></li>
+<<<<<<< HEAD
                 <li data-target="#home_banner" data-slide-to="4"></li>
 
             </ol> 
 
         </div> 
+=======
+               <li data-target="#home_banner"  data-slide-to="4"></li>
+            </ol>
+        </div>
+>>>>>>> 4c6d6024451aebf0ca2040059a0197b1276e53e4
 </section>
 
 @section('css')
