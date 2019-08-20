@@ -74,7 +74,21 @@ function twitterLinkForCountry( $country ) {
         default:    return "";
     }
 }
+function whatsappLinkForCountry( $country ) {
 
+    switch ( $country ) {
+        case 'in':  return 'https://api.whatsapp.com/send?phone=919840024085';
+       // case 'hk':
+       // case 'sg':
+       // case 'tw':
+       // case 'th':
+       // case 'cn':
+       // case 'ph':
+       // case 'vn':
+       // case 'id':
+        default:    return "";
+    }
+}
 function metaKeywordByCountryAndLanguage( $country, $language ) {
 
     // Default
