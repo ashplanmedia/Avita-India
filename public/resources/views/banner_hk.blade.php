@@ -108,12 +108,12 @@
 
             clearTimeout( imageTimer );
 
-            $(this).find('video')[3].pause();
+            $(this).find('video')[3].play();
 
             var new_video = $(e.relatedTarget).find('video')[3];
 
             if ( new_video ) {
-                new_video.play();
+                new_video.pause();
             } else {
 
                 imageTimer = setTimeout( function( ){
