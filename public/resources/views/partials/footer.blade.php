@@ -11,7 +11,9 @@
                 @php
                     $sns_icons = [ 'facebook' => facebookLinkForCountry($country),
                       'twitter' => twitterLinkForCountry($country),
-                      'instagram' => instagramLinkForCountry($country) ];
+                      'instagram' => instagramLinkForCountry($country),
+                      'whatsapp' => whatsappLinkForCountry($country),
+                      ];
                 @endphp
 
                 @foreach( $sns_icons as $sns_name => $sns_url )
