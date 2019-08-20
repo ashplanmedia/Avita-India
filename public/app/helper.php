@@ -77,7 +77,7 @@ function twitterLinkForCountry( $country ) {
 function whatsappLinkForCountry( $country ) {
 
     switch ( $country ) {
-        case 'in':  return 'https://api.whatsapp.com/send?phone=919840024085';
+        case 'in':  return 'https://api.whatsapp.com/send?phone=917827845054';
        // case 'hk':
        // case 'sg':
        // case 'tw':
