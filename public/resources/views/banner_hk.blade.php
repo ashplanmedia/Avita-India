@@ -58,7 +58,7 @@
         <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item d-flex align-items-center">
-                        <video class="leadin-video video-bgv2" muted playsinline>
+                        <video class="leadin-video video-bgv2" autoplay loop>
                             <source src="/videos/magus.mp4" type="video/mp4">
                         </video>
                         <div class="banner-info mb-5 pb-5 w-100 align-self-end">
