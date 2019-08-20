@@ -55,7 +55,7 @@
                 </a>
                 </div>
             </div>
-    <div class="carousel-item">
+      <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item d-flex align-items-center">
                        <video autoplay muted loop >
@@ -103,7 +103,7 @@
 
             clearTimeout( imageTimer );
 
-            $(this).find('video')[0].pause();
+          <!--- $(this).find('video')[0].pause(); ------>
 
             var new_video = $(e.relatedTarget).find('video')[0];
 
@@ -113,7 +113,7 @@
 
                 imageTimer = setTimeout( function( ){
                     $('#home_banner').carousel('next');
-                }, 5000 );
+                }, 10000 );
 
             }
         }).trigger('init');
