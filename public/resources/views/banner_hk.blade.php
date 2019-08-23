@@ -89,6 +89,7 @@
                 <li data-target="#home_banner" data-slide-to="1"></li>
                 <li data-target="#home_banner" data-slide-to="2"></li>
                 <li data-target="#home_banner" data-slide-to="3"></li>
+                 <li data-target="#home_banner" data-slide-to="4"></li>
             </ol>
         </div>
 </section>
@@ -122,9 +123,9 @@
 
             clearTimeout( imageTimer );
 
-         $(this).find('video')[3].play();
+         $(this).find('video')[4].play();
 
-            var new_video = $(e.relatedTarget).find('video')[3];
+            var new_video = $(e.relatedTarget).find('video')[4];
 
             if ( new_video ) {
                 new_video.play();
