@@ -16,7 +16,7 @@
 
                     <div class="row">
                         <div class="col-sm-6">
-                            <h2 class="contact_us_title">Sales Enquiry :</h2>
+                            <h2 class="contact_us_title">Sales & Corporate Enquiries :</h2>
 
                             <div class="mb-2">+91-7827845054</div>
 
