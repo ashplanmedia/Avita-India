@@ -18,7 +18,7 @@
                         <div class="col-sm-6">
                             <h2 class="contact_us_title">Sales Enquiry :</h2>
 
-                            <div class="mb-2">+91-9840024085</div>
+                            <div class="mb-2">+91-7827845054</div>
 
                             <div class="mb-2"><b>Email :</b><br>
                                 insales@nexstgo.com</div>
