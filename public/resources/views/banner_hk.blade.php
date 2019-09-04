@@ -1,8 +1,6 @@
 <section class="top-nav-padding homepage-banner">
     <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
- 
- 
              
       <div class="carousel-item active">
                 <div class="responsive-block">
@@ -10,13 +8,13 @@
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/Web_Banner.png')"></div>
+                                 style="background-image: url('/images/banner/lifestyle_banner_web1.jpg')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/Web_Banner.png')"></div>
+                                 style="background-image: url('/images/banner/lifestyle_banner_web1.jpg')"></div>
                         @endif
                         <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/Mobile_Banner.png')"></div>
+                             style="background-image: url('/images/banner/lifestyle_banner_mob1.jpg')"></div>
                     </div>
                     </a>
                 </div>
@@ -28,13 +26,13 @@
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/magus_web.jpg')"></div>
+                                 style="background-image: url('/images/banner/lifestyle_banner_web2.jpg')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/magus_web.jpg')"></div>
+                                 style="background-image: url('/images/banner/lifestyle_banner_web2.jpg')"></div>
                         @endif
                         <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/magus_mob.jpg')"></div>
+                             style="background-image: url('/images/banner/lifestyle_banner_mob2.jpg')"></div>
                     </div>
                     </a>
                 </div>
@@ -46,18 +44,19 @@
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/web_banner.jpg')"></div>
+                                 style="background-image: url('/images/banner/lifestyle_banner_web3.jpg')"></div>
                         @else
                             <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/web_banner.jpg')"></div>
+                                 style="background-image: url('/images/banner/lifestyle_banner_web3.jpg')"></div>
                         @endif
                         <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/mob_banner.jpg')"></div>
+                             style="background-image: url('/images/banner/lifestyle_banner_mob3.jpg')"></div>
                     </div>
                 </a>
                 </div>
             </div>
-         <div class="carousel-item">
+       <!----
+       <div class="carousel-item">
                 <div class="responsive-block">
                     <div class="banner-block responsive-item d-flex align-items-center">
                         <video class="leadin-video video-bgv2" controls autoplay>
@@ -66,13 +65,12 @@
                     </div>
                 </div>
             </div>
-
+   ---->
             <ol class="carousel-indicators">
                 <li data-target="#home_banner" data-slide-to="0" class="active"></li>
                 <li data-target="#home_banner" data-slide-to="1"></li>
                 <li data-target="#home_banner" data-slide-to="2"></li>
-                <li data-target="#home_banner" data-slide-to="3"></li>
-            </ol>
+             </ol>
         </div>
 </section>
 
