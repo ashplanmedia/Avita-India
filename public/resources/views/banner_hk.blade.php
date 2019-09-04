@@ -1,9 +1,8 @@
 <section class="top-nav-padding homepage-banner">
     <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
-             
-      <div class="carousel-item active">
-                <div class="responsive-block">
+       <div class="carousel-item active">
+         <div class="responsive-block">
            <a href="/products/liber-new-generation">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
@@ -22,7 +21,7 @@
         
         <div class="carousel-item">
                 <div class="responsive-block">
-                <a href="/product/magus12-2in1-laptop">
+                <a href="/products/liber-new-generation">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
@@ -40,7 +39,7 @@
                            
             <div class="carousel-item">
                 <div class="responsive-block">
-                 <a href="/product/liber12">
+                 <a href="/products/liber-new-generation">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
@@ -55,18 +54,7 @@
                 </a>
                 </div>
             </div>
-       <!----
-       <div class="carousel-item">
-                <div class="responsive-block">
-                    <div class="banner-block responsive-item d-flex align-items-center">
-                        <video class="leadin-video video-bgv2" controls autoplay>
-                            <source src="/videos/magus.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                </div>
-            </div>
-   ---->
-            <ol class="carousel-indicators">
+          <ol class="carousel-indicators">
                 <li data-target="#home_banner" data-slide-to="0" class="active"></li>
                 <li data-target="#home_banner" data-slide-to="1"></li>
                 <li data-target="#home_banner" data-slide-to="2"></li>
