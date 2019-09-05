@@ -3,7 +3,7 @@
         <div class="carousel-inner" role="listbox">
          <div class="carousel-item active">
          <div class="responsive-block">
-           <a href="/products/liber-new-generation">
+           <a href="https://www.instagram.com/p/B1_W1_4A_H5/?igshid=x3ebquju5vsg">
                     <div class="banner-block responsive-item">
                         @if( App::isLocale('en') )
                             <div class="banner-bg hidden-sm-down"
