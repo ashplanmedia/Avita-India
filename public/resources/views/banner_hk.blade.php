@@ -37,10 +37,29 @@
                 </div>
             </div>
                            
-      
+        
+        <div class="carousel-item">
+                <div class="responsive-block">
+                <a href="/products/liber-new-generation">
+                    <div class="banner-block responsive-item">
+                        @if( App::isLocale('en') )
+                            <div class="banner-bg hidden-sm-down"
+                                 style="background-image: url('/images/banner/lifestyle_banner_web3.jpg')"></div>
+                        @else
+                            <div class="banner-bg hidden-sm-down"
+                                 style="background-image: url('/images/banner/lifestyle_banner_web3.jpg')"></div>
+                        @endif
+                        <div class="banner-bg hidden-md-up"
+                             style="background-image: url('/images/banner/lifestyle_banner_mob3.jpg')"></div>
+                    </div>
+                    </a>
+                </div>
+            </div>
+                           
           <ol class="carousel-indicators">
                 <li data-target="#home_banner" data-slide-to="0" class="active"></li>
                 <li data-target="#home_banner" data-slide-to="1"></li>
+              <li data-target="#home_banner" data-slide-to="3"></li>
             </ol>
         </div>
 </section>
