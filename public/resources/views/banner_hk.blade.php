@@ -1,24 +1,7 @@
 <section class="top-nav-padding homepage-banner">
     <div id="home_banner" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="">
         <div class="carousel-inner" role="listbox">
-         <div class="carousel-item active">
-         <div class="responsive-block">
-           <a href="https://www.instagram.com/p/B1_W1_4A_H5/?igshid=x3ebquju5vsg">
-                    <div class="banner-block responsive-item">
-                        @if( App::isLocale('en') )
-                            <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/teachers_day_web.png')"></div>
-                        @else
-                            <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/teachers_day_web.png')"></div>
-                        @endif
-                        <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/teachers_day_mob.png')"></div>
-                    </div>
-                    </a>
-                </div>
-        </div>
-      <div class="carousel-item">
+       <div class="carousel-item active">
          <div class="responsive-block">
            <a href="/products/liber-new-generation">
                     <div class="banner-block responsive-item">
@@ -54,28 +37,10 @@
                 </div>
             </div>
                            
-            <div class="carousel-item">
-                <div class="responsive-block">
-                 <a href="/products/liber-new-generation">
-                    <div class="banner-block responsive-item">
-                        @if( App::isLocale('en') )
-                            <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/lifestyle_banner_web3.jpg')"></div>
-                        @else
-                            <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/lifestyle_banner_web3.jpg')"></div>
-                        @endif
-                        <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/lifestyle_banner_mob3.jpg')"></div>
-                    </div>
-                </a>
-                </div>
-            </div>
+      
           <ol class="carousel-indicators">
                 <li data-target="#home_banner" data-slide-to="0" class="active"></li>
                 <li data-target="#home_banner" data-slide-to="1"></li>
-                <li data-target="#home_banner" data-slide-to="2"></li>
-                <li data-target="#home_banner" data-slide-to="3"></li>
             </ol>
         </div>
 </section>
