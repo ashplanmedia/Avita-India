@@ -40,19 +40,7 @@
         
         <div class="carousel-item">
                 <div class="responsive-block">
-                <a href="/products/liber-new-generation">
-                    <div class="banner-block responsive-item">
-                        @if( App::isLocale('en') )
-                            <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/lifestyle_banner_web3.jpg')"></div>
-                        @else
-                            <div class="banner-bg hidden-sm-down"
-                                 style="background-image: url('/images/banner/lifestyle_banner_web3.jpg')"></div>
-                        @endif
-                        <div class="banner-bg hidden-md-up"
-                             style="background-image: url('/images/banner/lifestyle_banner_mob3.jpg')"></div>
-                    </div>
-                    </a>
+              <iframe width="1280" height="720" src="https://www.youtube.com/embed/ZbfK8DXWrDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
                            
