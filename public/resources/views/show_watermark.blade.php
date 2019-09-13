@@ -1,13 +1,15 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <title>Laravel Add Watermark on Images</title>
-</head>
-<body style="margin-top: 40px; text-align: center;">
+@extends('layouts.app')
+
+@section('title')
+    @lang('title.about_us')
+@stop
+
+@section('content')
+
+<main>
 
 <h1>Product Customization</h1>
 
 <img src="{{$new_image}}" alt="Watermark">
 
-</body>
-</html>
+</main>
