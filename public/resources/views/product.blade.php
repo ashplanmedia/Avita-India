@@ -1,5 +1,11 @@
 @extends('layouts.app')
+
+@section('title')
+    @lang('title.customization')
+@stop
+
 @section('content')
+<main>
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-md-8">
@@ -112,6 +118,6 @@
             </div>
 
     </div>
-
+</main>
 
 @endsection
