@@ -24,6 +24,6 @@ return [
     'MAGUS_spec'    => 'MAGUS 2 in 1 Laptops',
     'Accessories'   => 'UBIQUE Mouse',
     'bhel'          => 'BHEL Offer',    
-
+'customization' => 'Product Customization',
 
 ];
