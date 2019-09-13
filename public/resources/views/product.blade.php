@@ -5,10 +5,10 @@
 @stop
 
 @section('content')
+    <br/>
 
 <main>
     <div class="row justify-content-center">
-    <br/>
            <div class="col-md-8">
                 <div class="card">
                     <div class="card-body">
@@ -118,5 +118,5 @@
                 </div>
 </div>
 </main>
-
+    <br/>
 @endsection
