@@ -15,7 +15,7 @@
 Product Customization
 */
 
-Route::get('/', 'ProductController@index');
+Route::get('/product-customization', 'ProductController@index');
 Route::post('/create','WaterMarkController@textWatermark');
 
 /*Product Customization Ends*/
