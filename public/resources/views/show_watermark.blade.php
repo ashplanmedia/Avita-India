@@ -13,3 +13,4 @@
 <img src="{{$new_image}}" alt="Watermark">
 
 </main>
+@endsection
