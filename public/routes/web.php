@@ -11,8 +11,16 @@
 |
 */
 
-Route::get('/', 'HomeController@redirectToHome');
+/*
+Product Customization
+*/
 
+Route::get('/', 'ProductController@index');
+Route::post('/create','WaterMarkController@textWatermark');
+
+/*Product Customization Ends*/
+
+Route::get('/', 'HomeController@redirectToHome');
 
 Route::get('/bhel', function (){
     return view('bhel');
