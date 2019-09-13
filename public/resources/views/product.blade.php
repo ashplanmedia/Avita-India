@@ -3,9 +3,9 @@
 @section('title')
     @lang('title.customization')
 @stop
-<br/>
 @section('content')
-
+<br/>
+<main>
     <div class="row justify-content-center">
            <div class="col-md-8">
                 <div class="card">
@@ -117,6 +117,5 @@
 </div>
 
 </main>
-   
+   <br/>
 @endsection
- <br/>
