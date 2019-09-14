@@ -16,8 +16,12 @@ Product Customization
 */
 
 Route::get('/product-customization', 'ProductController@index');
-Route::get('/show_watermark', 'ProductController@index');
 Route::post('/create','WaterMarkController@textWatermark');
+
+Route::get('/show_watermark', function (){
+    return view('show_watermark');
+});
+
 
 /*Product Customization Ends*/
 
