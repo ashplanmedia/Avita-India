@@ -10,7 +10,7 @@
            <div class="col-md-8" style="margin-top:50px;">
                 <div class="card">
                     <div class="card-body">
-                        <form method="POST" action="https://avita-india.com/create" style="margin-top: 23px;">
+                        <form method="POST" action="{{ route('show_watermark') }}" style="margin-top: 23px;">
                           
                             <div class="form-group row">
                                 <label for="product_type"  class="col-md-4 col-form-label text-md-right">Color / Pattern </label>
