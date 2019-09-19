@@ -59,6 +59,9 @@
                     <li class="list-inline-item p-1 mr-0">
                         <a href="https://avita-americas.com/" class="pl-5 py-2">America</a>
                     </li>
+                        <li class="list-inline-item p-1 mr-0">
+                        <a href="https://avita.com/uk" class="pl-5 py-2">United Kingdom</a>
+                    </li>
                 </ul>
             </div>
         </div>
